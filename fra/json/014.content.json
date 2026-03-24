@@ -1,0 +1,628 @@
+[
+{
+"content_id": "003480000000000",
+"reference_id": "003480000000000",
+"version": "1.0.2",
+"title": "ξαίνω",
+"media_type": "Text",
+"index_reference": "ξαίνω",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003480000000000\" class=\"lex-lemma\">ξαίνω</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξαίνω</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">verbe</p><div class=\"lex-meaning\" data-id=\"003480001001000\"><p class=\"lex-domains\" id=\"48.1\"><span class=\"lex-entry-code\">48.1</span>  ·  <span class=\"lex-domain\">Activities Involving Cloth</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">peiner la laine</span></span> <span class=\"lex-def\">peigner la laine comme première étape dans la fabrication du fil de laine <sup class=\"fn-ref\" title=\"\">1</sup></span> <span class=\"lex-comments\">ου ξαίνουσιν ουδε νήθουσιν ουδε κοπιωσιν 'ils ne peignent pas la laine, ne filent pas et ne travaillent pas dur' <a href=\"https://ref.ly/Matt6:28\">MAT 6:28</a> (appareil).</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt6:28\">MAT 6:28</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40006028",
+"start_ref_usfm": "MAT 6:28",
+"end_ref": "40006028",
+"end_ref_usfm": "MAT 6:28"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003481000000000",
+"reference_id": "003481000000000",
+"version": "1.0.2",
+"title": "ξενία",
+"media_type": "Text",
+"index_reference": "ξενία",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003481000000000\" class=\"lex-lemma\">ξενία</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξενία</span> (<span class=\"lex-strong\">G3578</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">nom, f.  ·  <span class=\"lex-link\" data-lemma=\"ξενίζω\">ξενίζω</span></p><div class=\"lex-meaning\" data-id=\"003481001001000\"><p class=\"lex-domains\" id=\"7.31\"><span class=\"lex-entry-code\">7.31</span>  ·  <span class=\"lex-domain\">Constructions</span>  ·  <span class=\"lex-subdomain\">Parts and Areas of Buildings</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">chambre d'invité, hébérgement pour invité, endroit où loger</span></span> <span class=\"lex-def\">un lieu de logement temporaire pour une personne éloigné de la maison</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/John28:23\">ACT 28:23</a> · <a href=\"https://ref.ly/Titus1:22\">PHM 1:22</a></p></div><div class=\"lex-meaning\" data-id=\"003481001002000\"><p class=\"lex-domains\" id=\"34.57\"><span class=\"lex-entry-code\">34.57</span>  ·  <span class=\"lex-domain\">Association</span>  ·  <span class=\"lex-subdomain\">Show Hospitality</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">hospitalité</span></span> <span class=\"lex-def\">l'hospitalité envers un étranger, c'est-à-dire une personne qui n'est pas considérée comme un membre de la famille élargie ou un ami proche.</span> <span class=\"lex-comments\">Recevoir un étranger en tant qu'invité est parfois exprimé de manière imagée en disant \" laisser un étranger s'asseoir à sa table \", \" offrir un lit à un étranger \" ou \" laisser un étranger entrer dans sa maison \". |Pour une autre interprétation de ξενία dans <a href=\"https://ref.ly/Titus1:22\">PHM 1:22</a>, voir <a href=\"#7.31\" data-entryCode=\"7.31\" class=\"lex-domain-ref\">7.31</a>.</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Titus1:22\">PHM 1:22</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "44028023",
+"start_ref_usfm": "ACT 28:23",
+"end_ref": "44028023",
+"end_ref_usfm": "ACT 28:23"
+},
+{
+"start_ref": "57001022",
+"start_ref_usfm": "PHM 1:22",
+"end_ref": "57001022",
+"end_ref_usfm": "PHM 1:22"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003482000000000",
+"reference_id": "003482000000000",
+"version": "1.0.2",
+"title": "ξενίζω",
+"media_type": "Text",
+"index_reference": "ξενίζω",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003482000000000\" class=\"lex-lemma\">ξενίζω</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξενίζω</span> (<span class=\"lex-strong\">G3579</span>) — <span class=\"lex-alt-lemmas\">ξενίζομαι</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">verbe  ·  <span class=\"lex-link\" data-lemma=\"ξενία\">ξενία</span> · <span class=\"lex-link\" data-lemma=\"ξενοδοχέω\">ξενοδοχέω</span> · <span class=\"lex-link\" data-lemma=\"ξένος\">ξένος</span> · <span class=\"lex-link\" data-lemma=\"φιλοξενία\">φιλοξενία</span> · <span class=\"lex-link\" data-lemma=\"φιλόξενος\">φιλόξενος</span></p><div class=\"lex-meaning\" data-id=\"003482001001000\"><p class=\"lex-domains\" id=\"34.57\"><span class=\"lex-entry-code\">34.57</span>  ·  <span class=\"lex-domain\">Association</span>  ·  <span class=\"lex-subdomain\">Show Hospitality</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">manifester l'hospitalité, recevoir un étranger comme un invité, hospitalité</span></span> <span class=\"lex-def\">recevoir et manifester l'hospitalité envers un étranger, qui est, quelqu'un qui n'est pas perçu comme un membre d'une grande famille ou un ami proche</span> <span class=\"lex-comments\">Accueillir un étranger en tant qu’invité s’exprime parfois de façon idiomatique: \"laisser un étranger s'asseoir à sa table\", \"offrir un lit à un étranger\" ou \"laisser un étranger entrer dans sa maison\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/John10:6\">ACT 10:6</a> · <a href=\"https://ref.ly/John10:18\">ACT 10:18</a> · <a href=\"https://ref.ly/John10:23\">ACT 10:23</a> · <a href=\"https://ref.ly/John10:32\">ACT 10:32</a> · <a href=\"https://ref.ly/John21:16\">ACT 21:16</a> · <a href=\"https://ref.ly/John28:7\">ACT 28:7</a> · <a href=\"https://ref.ly/Phlm13:2\">HEB 13:2</a></p></div><div class=\"lex-meaning\" data-id=\"003482001002000\"><p class=\"lex-domains\" id=\"25.206\"><span class=\"lex-entry-code\">25.206</span>  ·  <span class=\"lex-domain\">Attitudes et émotions</span>  ·  <span class=\"lex-subdomain\">Surprise, Astonish</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">être surpris</span></span> <span class=\"lex-def\">(comparez <span class=\"lex-link\" data-lemma=\"ξένος:000000\">ξένος</span> ‘inconnu, surprenant’ ’<a href=\"#28.34\" data-entryCode=\"28.34\" class=\"lex-domain-ref\">28.34</a>) pour ressentir un soudain émerveillement inattendu</span> <span class=\"lex-comments\">L’expérience de \"surprise\" peut être exprimée de manière idiomatique dans certaines langues, comme par exemple, \"rester bouche bée\" ou «avoir les yeux écarquillés\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/John17:20\">ACT 17:20</a> · <a href=\"https://ref.ly/Jas4:4\">1PE 4:4</a> · <a href=\"https://ref.ly/Jas4:12\">1PE 4:12</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "44010006",
+"start_ref_usfm": "ACT 10:6",
+"end_ref": "44010006",
+"end_ref_usfm": "ACT 10:6"
+},
+{
+"start_ref": "44010018",
+"start_ref_usfm": "ACT 10:18",
+"end_ref": "44010018",
+"end_ref_usfm": "ACT 10:18"
+},
+{
+"start_ref": "44010023",
+"start_ref_usfm": "ACT 10:23",
+"end_ref": "44010023",
+"end_ref_usfm": "ACT 10:23"
+},
+{
+"start_ref": "44010032",
+"start_ref_usfm": "ACT 10:32",
+"end_ref": "44010032",
+"end_ref_usfm": "ACT 10:32"
+},
+{
+"start_ref": "44021016",
+"start_ref_usfm": "ACT 21:16",
+"end_ref": "44021016",
+"end_ref_usfm": "ACT 21:16"
+},
+{
+"start_ref": "44028007",
+"start_ref_usfm": "ACT 28:7",
+"end_ref": "44028007",
+"end_ref_usfm": "ACT 28:7"
+},
+{
+"start_ref": "58013002",
+"start_ref_usfm": "HEB 13:2",
+"end_ref": "58013002",
+"end_ref_usfm": "HEB 13:2"
+},
+{
+"start_ref": "44017020",
+"start_ref_usfm": "ACT 17:20",
+"end_ref": "44017020",
+"end_ref_usfm": "ACT 17:20"
+},
+{
+"start_ref": "60004004",
+"start_ref_usfm": "1PE 4:4",
+"end_ref": "60004004",
+"end_ref_usfm": "1PE 4:4"
+},
+{
+"start_ref": "60004012",
+"start_ref_usfm": "1PE 4:12",
+"end_ref": "60004012",
+"end_ref_usfm": "1PE 4:12"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003483000000000",
+"reference_id": "003483000000000",
+"version": "1.0.2",
+"title": "ξενοδοχέω",
+"media_type": "Text",
+"index_reference": "ξενοδοχέω",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003483000000000\" class=\"lex-lemma\">ξενοδοχέω</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξενοδοχέω</span> (<span class=\"lex-strong\">G3580</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">verbe</p><div class=\"lex-meaning\" data-id=\"003483001001000\"><p class=\"lex-domains\" id=\"34.57\"><span class=\"lex-entry-code\">34.57</span>  ·  <span class=\"lex-domain\">Association</span>  ·  <span class=\"lex-subdomain\">Show Hospitality</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">faire preuve d'hospitalité</span>, <span class=\"lex-gloss\">recevoir un étranger en tant qu'invité</span>, <span class=\"lex-gloss\">hospitalité</span></span> <span class=\"lex-def\">recevoir et montrer l'hospitalité à un étranger, c'est-à-dire quelqu'un qui n'est pas considéré comme un membre de la famille élargie ou un ami proche</span> <span class=\"lex-comments\">Accueillir un étranger en tant qu’invité s’exprime parfois de façon idiomatique : \"laisser un étranger s'asseoir à sa table\", \"offrir un lit à un étranger\" ou \"laisser un étranger entrer dans sa maison\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/2Thess5:10\">1TI 5:10</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "54005010",
+"start_ref_usfm": "1TI 5:10",
+"end_ref": "54005010",
+"end_ref_usfm": "1TI 5:10"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003484000000000",
+"reference_id": "003484000000000",
+"version": "1.0.2",
+"title": "ξένος",
+"media_type": "Text",
+"index_reference": "ξένος",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003484000000000\" class=\"lex-lemma\">ξένος</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξένος</span> (<span class=\"lex-strong\">G3581</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">adjc.  ·  <span class=\"lex-link\" data-lemma=\"ξενίζω\">ξενίζω</span></p><div class=\"lex-meaning\" data-id=\"003484001001000\"><p class=\"lex-domains\" id=\"28.34\"><span class=\"lex-entry-code\">28.34</span>  ·  <span class=\"lex-domain\">Savoir</span>  ·  <span class=\"lex-subdomain\">Well Known, Clearly Shown, Revealed</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">inconnu</span>, <span class=\"lex-gloss\">inédit</span>, <span class=\"lex-gloss\">inhabituel</span>, <span class=\"lex-gloss\">surprenant</span></span> <span class=\"lex-def\">relatif à ce qui n'était pas connu auparavant et donc inédit et inhabituel</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt27:7\">MAT 27:7</a> · <a href=\"https://ref.ly/John17:18\">ACT 17:18</a> · <a href=\"https://ref.ly/Phlm13:9\">HEB 13:9</a> · <a href=\"https://ref.ly/Jas4:12\">1PE 4:12</a></p></div></div><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">adjc.  ·  <span class=\"lex-link\" data-lemma=\"ξενίζω\">ξενίζω</span></p><div class=\"lex-meaning\" data-id=\"003484002001000\"><p class=\"lex-domains\" id=\"11.73\"><span class=\"lex-entry-code\">11.73</span>  ·  <span class=\"lex-domain\">Groups and Classes of Persons and Members of Such Groups and Classes</span>  ·  <span class=\"lex-subdomain\">Socio-Political</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">étranger</span>, <span class=\"lex-gloss\">inconnu</span></span> <span class=\"lex-def\">personne qui appartient à une groupe socio-politique autre que le groupe de référence</span> <span class=\"lex-comments\">Les termes d'\" inconnu \" ou d'\" étranger \" sont souvent basés sur des différences géographiques ou sur un manque de connaissances préalables. Par exemple, \"J'étais un étranger\" peut être traduit par \"Je venais d'un autre pays\" ou \"Je n'étais connu d'aucun d'entre vous\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt25:35\">MAT 25:35</a> · <a href=\"https://ref.ly/Matt25:38\">MAT 25:38</a> · <a href=\"https://ref.ly/Matt25:43\">MAT 25:43</a> · <a href=\"https://ref.ly/Matt25:44\">MAT 25:44</a> · <a href=\"https://ref.ly/John17:21\">ACT 17:21</a> · <a href=\"https://ref.ly/Gal2:12\">EPH 2:12</a> · <a href=\"https://ref.ly/Gal2:19\">EPH 2:19</a> · <a href=\"https://ref.ly/Phlm11:13\">HEB 11:13</a> · <a href=\"https://ref.ly/2John1:5\">3JN 1:5</a></p></div><div class=\"lex-meaning\" data-id=\"003484002002000\"><p class=\"lex-domains\" id=\"34.60\"><span class=\"lex-entry-code\">34.60</span>  ·  <span class=\"lex-domain\">Association</span>  ·  <span class=\"lex-subdomain\">Show Hospitality</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">hôte</span></span> <span class=\"lex-def\">personne qui fait preuve d'hospitalité pour les visiteurs</span> <span class=\"lex-comments\">Pour traduire \"hôte\", il peut être nécessaire d'employer une phrase, comme par exemple, \"celui qui nous a accueilli et qui a pris soin de nous chez lui\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Acts16:23\">ROM 16:23</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40027007",
+"start_ref_usfm": "MAT 27:7",
+"end_ref": "40027007",
+"end_ref_usfm": "MAT 27:7"
+},
+{
+"start_ref": "44017018",
+"start_ref_usfm": "ACT 17:18",
+"end_ref": "44017018",
+"end_ref_usfm": "ACT 17:18"
+},
+{
+"start_ref": "58013009",
+"start_ref_usfm": "HEB 13:9",
+"end_ref": "58013009",
+"end_ref_usfm": "HEB 13:9"
+},
+{
+"start_ref": "60004012",
+"start_ref_usfm": "1PE 4:12",
+"end_ref": "60004012",
+"end_ref_usfm": "1PE 4:12"
+},
+{
+"start_ref": "40025035",
+"start_ref_usfm": "MAT 25:35",
+"end_ref": "40025035",
+"end_ref_usfm": "MAT 25:35"
+},
+{
+"start_ref": "40025038",
+"start_ref_usfm": "MAT 25:38",
+"end_ref": "40025038",
+"end_ref_usfm": "MAT 25:38"
+},
+{
+"start_ref": "40025043",
+"start_ref_usfm": "MAT 25:43",
+"end_ref": "40025043",
+"end_ref_usfm": "MAT 25:43"
+},
+{
+"start_ref": "40025044",
+"start_ref_usfm": "MAT 25:44",
+"end_ref": "40025044",
+"end_ref_usfm": "MAT 25:44"
+},
+{
+"start_ref": "44017021",
+"start_ref_usfm": "ACT 17:21",
+"end_ref": "44017021",
+"end_ref_usfm": "ACT 17:21"
+},
+{
+"start_ref": "49002012",
+"start_ref_usfm": "EPH 2:12",
+"end_ref": "49002012",
+"end_ref_usfm": "EPH 2:12"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002019",
+"end_ref_usfm": "EPH 2:19"
+},
+{
+"start_ref": "58011013",
+"start_ref_usfm": "HEB 11:13",
+"end_ref": "58011013",
+"end_ref_usfm": "HEB 11:13"
+},
+{
+"start_ref": "64001005",
+"start_ref_usfm": "3JN 1:5",
+"end_ref": "64001005",
+"end_ref_usfm": "3JN 1:5"
+},
+{
+"start_ref": "45016023",
+"start_ref_usfm": "ROM 16:23",
+"end_ref": "45016023",
+"end_ref_usfm": "ROM 16:23"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003485000000000",
+"reference_id": "003485000000000",
+"version": "1.0.2",
+"title": "ξέστης",
+"media_type": "Text",
+"index_reference": "ξέστης",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003485000000000\" class=\"lex-lemma\">ξέστης</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξέστης</span> (<span class=\"lex-strong\">G3582</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">nom, f.</p><div class=\"lex-meaning\" data-id=\"003485001001000\"><p class=\"lex-domains\" id=\"6.126\"><span class=\"lex-entry-code\">6.126</span>  ·  <span class=\"lex-domain\">Artéfacts - Objets historiques</span>  ·  <span class=\"lex-subdomain\">Containers</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">pichet ou bocal</span></span> <span class=\"lex-def\">(un emprunt basé sur le latin sextarius, une mesure romaine égale à un demi-litre, une pinte) une sorte de petit pichet ou bocal</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt7:4\">MRK 7:4</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "41007004",
+"start_ref_usfm": "MRK 7:4",
+"end_ref": "41007004",
+"end_ref_usfm": "MRK 7:4"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003486000000000",
+"reference_id": "003486000000000",
+"version": "1.0.2",
+"title": "ξηραίνω",
+"media_type": "Text",
+"index_reference": "ξηραίνω",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003486000000000\" class=\"lex-lemma\">ξηραίνω</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξηραίνω</span> (<span class=\"lex-strong\">G3583</span>) — <span class=\"lex-alt-lemmas\">ξηραίνομαι</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">verbe  ·  <span class=\"lex-link\" data-lemma=\"ξηρός\">ξηρός</span></p><div class=\"lex-meaning\" data-id=\"003486001001000\"><p class=\"lex-domains\" id=\"79.82\"><span class=\"lex-entry-code\">79.82</span>  ·  <span class=\"lex-domain\">Caractéristiques des objets</span>  ·  <span class=\"lex-subdomain\">Wet, Dry</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">dessécher</span>, <span class=\"lex-gloss\">sécher</span>, <span class=\"lex-gloss\">faner</span></span> <span class=\"lex-def\">faire qu'une chose devienne sèche</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt13:6\">MAT 13:6</a> · <a href=\"https://ref.ly/Matt21:19\">MAT 21:19</a> · <a href=\"https://ref.ly/Matt21:20\">MAT 21:20</a> · <a href=\"https://ref.ly/Mark8:6\">LUK 8:6</a> · <a href=\"https://ref.ly/Heb1:11\">JAS 1:11</a> · <a href=\"https://ref.ly/Jas1:24\">1PE 1:24</a></p></div><div class=\"lex-meaning\" data-id=\"003486001002000\"><p class=\"lex-domains\" id=\"79.81\"><span class=\"lex-entry-code\">79.81</span>  ·  <span class=\"lex-domain\">Caractéristiques des objets</span>  ·  <span class=\"lex-subdomain\">Wet, Dry</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">sécher</span></span> <span class=\"lex-def\">(dérivé de <span class=\"lex-link\" data-lemma=\"ξηρός:000000\">ξηρός</span>[a] \"sec\", <a href=\"#79.80\" data-entryCode=\"79.80\" class=\"lex-domain-ref\">79.80</a>) devenir sec</span> <span class=\"lex-comments\">Il serait peut-être plus approprié, dans un certain nombre de langues, de traduire cette expression de <a href=\"https://ref.ly/Matt5:29\">MRK 5:29</a> comme suit: \"et immédiatement ses saignements menstruels ont cessé\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt4:6\">MRK 4:6</a> · <a href=\"https://ref.ly/Matt5:29\">MRK 5:29</a> · <a href=\"https://ref.ly/Matt11:20\">MRK 11:20</a> · <a href=\"https://ref.ly/Matt11:21\">MRK 11:21</a> · <a href=\"https://ref.ly/Luke15:6\">JHN 15:6</a> · <a href=\"https://ref.ly/Jude16:12\">REV 16:12</a></p></div><div class=\"lex-meaning\" data-id=\"003486001003000\"><p class=\"lex-domains\" id=\"23.198\"><span class=\"lex-entry-code\">23.198</span>  ·  <span class=\"lex-domain\">Processus et états physiologiques</span>  ·  <span class=\"lex-subdomain\">Ripen, Produce Fruit, Bear Seed</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">devenir mûr</span>, <span class=\"lex-gloss\">être mûr</span></span> <span class=\"lex-def\">(dérivé de <span class=\"lex-link\" data-lemma=\"ξηρός:000000\">ξηρός</span>[a] sec, <a href=\"#79.80\" data-entryCode=\"79.80\" class=\"lex-domain-ref\">79.80</a>) devenir mûr, renvoyant au grain qui sèche lors du processus de maturation</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Jude14:15\">REV 14:15</a></p></div><div class=\"lex-meaning\" data-id=\"003486001004000\"><p class=\"lex-domains\" id=\"23.172\"><span class=\"lex-entry-code\">23.172</span>  ·  <span class=\"lex-domain\">Processus et états physiologiques</span>  ·  <span class=\"lex-subdomain\">Sickness, Disease, Weakness</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">être raide</span>, <span class=\"lex-gloss\">être paralysé</span></span> <span class=\"lex-def\">(sens élargi au figuré de ξηραίνομαι[a] \"sécher\", <a href=\"#79.81\" data-entryCode=\"79.81\" class=\"lex-domain-ref\">79.81</a>) devenir raide au point de ne plus pouvoir bouger</span> <span class=\"lex-comments\">Dans certaines langues, on peut exprimer le sens de \"être raide partout» par \"incapable de bouger la moindre partie du corps\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt3:1\">MRK 3:1</a> · <a href=\"https://ref.ly/Matt9:18\">MRK 9:18</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "40013006",
+"start_ref_usfm": "MAT 13:6",
+"end_ref": "40013006",
+"end_ref_usfm": "MAT 13:6"
+},
+{
+"start_ref": "40021019",
+"start_ref_usfm": "MAT 21:19",
+"end_ref": "40021019",
+"end_ref_usfm": "MAT 21:19"
+},
+{
+"start_ref": "40021020",
+"start_ref_usfm": "MAT 21:20",
+"end_ref": "40021020",
+"end_ref_usfm": "MAT 21:20"
+},
+{
+"start_ref": "42008006",
+"start_ref_usfm": "LUK 8:6",
+"end_ref": "42008006",
+"end_ref_usfm": "LUK 8:6"
+},
+{
+"start_ref": "59001011",
+"start_ref_usfm": "JAS 1:11",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "60001024",
+"start_ref_usfm": "1PE 1:24",
+"end_ref": "60001024",
+"end_ref_usfm": "1PE 1:24"
+},
+{
+"start_ref": "41004006",
+"start_ref_usfm": "MRK 4:6",
+"end_ref": "41004006",
+"end_ref_usfm": "MRK 4:6"
+},
+{
+"start_ref": "41005029",
+"start_ref_usfm": "MRK 5:29",
+"end_ref": "41005029",
+"end_ref_usfm": "MRK 5:29"
+},
+{
+"start_ref": "41011020",
+"start_ref_usfm": "MRK 11:20",
+"end_ref": "41011020",
+"end_ref_usfm": "MRK 11:20"
+},
+{
+"start_ref": "41011021",
+"start_ref_usfm": "MRK 11:21",
+"end_ref": "41011021",
+"end_ref_usfm": "MRK 11:21"
+},
+{
+"start_ref": "43015006",
+"start_ref_usfm": "JHN 15:6",
+"end_ref": "43015006",
+"end_ref_usfm": "JHN 15:6"
+},
+{
+"start_ref": "66016012",
+"start_ref_usfm": "REV 16:12",
+"end_ref": "66016012",
+"end_ref_usfm": "REV 16:12"
+},
+{
+"start_ref": "66014015",
+"start_ref_usfm": "REV 14:15",
+"end_ref": "66014015",
+"end_ref_usfm": "REV 14:15"
+},
+{
+"start_ref": "41003001",
+"start_ref_usfm": "MRK 3:1",
+"end_ref": "41003001",
+"end_ref_usfm": "MRK 3:1"
+},
+{
+"start_ref": "41009018",
+"start_ref_usfm": "MRK 9:18",
+"end_ref": "41009018",
+"end_ref_usfm": "MRK 9:18"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003487000000000",
+"reference_id": "003487000000000",
+"version": "1.0.2",
+"title": "ξηρός",
+"media_type": "Text",
+"index_reference": "ξηρός",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003487000000000\" class=\"lex-lemma\">ξηρός</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξηρός</span> (<span class=\"lex-strong\">G3584</span>) — <span class=\"lex-alt-lemmas\">ξηρά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">adjc.  ·  <span class=\"lex-link\" data-lemma=\"ξηραίνω\">ξηραίνω</span></p><div class=\"lex-meaning\" data-id=\"003487001001000\"><p class=\"lex-domains\" id=\"79.80\"><span class=\"lex-entry-code\">79.80</span>  ·  <span class=\"lex-domain\">Caractéristiques des objets</span>  ·  <span class=\"lex-subdomain\">Wet, Dry</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">sec</span>, <span class=\"lex-gloss\">flétri</span></span> <span class=\"lex-def\">relatif à ce qui est sec</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Mark23:31\">LUK 23:31</a> · <a href=\"https://ref.ly/Phlm11:29\">HEB 11:29</a></p></div><div class=\"lex-meaning\" data-id=\"003487001002000\"><p class=\"lex-domains\" id=\"23.173\"><span class=\"lex-entry-code\">23.173</span>  ·  <span class=\"lex-domain\">Processus et états physiologiques</span>  ·  <span class=\"lex-subdomain\">Sickness, Disease, Weakness</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">atrophié</span>, <span class=\"lex-gloss\">paralysé</span></span> <span class=\"lex-def\">(sens élargi au figuré de <span class=\"lex-link\" data-lemma=\"ξηρός:000000\">ξηρός</span>[a] \"sec, flétri\", <a href=\"#79.80\" data-entryCode=\"79.80\" class=\"lex-domain-ref\">79.80</a>) relatif à une partie du corps qui est réduite, atrophiée et donc immobilisée</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt12:10\">MAT 12:10</a> · <a href=\"https://ref.ly/Matt3:3\">MRK 3:3</a> · <a href=\"https://ref.ly/Mark6:6\">LUK 6:6</a> · <a href=\"https://ref.ly/Mark6:8\">LUK 6:8</a> · <a href=\"https://ref.ly/Luke5:3\">JHN 5:3</a></p></div><div class=\"lex-meaning\" data-id=\"003487001003000\"><p class=\"lex-domains\" id=\"1.60\"><span class=\"lex-entry-code\">1.60</span>  ·  <span class=\"lex-domain\">Objets et caractéristiques géographiques</span>  ·  <span class=\"lex-subdomain\">Land in Contrast With the Sea</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">terre</span></span> <span class=\"lex-def\">terre sèche, par contraste avec la mer</span> <span class=\"lex-comments\">Dans un certain nombre de langues, une distinction claire est faite entre les termes qui désignent la terre par opposition à l'eau et ceux qui désignent la terre cultivée. Même en français, le terme habituel pour désigner une terre proche de l'eau est \" rive \" ou \" côte \", et on peut donc traduire <a href=\"https://ref.ly/Matt14:24\">MAT 14:24</a> par \" le bateau était déjà loin de la rive \". De même, dans <a href=\"https://ref.ly/John27:27\">ACT 27:27</a>, on peut traduire \"nous nous rapprochions du rivage\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt23:15\">MAT 23:15</a> · <a href=\"https://ref.ly/Phlm11:29\">HEB 11:29</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "42023031",
+"start_ref_usfm": "LUK 23:31",
+"end_ref": "42023031",
+"end_ref_usfm": "LUK 23:31"
+},
+{
+"start_ref": "58011029",
+"start_ref_usfm": "HEB 11:29",
+"end_ref": "58011029",
+"end_ref_usfm": "HEB 11:29"
+},
+{
+"start_ref": "40012010",
+"start_ref_usfm": "MAT 12:10",
+"end_ref": "40012010",
+"end_ref_usfm": "MAT 12:10"
+},
+{
+"start_ref": "41003003",
+"start_ref_usfm": "MRK 3:3",
+"end_ref": "41003003",
+"end_ref_usfm": "MRK 3:3"
+},
+{
+"start_ref": "42006006",
+"start_ref_usfm": "LUK 6:6",
+"end_ref": "42006006",
+"end_ref_usfm": "LUK 6:6"
+},
+{
+"start_ref": "42006008",
+"start_ref_usfm": "LUK 6:8",
+"end_ref": "42006008",
+"end_ref_usfm": "LUK 6:8"
+},
+{
+"start_ref": "43005003",
+"start_ref_usfm": "JHN 5:3",
+"end_ref": "43005003",
+"end_ref_usfm": "JHN 5:3"
+},
+{
+"start_ref": "40023015",
+"start_ref_usfm": "MAT 23:15",
+"end_ref": "40023015",
+"end_ref_usfm": "MAT 23:15"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003488000000000",
+"reference_id": "003488000000000",
+"version": "1.0.2",
+"title": "ξύλινος",
+"media_type": "Text",
+"index_reference": "ξύλινος",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003488000000000\" class=\"lex-lemma\">ξύλινος</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξύλινος</span> (<span class=\"lex-strong\">G3585</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">adjc.  ·  <span class=\"lex-link\" data-lemma=\"ξύλον\">ξύλον</span></p><div class=\"lex-meaning\" data-id=\"003488001001000\"><p class=\"lex-domains\" id=\"3.62\"><span class=\"lex-entry-code\">3.62</span>  ·  <span class=\"lex-domain\">Plantes</span>  ·  <span class=\"lex-subdomain\">Wood and Wood Products</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">de bois, en bois</span></span> <span class=\"lex-def\">(dérivé de <span class=\"lex-link\" data-lemma=\"ξύλον:000000\">ξύλον</span>[a]  \"bois\" <a href=\"#3.60\" data-entryCode=\"3.60\" class=\"lex-domain-ref\">3.60</a>) relatif à être fait ou être constitué de bois</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/1Tim2:20\">2TI 2:20</a> · <a href=\"https://ref.ly/Jude9:20\">REV 9:20</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "55002020",
+"start_ref_usfm": "2TI 2:20",
+"end_ref": "55002020",
+"end_ref_usfm": "2TI 2:20"
+},
+{
+"start_ref": "66009020",
+"start_ref_usfm": "REV 9:20",
+"end_ref": "66009020",
+"end_ref_usfm": "REV 9:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003489000000000",
+"reference_id": "003489000000000",
+"version": "1.0.2",
+"title": "ξύλον",
+"media_type": "Text",
+"index_reference": "ξύλον",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003489000000000\" class=\"lex-lemma\">ξύλον</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξύλον</span> (<span class=\"lex-strong\">G3586</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">nom, n.  ·  <span class=\"lex-link\" data-lemma=\"ξύλινος\">ξύλινος</span></p><div class=\"lex-meaning\" data-id=\"003489001001000\"><p class=\"lex-domains\" id=\"3.60\"><span class=\"lex-entry-code\">3.60</span>  ·  <span class=\"lex-domain\">Plantes</span>  ·  <span class=\"lex-subdomain\">Wood and Wood Products</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">bois</span></span> <span class=\"lex-def\">bois en tant que matière</span> <span class=\"lex-comments\">Un certain nombre de langues font une distinction claire entre le bois en tant que substance utilisée dans les créations et les constructions et le bois utilisé pour le chauffage ou la cuisson. Une autre distinction peut être faite entre le bois durable (qui n'est pas facilement sujet à la pourriture ou aux effets des termites et des rongeurs) et le bois moins durable et donc relativement médiocre.</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Rom3:12\">1CO 3:12</a> · <a href=\"https://ref.ly/Jude18:12\">REV 18:12</a> · <a href=\"https://ref.ly/Jude18:12\">REV 18:12</a></p></div><div class=\"lex-meaning\" data-id=\"003489001002000\"><p class=\"lex-domains\" id=\"3.61\"><span class=\"lex-entry-code\">3.61</span>  ·  <span class=\"lex-domain\">Plantes</span>  ·  <span class=\"lex-subdomain\">Wood and Wood Products</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">bois (de chauffage)</span></span> <span class=\"lex-def\">bois en tant que matiériau utilisé pour se chauffer en le brûlant</span> <span class=\"lex-comments\"><span class=\"lex-link\" data-lemma=\"ξύλον:000000\">ξύλον</span> dans <a href=\"https://ref.ly/Mark23:31\">LUK 23:31</a> peut également être interprété comme un arbre vert vivant (voir <a href=\"#3.4\" data-entryCode=\"3.4\" class=\"lex-domain-ref\">3.4</a>). Si l'on suppose que le sens ici est \" bois de chauffage \", il peut être nécessaire de traduire \" bois qui n'a pas eu l'occasion de sécher \" ou \" bois encore vert \" ou \" ... qui est encore humide de sève \".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Mark23:31\">LUK 23:31</a></p></div><div class=\"lex-meaning\" data-id=\"003489001003000\"><p class=\"lex-domains\" id=\"3.4\"><span class=\"lex-entry-code\">3.4</span>  ·  <span class=\"lex-domain\">Plantes</span>  ·  <span class=\"lex-subdomain\">Trees</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">arbre</span></span> <span class=\"lex-def\">grande plante pérenne, ayant généralement une souche centrale, appelée tronc sur lequel poussent des branches auxiliaires</span> <span class=\"lex-comments\">Il est également possible de comprendre ξύλον dans <a href=\"https://ref.ly/Mark23:31\">LUK 23:31</a> comme 'bois de chauffage'. On peut donc traduire la première partie de cette phrase conditionnelle par \"s'ils font ces choses à du bois de chauffage qui a été récemment coupé\" ou \"s'ils font ces choses à du bois de chauffage qui n'a pas séché\" (voir <a href=\"#3.61\" data-entryCode=\"3.61\" class=\"lex-domain-ref\">3.61</a>).|Dans <a href=\"https://ref.ly/Jude2:7\">REV 2:7</a> et <a href=\"https://ref.ly/Jude22:2\">REV 22:2</a> ξύλον τῆς ζωῆς 'arbre de vie' peut entraîner certaines complications si le passage est traduit plus ou moins littéralement 'je lui donnerai à manger de l'arbre de vie'. Dans certaines langues, une traduction littérale signifierait \"ronger l'arbre de vie\", c'est-à-dire manger le bois ou l'écorce. Il peut donc être nécessaire de traduire \"manger le fruit de l'arbre de vie\" ou \"... le fruit de l'arbre qui donne la vie\" ou \"... qui fait vivre\".</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Mark23:31\">LUK 23:31</a> · <a href=\"https://ref.ly/2Cor3:13\">GAL 3:13</a> · <a href=\"https://ref.ly/Jude2:7\">REV 2:7</a> · <a href=\"https://ref.ly/Jude22:2\">REV 22:2</a> · <a href=\"https://ref.ly/Jude22:2\">REV 22:2</a> · <a href=\"https://ref.ly/Jude22:14\">REV 22:14</a> · <a href=\"https://ref.ly/Jude22:19\">REV 22:19</a></p></div><div class=\"lex-meaning\" data-id=\"003489001004000\"><p class=\"lex-domains\" id=\"6.31\"><span class=\"lex-entry-code\">6.31</span>  ·  <span class=\"lex-domain\">Artéfacts - Objets historiques</span>  ·  <span class=\"lex-subdomain\">Weapons and Armor</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">bâton</span></span> <span class=\"lex-def\">lourd bâton utilisé au combat</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Matt26:47\">MAT 26:47</a> · <a href=\"https://ref.ly/Matt26:55\">MAT 26:55</a> · <a href=\"https://ref.ly/Matt14:43\">MRK 14:43</a> · <a href=\"https://ref.ly/Matt14:48\">MRK 14:48</a> · <a href=\"https://ref.ly/Mark22:52\">LUK 22:52</a></p></div><div class=\"lex-meaning\" data-id=\"003489001005000\"><p class=\"lex-domains\" id=\"6.21\"><span class=\"lex-entry-code\">6.21</span>  ·  <span class=\"lex-domain\">Artéfacts - Objets historiques</span>  ·  <span class=\"lex-subdomain\">Instruments Used in Binding and Fastening</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">entraves</span></span> <span class=\"lex-def\">instrument composé de lourds blocs de bois dans lesquels on plaçait les jambes pour ensuite les attacher solidement</span> <span class=\"lex-comments\">Les entraves étaient utilisées principalement comme un instrument d'emprisonnement, mais aussi comme un moyen de punition.</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/John16:24\">ACT 16:24</a></p></div><div class=\"lex-meaning\" data-id=\"003489001006000\"><p class=\"lex-domains\" id=\"6.28\"><span class=\"lex-entry-code\">6.28</span>  ·  <span class=\"lex-domain\">Artéfacts - Objets historiques</span>  ·  <span class=\"lex-subdomain\">Instruments Used in Punishment and Execution</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">croix</span></span> <span class=\"lex-def\">(sens élargi au figuré de <span class=\"lex-link\" data-lemma=\"ξύλον:000000\">ξύλον</span>[a] 'bois', <a href=\"#3.60\" data-entryCode=\"3.60\" class=\"lex-domain-ref\">3.60</a>) instrument de supplice.</span> <span class=\"lex-comments\">Hors du NT ξύλον[f] désigne souvent la potence, mais pour le NT dans les cas parlant de la peine capitale, la mention renvoie à la croix sur laquelle Jésus a été crucifié</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/John5:30\">ACT 5:30</a> · <a href=\"https://ref.ly/John10:39\">ACT 10:39</a> · <a href=\"https://ref.ly/John13:29\">ACT 13:29</a> · <a href=\"https://ref.ly/Jas2:24\">1PE 2:24</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "46003012",
+"start_ref_usfm": "1CO 3:12",
+"end_ref": "46003012",
+"end_ref_usfm": "1CO 3:12"
+},
+{
+"start_ref": "66018012",
+"start_ref_usfm": "REV 18:12",
+"end_ref": "66018012",
+"end_ref_usfm": "REV 18:12"
+},
+{
+"start_ref": "42023031",
+"start_ref_usfm": "LUK 23:31",
+"end_ref": "42023031",
+"end_ref_usfm": "LUK 23:31"
+},
+{
+"start_ref": "48003013",
+"start_ref_usfm": "GAL 3:13",
+"end_ref": "48003013",
+"end_ref_usfm": "GAL 3:13"
+},
+{
+"start_ref": "66002007",
+"start_ref_usfm": "REV 2:7",
+"end_ref": "66002007",
+"end_ref_usfm": "REV 2:7"
+},
+{
+"start_ref": "66022002",
+"start_ref_usfm": "REV 22:2",
+"end_ref": "66022002",
+"end_ref_usfm": "REV 22:2"
+},
+{
+"start_ref": "66022014",
+"start_ref_usfm": "REV 22:14",
+"end_ref": "66022014",
+"end_ref_usfm": "REV 22:14"
+},
+{
+"start_ref": "66022019",
+"start_ref_usfm": "REV 22:19",
+"end_ref": "66022019",
+"end_ref_usfm": "REV 22:19"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026047",
+"end_ref_usfm": "MAT 26:47"
+},
+{
+"start_ref": "40026055",
+"start_ref_usfm": "MAT 26:55",
+"end_ref": "40026055",
+"end_ref_usfm": "MAT 26:55"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014043",
+"end_ref_usfm": "MRK 14:43"
+},
+{
+"start_ref": "41014048",
+"start_ref_usfm": "MRK 14:48",
+"end_ref": "41014048",
+"end_ref_usfm": "MRK 14:48"
+},
+{
+"start_ref": "42022052",
+"start_ref_usfm": "LUK 22:52",
+"end_ref": "42022052",
+"end_ref_usfm": "LUK 22:52"
+},
+{
+"start_ref": "44016024",
+"start_ref_usfm": "ACT 16:24",
+"end_ref": "44016024",
+"end_ref_usfm": "ACT 16:24"
+},
+{
+"start_ref": "44005030",
+"start_ref_usfm": "ACT 5:30",
+"end_ref": "44005030",
+"end_ref_usfm": "ACT 5:30"
+},
+{
+"start_ref": "44010039",
+"start_ref_usfm": "ACT 10:39",
+"end_ref": "44010039",
+"end_ref_usfm": "ACT 10:39"
+},
+{
+"start_ref": "44013029",
+"start_ref_usfm": "ACT 13:29",
+"end_ref": "44013029",
+"end_ref_usfm": "ACT 13:29"
+},
+{
+"start_ref": "60002024",
+"start_ref_usfm": "1PE 2:24",
+"end_ref": "60002024",
+"end_ref_usfm": "1PE 2:24"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "003490000000000",
+"reference_id": "003490000000000",
+"version": "1.0.2",
+"title": "ξυράω",
+"media_type": "Text",
+"index_reference": "ξυράω",
+"language": "fra",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"003490000000000\" class=\"lex-lemma\">ξυράω</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">ξυράω</span> (<span class=\"lex-strong\">G3587</span>) — <span class=\"lex-alt-lemmas\">ξυράομαι</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">verbe</p><div class=\"lex-meaning\" data-id=\"003490001001000\"><p class=\"lex-domains\" id=\"19.24\"><span class=\"lex-entry-code\">19.24</span>  ·  <span class=\"lex-domain\">Impact physique</span>  ·  <span class=\"lex-subdomain\">Pierce, Cut</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">raser</span></span> <span class=\"lex-def\">raser la tête ou barbe</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/John21:24\">ACT 21:24</a> · <a href=\"https://ref.ly/Rom11:5\">1CO 11:5</a> · <a href=\"https://ref.ly/Rom11:6\">1CO 11:6</a></p></div></div>",
+"associations": {
+"passage": [
+{
+"start_ref": "44021024",
+"start_ref_usfm": "ACT 21:24",
+"end_ref": "44021024",
+"end_ref_usfm": "ACT 21:24"
+},
+{
+"start_ref": "46011005",
+"start_ref_usfm": "1CO 11:5",
+"end_ref": "46011005",
+"end_ref_usfm": "1CO 11:5"
+},
+{
+"start_ref": "46011006",
+"start_ref_usfm": "1CO 11:6",
+"end_ref": "46011006",
+"end_ref_usfm": "1CO 11:6"
+}
+],
+"resource": []
+}
+}
+]
