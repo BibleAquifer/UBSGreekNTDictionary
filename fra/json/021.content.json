@@ -2,7 +2,7 @@
 {
 "content_id": "005205000000000",
 "reference_id": "005205000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάγος",
 "media_type": "Text",
 "index_reference": "φάγος",
@@ -24,13 +24,14 @@
 "end_ref_usfm": "LUK 7:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005206000000000",
 "reference_id": "005206000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φαιλόνης",
 "media_type": "Text",
 "index_reference": "φαιλόνης",
@@ -46,13 +47,14 @@
 "end_ref_usfm": "2TI 4:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005207000000000",
 "reference_id": "005207000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φαίνω",
 "media_type": "Text",
 "index_reference": "φαίνω",
@@ -248,13 +250,14 @@
 "end_ref_usfm": "2CO 13:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005208000000000",
 "reference_id": "005208000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φάλεκ",
 "media_type": "Text",
 "index_reference": "φάλεκ",
@@ -270,13 +273,14 @@
 "end_ref_usfm": "LUK 3:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005209000000000",
 "reference_id": "005209000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φανερός",
 "media_type": "Text",
 "index_reference": "φανερός",
@@ -382,13 +386,14 @@
 "end_ref_usfm": "1JN 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005210000000000",
 "reference_id": "005210000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φανερόω",
 "media_type": "Text",
 "index_reference": "φανερόω",
@@ -656,13 +661,14 @@
 "end_ref_usfm": "1JN 4:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005211000000000",
 "reference_id": "005211000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φανερῶς",
 "media_type": "Text",
 "index_reference": "φανερῶς",
@@ -690,13 +696,14 @@
 "end_ref_usfm": "ACT 10:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005212000000000",
 "reference_id": "005212000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φανέρωσις",
 "media_type": "Text",
 "index_reference": "φανέρωσις",
@@ -718,13 +725,14 @@
 "end_ref_usfm": "2CO 4:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005213000000000",
 "reference_id": "005213000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φανός",
 "media_type": "Text",
 "index_reference": "φανός",
@@ -740,13 +748,14 @@
 "end_ref_usfm": "JHN 18:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005214000000000",
 "reference_id": "005214000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φανουήλ",
 "media_type": "Text",
 "index_reference": "φανουήλ",
@@ -762,13 +771,22 @@
 "end_ref_usfm": "LUK 2:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Phanuel",
+"type": "person",
+"confidence": 0.8365,
+"match_method": "embedding",
+"preferred_label": "Phanuel"
+}
+]
 }
 },
 {
 "content_id": "005215000000000",
 "reference_id": "005215000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φαντάζω",
 "media_type": "Text",
 "index_reference": "φαντάζω",
@@ -784,13 +802,14 @@
 "end_ref_usfm": "HEB 12:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005216000000000",
 "reference_id": "005216000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φαντασία",
 "media_type": "Text",
 "index_reference": "φαντασία",
@@ -806,13 +825,14 @@
 "end_ref_usfm": "ACT 25:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005217000000000",
 "reference_id": "005217000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάντασμα",
 "media_type": "Text",
 "index_reference": "φάντασμα",
@@ -834,13 +854,14 @@
 "end_ref_usfm": "MRK 6:49"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005218000000000",
 "reference_id": "005218000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάραγξ",
 "media_type": "Text",
 "index_reference": "φάραγξ",
@@ -856,13 +877,14 @@
 "end_ref_usfm": "LUK 3:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005219000000000",
 "reference_id": "005219000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φαραώ",
 "media_type": "Text",
 "index_reference": "φαραώ",
@@ -902,13 +924,14 @@
 "end_ref_usfm": "HEB 11:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005220000000000",
 "reference_id": "005220000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φάρες",
 "media_type": "Text",
 "index_reference": "φάρες",
@@ -930,13 +953,14 @@
 "end_ref_usfm": "LUK 3:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005221000000000",
 "reference_id": "005221000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φαρισαῖος",
 "media_type": "Text",
 "index_reference": "φαρισαῖος",
@@ -1498,13 +1522,14 @@
 "end_ref_usfm": "PHP 3:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005222000000000",
 "reference_id": "005222000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φαρμακεία",
 "media_type": "Text",
 "index_reference": "φαρμακεία",
@@ -1526,13 +1551,14 @@
 "end_ref_usfm": "REV 18:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005223000000000",
 "reference_id": "005223000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάρμακον",
 "media_type": "Text",
 "index_reference": "φάρμακον",
@@ -1548,13 +1574,14 @@
 "end_ref_usfm": "REV 9:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005224000000000",
 "reference_id": "005224000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάρμακος",
 "media_type": "Text",
 "index_reference": "φάρμακος",
@@ -1576,13 +1603,14 @@
 "end_ref_usfm": "REV 22:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005225000000000",
 "reference_id": "005225000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάσις",
 "media_type": "Text",
 "index_reference": "φάσις",
@@ -1598,13 +1626,14 @@
 "end_ref_usfm": "ACT 21:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005226000000000",
 "reference_id": "005226000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάσκω",
 "media_type": "Text",
 "index_reference": "φάσκω",
@@ -1632,13 +1661,14 @@
 "end_ref_usfm": "ROM 1:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005227000000000",
 "reference_id": "005227000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φάτνη",
 "media_type": "Text",
 "index_reference": "φάτνη",
@@ -1672,13 +1702,14 @@
 "end_ref_usfm": "LUK 13:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005228000000000",
 "reference_id": "005228000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φαῦλος",
 "media_type": "Text",
 "index_reference": "φαῦλος",
@@ -1724,13 +1755,14 @@
 "end_ref_usfm": "JAS 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005229000000000",
 "reference_id": "005229000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φέγγος",
 "media_type": "Text",
 "index_reference": "φέγγος",
@@ -1752,13 +1784,14 @@
 "end_ref_usfm": "MRK 13:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005230000000000",
 "reference_id": "005230000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φείδομαι",
 "media_type": "Text",
 "index_reference": "φείδομαι",
@@ -1822,13 +1855,14 @@
 "end_ref_usfm": "2CO 12:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005231000000000",
 "reference_id": "005231000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φειδομένως",
 "media_type": "Text",
 "index_reference": "φειδομένως",
@@ -1844,13 +1878,14 @@
 "end_ref_usfm": "2CO 9:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005232000000000",
 "reference_id": "005232000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φέρω",
 "media_type": "Text",
 "index_reference": "φέρω",
@@ -2220,13 +2255,14 @@
 "end_ref_usfm": "HEB 6:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005233000000000",
 "reference_id": "005233000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φεύγω",
 "media_type": "Text",
 "index_reference": "φεύγω",
@@ -2410,13 +2446,14 @@
 "end_ref_usfm": "2TI 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005234000000000",
 "reference_id": "005234000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φῆλιξ",
 "media_type": "Text",
 "index_reference": "φῆλιξ",
@@ -2474,13 +2511,22 @@
 "end_ref_usfm": "ACT 25:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Felix",
+"type": "person",
+"confidence": 0.8292,
+"match_method": "embedding",
+"preferred_label": "Félix"
+}
+]
 }
 },
 {
 "content_id": "005235000000000",
 "reference_id": "005235000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φήμη",
 "media_type": "Text",
 "index_reference": "φήμη",
@@ -2502,13 +2548,14 @@
 "end_ref_usfm": "LUK 4:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005236000000000",
 "reference_id": "005236000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φημί",
 "media_type": "Text",
 "index_reference": "φημί",
@@ -2902,13 +2949,14 @@
 "end_ref_usfm": "1CO 10:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005237000000000",
 "reference_id": "005237000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φῆστος",
 "media_type": "Text",
 "index_reference": "φῆστος",
@@ -2996,13 +3044,14 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005238000000000",
 "reference_id": "005238000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθάνω",
 "media_type": "Text",
 "index_reference": "φθάνω",
@@ -3054,13 +3103,14 @@
 "end_ref_usfm": "1TH 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005239000000000",
 "reference_id": "005239000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθαρτός",
 "media_type": "Text",
 "index_reference": "φθαρτός",
@@ -3106,13 +3156,14 @@
 "end_ref_usfm": "1PE 1:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005240000000000",
 "reference_id": "005240000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθέγγομαι",
 "media_type": "Text",
 "index_reference": "φθέγγομαι",
@@ -3140,13 +3191,14 @@
 "end_ref_usfm": "2PE 2:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005241000000000",
 "reference_id": "005241000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθείρω",
 "media_type": "Text",
 "index_reference": "φθείρω",
@@ -3204,13 +3256,14 @@
 "end_ref_usfm": "REV 19:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005242000000000",
 "reference_id": "005242000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθινοπωρινός",
 "media_type": "Text",
 "index_reference": "φθινοπωρινός",
@@ -3226,13 +3279,14 @@
 "end_ref_usfm": "JUD 1:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005243000000000",
 "reference_id": "005243000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθόγγος",
 "media_type": "Text",
 "index_reference": "φθόγγος",
@@ -3254,13 +3308,14 @@
 "end_ref_usfm": "ROM 10:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005244000000000",
 "reference_id": "005244000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθονέω",
 "media_type": "Text",
 "index_reference": "φθονέω",
@@ -3276,13 +3331,14 @@
 "end_ref_usfm": "GAL 5:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005245000000000",
 "reference_id": "005245000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθόνος",
 "media_type": "Text",
 "index_reference": "φθόνος",
@@ -3346,13 +3402,14 @@
 "end_ref_usfm": "1PE 2:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005246000000000",
 "reference_id": "005246000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φθορά",
 "media_type": "Text",
 "index_reference": "φθορά",
@@ -3410,13 +3467,14 @@
 "end_ref_usfm": "2PE 2:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005247000000000",
 "reference_id": "005247000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιάλη",
 "media_type": "Text",
 "index_reference": "φιάλη",
@@ -3498,13 +3556,14 @@
 "end_ref_usfm": "REV 21:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005248000000000",
 "reference_id": "005248000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλάγαθος",
 "media_type": "Text",
 "index_reference": "φιλάγαθος",
@@ -3520,13 +3579,14 @@
 "end_ref_usfm": "TIT 1:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005249000000000",
 "reference_id": "005249000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φιλαδέλφεια",
 "media_type": "Text",
 "index_reference": "φιλαδέλφεια",
@@ -3548,13 +3608,22 @@
 "end_ref_usfm": "REV 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Philadelphia",
+"type": "place",
+"confidence": 0.8091,
+"match_method": "embedding",
+"preferred_label": "Philadelphie"
+}
+]
 }
 },
 {
 "content_id": "005250000000000",
 "reference_id": "005250000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλαδελφία",
 "media_type": "Text",
 "index_reference": "φιλαδελφία",
@@ -3594,13 +3663,22 @@
 "end_ref_usfm": "2PE 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Friendship",
+"type": "keyterm",
+"confidence": 0.8089,
+"match_method": "embedding",
+"preferred_label": "amour"
+}
+]
 }
 },
 {
 "content_id": "005251000000000",
 "reference_id": "005251000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλάδελφος",
 "media_type": "Text",
 "index_reference": "φιλάδελφος",
@@ -3616,13 +3694,14 @@
 "end_ref_usfm": "1PE 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005252000000000",
 "reference_id": "005252000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φίλανδρος",
 "media_type": "Text",
 "index_reference": "φίλανδρος",
@@ -3638,13 +3717,14 @@
 "end_ref_usfm": "TIT 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005253000000000",
 "reference_id": "005253000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλανθρωπία",
 "media_type": "Text",
 "index_reference": "φιλανθρωπία",
@@ -3666,13 +3746,14 @@
 "end_ref_usfm": "ACT 28:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005254000000000",
 "reference_id": "005254000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλανθρώπως",
 "media_type": "Text",
 "index_reference": "φιλανθρώπως",
@@ -3688,13 +3769,14 @@
 "end_ref_usfm": "ACT 27:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005255000000000",
 "reference_id": "005255000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλαργυρία",
 "media_type": "Text",
 "index_reference": "φιλαργυρία",
@@ -3710,13 +3792,14 @@
 "end_ref_usfm": "1TI 6:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005256000000000",
 "reference_id": "005256000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλάργυρος",
 "media_type": "Text",
 "index_reference": "φιλάργυρος",
@@ -3738,13 +3821,14 @@
 "end_ref_usfm": "2TI 3:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005257000000000",
 "reference_id": "005257000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φίλαυτος",
 "media_type": "Text",
 "index_reference": "φίλαυτος",
@@ -3760,13 +3844,14 @@
 "end_ref_usfm": "2TI 3:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005258000000000",
 "reference_id": "005258000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλέω",
 "media_type": "Text",
 "index_reference": "φιλέω",
@@ -3902,13 +3987,14 @@
 "end_ref_usfm": "LUK 22:47"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005259000000000",
 "reference_id": "005259000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλήδονος",
 "media_type": "Text",
 "index_reference": "φιλήδονος",
@@ -3924,13 +4010,14 @@
 "end_ref_usfm": "2TI 3:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005260000000000",
 "reference_id": "005260000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φίλημα",
 "media_type": "Text",
 "index_reference": "φίλημα",
@@ -3982,13 +4069,14 @@
 "end_ref_usfm": "1PE 5:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005261000000000",
 "reference_id": "005261000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φιλήμων",
 "media_type": "Text",
 "index_reference": "φιλήμων",
@@ -4004,13 +4092,14 @@
 "end_ref_usfm": "PHM 1:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005262000000000",
 "reference_id": "005262000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φίλητος",
 "media_type": "Text",
 "index_reference": "φίλητος",
@@ -4026,13 +4115,14 @@
 "end_ref_usfm": "2TI 2:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005263000000000",
 "reference_id": "005263000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλία",
 "media_type": "Text",
 "index_reference": "φιλία",
@@ -4048,13 +4138,14 @@
 "end_ref_usfm": "JAS 4:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005264000000000",
 "reference_id": "005264000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φιλιππήσιος",
 "media_type": "Text",
 "index_reference": "φιλιππήσιος",
@@ -4070,13 +4161,22 @@
 "end_ref_usfm": "PHP 4:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Philippi",
+"type": "group",
+"confidence": 0.8537,
+"match_method": "embedding",
+"preferred_label": "un Philippien"
+}
+]
 }
 },
 {
 "content_id": "005265000000000",
 "reference_id": "005265000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φίλιπποι",
 "media_type": "Text",
 "index_reference": "φίλιπποι",
@@ -4110,13 +4210,22 @@
 "end_ref_usfm": "1TH 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Philippi",
+"type": "place",
+"confidence": 0.8629,
+"match_method": "embedding",
+"preferred_label": "Philippes"
+}
+]
 }
 },
 {
 "content_id": "005266000000000",
 "reference_id": "005266000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φίλιππος",
 "media_type": "Text",
 "index_reference": "φίλιππος",
@@ -4336,13 +4445,14 @@
 "end_ref_usfm": "MRK 8:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005267000000000",
 "reference_id": "005267000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλόθεος",
 "media_type": "Text",
 "index_reference": "φιλόθεος",
@@ -4358,13 +4468,14 @@
 "end_ref_usfm": "2TI 3:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005268000000000",
 "reference_id": "005268000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φιλόλογος",
 "media_type": "Text",
 "index_reference": "φιλόλογος",
@@ -4380,13 +4491,14 @@
 "end_ref_usfm": "ROM 16:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005269000000000",
 "reference_id": "005269000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλονεικία",
 "media_type": "Text",
 "index_reference": "φιλονεικία",
@@ -4402,13 +4514,14 @@
 "end_ref_usfm": "LUK 22:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005270000000000",
 "reference_id": "005270000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλόνεικος",
 "media_type": "Text",
 "index_reference": "φιλόνεικος",
@@ -4424,13 +4537,14 @@
 "end_ref_usfm": "1CO 11:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005271000000000",
 "reference_id": "005271000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλοξενία",
 "media_type": "Text",
 "index_reference": "φιλοξενία",
@@ -4452,13 +4566,14 @@
 "end_ref_usfm": "HEB 13:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005272000000000",
 "reference_id": "005272000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλόξενος",
 "media_type": "Text",
 "index_reference": "φιλόξενος",
@@ -4486,13 +4601,14 @@
 "end_ref_usfm": "1PE 4:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005273000000000",
 "reference_id": "005273000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλοπρωτεύω",
 "media_type": "Text",
 "index_reference": "φιλοπρωτεύω",
@@ -4508,13 +4624,14 @@
 "end_ref_usfm": "3JN 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005274000000000",
 "reference_id": "005274000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φίλος",
 "media_type": "Text",
 "index_reference": "φίλος",
@@ -4686,13 +4803,29 @@
 "end_ref_usfm": "LUK 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Teman",
+"type": "person",
+"confidence": 0.854,
+"match_method": "embedding",
+"preferred_label": "Théman"
+},
+{
+"id": "place:Teman",
+"type": "place",
+"confidence": 0.854,
+"match_method": "embedding",
+"preferred_label": "Théman"
+}
+]
 }
 },
 {
 "content_id": "005275000000000",
 "reference_id": "005275000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλοσοφία",
 "media_type": "Text",
 "index_reference": "φιλοσοφία",
@@ -4708,13 +4841,14 @@
 "end_ref_usfm": "COL 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005276000000000",
 "reference_id": "005276000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλόσοφος",
 "media_type": "Text",
 "index_reference": "φιλόσοφος",
@@ -4730,13 +4864,14 @@
 "end_ref_usfm": "ACT 17:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005277000000000",
 "reference_id": "005277000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλόστοργος",
 "media_type": "Text",
 "index_reference": "φιλόστοργος",
@@ -4752,13 +4887,14 @@
 "end_ref_usfm": "ROM 12:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005278000000000",
 "reference_id": "005278000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλότεκνος",
 "media_type": "Text",
 "index_reference": "φιλότεκνος",
@@ -4774,13 +4910,14 @@
 "end_ref_usfm": "TIT 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005279000000000",
 "reference_id": "005279000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλοτιμέομαι",
 "media_type": "Text",
 "index_reference": "φιλοτιμέομαι",
@@ -4808,13 +4945,14 @@
 "end_ref_usfm": "1TH 4:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005280000000000",
 "reference_id": "005280000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιλοφρόνως",
 "media_type": "Text",
 "index_reference": "φιλοφρόνως",
@@ -4830,13 +4968,14 @@
 "end_ref_usfm": "ACT 28:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005281000000000",
 "reference_id": "005281000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φιμόω",
 "media_type": "Text",
 "index_reference": "φιμόω",
@@ -4888,13 +5027,14 @@
 "end_ref_usfm": "MAT 22:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005282000000000",
 "reference_id": "005282000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φλέγων",
 "media_type": "Text",
 "index_reference": "φλέγων",
@@ -4910,13 +5050,14 @@
 "end_ref_usfm": "ROM 16:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005283000000000",
 "reference_id": "005283000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φλογίζω",
 "media_type": "Text",
 "index_reference": "φλογίζω",
@@ -4932,13 +5073,14 @@
 "end_ref_usfm": "JAS 3:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005284000000000",
 "reference_id": "005284000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φλόξ",
 "media_type": "Text",
 "index_reference": "φλόξ",
@@ -4984,13 +5126,14 @@
 "end_ref_usfm": "REV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005285000000000",
 "reference_id": "005285000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φλυαρέω",
 "media_type": "Text",
 "index_reference": "φλυαρέω",
@@ -5006,13 +5149,14 @@
 "end_ref_usfm": "3JN 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005286000000000",
 "reference_id": "005286000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φλύαρος",
 "media_type": "Text",
 "index_reference": "φλύαρος",
@@ -5028,13 +5172,14 @@
 "end_ref_usfm": "1TI 5:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005287000000000",
 "reference_id": "005287000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φοβερός",
 "media_type": "Text",
 "index_reference": "φοβερός",
@@ -5062,13 +5207,14 @@
 "end_ref_usfm": "HEB 12:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005288000000000",
 "reference_id": "005288000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φοβέω",
 "media_type": "Text",
 "index_reference": "φοβέω",
@@ -5630,13 +5776,14 @@
 "end_ref_usfm": "REV 19:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005289000000000",
 "reference_id": "005289000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φόβητρον",
 "media_type": "Text",
 "index_reference": "φόβητρον",
@@ -5652,13 +5799,14 @@
 "end_ref_usfm": "LUK 21:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005290000000000",
 "reference_id": "005290000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φόβος",
 "media_type": "Text",
 "index_reference": "φόβος",
@@ -5932,13 +6080,14 @@
 "end_ref_usfm": "1PE 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005291000000000",
 "reference_id": "005291000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φοίβη",
 "media_type": "Text",
 "index_reference": "φοίβη",
@@ -5954,13 +6103,14 @@
 "end_ref_usfm": "ROM 16:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005292000000000",
 "reference_id": "005292000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φοινίκη",
 "media_type": "Text",
 "index_reference": "φοινίκη",
@@ -5988,13 +6138,14 @@
 "end_ref_usfm": "ACT 21:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005293000000000",
 "reference_id": "005293000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φοῖνιξ",
 "media_type": "Text",
 "index_reference": "φοῖνιξ",
@@ -6016,13 +6167,14 @@
 "end_ref_usfm": "REV 7:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005294000000000",
 "reference_id": "005294000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φοῖνιξ",
 "media_type": "Text",
 "index_reference": "φοῖνιξ",
@@ -6038,13 +6190,14 @@
 "end_ref_usfm": "ACT 27:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005295000000000",
 "reference_id": "005295000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φονεύς",
 "media_type": "Text",
 "index_reference": "φονεύς",
@@ -6096,13 +6249,14 @@
 "end_ref_usfm": "REV 22:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005296000000000",
 "reference_id": "005296000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φονεύω",
 "media_type": "Text",
 "index_reference": "φονεύω",
@@ -6172,13 +6326,14 @@
 "end_ref_usfm": "JAS 5:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005297000000000",
 "reference_id": "005297000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φόνος",
 "media_type": "Text",
 "index_reference": "φόνος",
@@ -6242,13 +6397,14 @@
 "end_ref_usfm": "REV 9:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005298000000000",
 "reference_id": "005298000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φορέω",
 "media_type": "Text",
 "index_reference": "φορέω",
@@ -6288,13 +6444,14 @@
 "end_ref_usfm": "ROM 13:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005299000000000",
 "reference_id": "005299000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φόρος",
 "media_type": "Text",
 "index_reference": "φόρος",
@@ -6328,13 +6485,14 @@
 "end_ref_usfm": "ROM 13:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005300000000000",
 "reference_id": "005300000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φορτίζω",
 "media_type": "Text",
 "index_reference": "φορτίζω",
@@ -6356,13 +6514,14 @@
 "end_ref_usfm": "LUK 11:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005301000000000",
 "reference_id": "005301000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φορτίον",
 "media_type": "Text",
 "index_reference": "φορτίον",
@@ -6402,13 +6561,14 @@
 "end_ref_usfm": "GAL 6:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005302000000000",
 "reference_id": "005302000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φορτουνᾶτος",
 "media_type": "Text",
 "index_reference": "φορτουνᾶτος",
@@ -6424,13 +6584,14 @@
 "end_ref_usfm": "1CO 16:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005303000000000",
 "reference_id": "005303000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φραγέλλιον",
 "media_type": "Text",
 "index_reference": "φραγέλλιον",
@@ -6446,13 +6607,14 @@
 "end_ref_usfm": "JHN 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005304000000000",
 "reference_id": "005304000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φραγελλόω",
 "media_type": "Text",
 "index_reference": "φραγελλόω",
@@ -6474,13 +6636,14 @@
 "end_ref_usfm": "MRK 15:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005305000000000",
 "reference_id": "005305000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φραγμός",
 "media_type": "Text",
 "index_reference": "φραγμός",
@@ -6514,13 +6677,14 @@
 "end_ref_usfm": "EPH 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005306000000000",
 "reference_id": "005306000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φράζω",
 "media_type": "Text",
 "index_reference": "φράζω",
@@ -6536,13 +6700,14 @@
 "end_ref_usfm": "MAT 15:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005307000000000",
 "reference_id": "005307000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φράσσω",
 "media_type": "Text",
 "index_reference": "φράσσω",
@@ -6570,13 +6735,14 @@
 "end_ref_usfm": "HEB 11:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005308000000000",
 "reference_id": "005308000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρέαρ",
 "media_type": "Text",
 "index_reference": "φρέαρ",
@@ -6616,13 +6782,14 @@
 "end_ref_usfm": "REV 9:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005309000000000",
 "reference_id": "005309000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρεναπατάω",
 "media_type": "Text",
 "index_reference": "φρεναπατάω",
@@ -6638,13 +6805,14 @@
 "end_ref_usfm": "GAL 6:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005310000000000",
 "reference_id": "005310000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρεναπάτης",
 "media_type": "Text",
 "index_reference": "φρεναπάτης",
@@ -6660,13 +6828,14 @@
 "end_ref_usfm": "TIT 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005311000000000",
 "reference_id": "005311000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρήν",
 "media_type": "Text",
 "index_reference": "φρήν",
@@ -6682,13 +6851,14 @@
 "end_ref_usfm": "1CO 14:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005312000000000",
 "reference_id": "005312000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρίσσω",
 "media_type": "Text",
 "index_reference": "φρίσσω",
@@ -6704,13 +6874,14 @@
 "end_ref_usfm": "JAS 2:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005313000000000",
 "reference_id": "005313000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρονέω",
 "media_type": "Text",
 "index_reference": "φρονέω",
@@ -6840,13 +7011,14 @@
 "end_ref_usfm": "ROM 11:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005314000000000",
 "reference_id": "005314000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρόνημα",
 "media_type": "Text",
 "index_reference": "φρόνημα",
@@ -6874,13 +7046,14 @@
 "end_ref_usfm": "ROM 8:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005315000000000",
 "reference_id": "005315000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρόνησις",
 "media_type": "Text",
 "index_reference": "φρόνησις",
@@ -6902,13 +7075,14 @@
 "end_ref_usfm": "EPH 1:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005316000000000",
 "reference_id": "005316000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρόνιμος",
 "media_type": "Text",
 "index_reference": "φρόνιμος",
@@ -7002,13 +7176,14 @@
 "end_ref_usfm": "2CO 11:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005317000000000",
 "reference_id": "005317000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρονίμως",
 "media_type": "Text",
 "index_reference": "φρονίμως",
@@ -7024,13 +7199,14 @@
 "end_ref_usfm": "LUK 16:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005318000000000",
 "reference_id": "005318000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φροντίζω",
 "media_type": "Text",
 "index_reference": "φροντίζω",
@@ -7046,13 +7222,14 @@
 "end_ref_usfm": "TIT 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005319000000000",
 "reference_id": "005319000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρουρέω",
 "media_type": "Text",
 "index_reference": "φρουρέω",
@@ -7086,13 +7263,14 @@
 "end_ref_usfm": "1PE 1:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005320000000000",
 "reference_id": "005320000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρυάσσω",
 "media_type": "Text",
 "index_reference": "φρυάσσω",
@@ -7108,13 +7286,14 @@
 "end_ref_usfm": "ACT 4:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005321000000000",
 "reference_id": "005321000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φρύγανον",
 "media_type": "Text",
 "index_reference": "φρύγανον",
@@ -7130,13 +7309,14 @@
 "end_ref_usfm": "ACT 28:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005322000000000",
 "reference_id": "005322000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φρυγία",
 "media_type": "Text",
 "index_reference": "φρυγία",
@@ -7164,13 +7344,14 @@
 "end_ref_usfm": "ACT 18:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005323000000000",
 "reference_id": "005323000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Φύγελος",
 "media_type": "Text",
 "index_reference": "φύγελος",
@@ -7186,13 +7367,14 @@
 "end_ref_usfm": "2TI 1:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005324000000000",
 "reference_id": "005324000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυγή",
 "media_type": "Text",
 "index_reference": "φυγή",
@@ -7208,13 +7390,14 @@
 "end_ref_usfm": "MAT 24:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005325000000000",
 "reference_id": "005325000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυλακή",
 "media_type": "Text",
 "index_reference": "φυλακή",
@@ -7494,13 +7677,22 @@
 "end_ref_usfm": "REV 18:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.8502,
+"match_method": "embedding",
+"preferred_label": "Prison"
+}
+]
 }
 },
 {
 "content_id": "005326000000000",
 "reference_id": "005326000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυλακίζω",
 "media_type": "Text",
 "index_reference": "φυλακίζω",
@@ -7516,13 +7708,14 @@
 "end_ref_usfm": "ACT 22:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005327000000000",
 "reference_id": "005327000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυλακτήριον",
 "media_type": "Text",
 "index_reference": "φυλακτήριον",
@@ -7538,13 +7731,14 @@
 "end_ref_usfm": "MAT 23:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005328000000000",
 "reference_id": "005328000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φύλαξ",
 "media_type": "Text",
 "index_reference": "φύλαξ",
@@ -7572,13 +7766,14 @@
 "end_ref_usfm": "ACT 12:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005329000000000",
 "reference_id": "005329000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυλάσσω",
 "media_type": "Text",
 "index_reference": "φυλάσσω",
@@ -7774,13 +7969,14 @@
 "end_ref_usfm": "LUK 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005330000000000",
 "reference_id": "005330000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυλή",
 "media_type": "Text",
 "index_reference": "φυλή",
@@ -7928,13 +8124,14 @@
 "end_ref_usfm": "REV 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005331000000000",
 "reference_id": "005331000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φύλλον",
 "media_type": "Text",
 "index_reference": "φύλλον",
@@ -7974,13 +8171,14 @@
 "end_ref_usfm": "REV 22:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005332000000000",
 "reference_id": "005332000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φύραμα",
 "media_type": "Text",
 "index_reference": "φύραμα",
@@ -8020,13 +8218,14 @@
 "end_ref_usfm": "GAL 5:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005333000000000",
 "reference_id": "005333000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυσικός",
 "media_type": "Text",
 "index_reference": "φυσικός",
@@ -8054,13 +8253,14 @@
 "end_ref_usfm": "2PE 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005334000000000",
 "reference_id": "005334000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυσικῶς",
 "media_type": "Text",
 "index_reference": "φυσικῶς",
@@ -8076,13 +8276,14 @@
 "end_ref_usfm": "JUD 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005335000000000",
 "reference_id": "005335000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυσιόω",
 "media_type": "Text",
 "index_reference": "φυσιόω",
@@ -8134,13 +8335,14 @@
 "end_ref_usfm": "1CO 5:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005336000000000",
 "reference_id": "005336000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φύσις",
 "media_type": "Text",
 "index_reference": "φύσις",
@@ -8216,13 +8418,14 @@
 "end_ref_usfm": "2PE 1:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005337000000000",
 "reference_id": "005337000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυσίωσις",
 "media_type": "Text",
 "index_reference": "φυσίωσις",
@@ -8238,13 +8441,14 @@
 "end_ref_usfm": "2CO 12:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005338000000000",
 "reference_id": "005338000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυτεία",
 "media_type": "Text",
 "index_reference": "φυτεία",
@@ -8260,13 +8464,14 @@
 "end_ref_usfm": "MAT 15:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005339000000000",
 "reference_id": "005339000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φυτεύω",
 "media_type": "Text",
 "index_reference": "φυτεύω",
@@ -8342,13 +8547,14 @@
 "end_ref_usfm": "1CO 9:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005340000000000",
 "reference_id": "005340000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φύω",
 "media_type": "Text",
 "index_reference": "φύω",
@@ -8376,13 +8582,14 @@
 "end_ref_usfm": "HEB 12:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005341000000000",
 "reference_id": "005341000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωλεός",
 "media_type": "Text",
 "index_reference": "φωλεός",
@@ -8404,13 +8611,14 @@
 "end_ref_usfm": "LUK 9:58"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005342000000000",
 "reference_id": "005342000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωνέω",
 "media_type": "Text",
 "index_reference": "φωνέω",
@@ -8654,13 +8862,14 @@
 "end_ref_usfm": "JHN 18:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005343000000000",
 "reference_id": "005343000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωνή",
 "media_type": "Text",
 "index_reference": "φωνή",
@@ -9438,13 +9647,14 @@
 "end_ref_usfm": "2PE 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005344000000000",
 "reference_id": "005344000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φῶς",
 "media_type": "Text",
 "index_reference": "φῶς",
@@ -9820,13 +10030,14 @@
 "end_ref_usfm": "LUK 12:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005345000000000",
 "reference_id": "005345000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωστήρ",
 "media_type": "Text",
 "index_reference": "φωστήρ",
@@ -9848,13 +10059,14 @@
 "end_ref_usfm": "REV 21:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005346000000000",
 "reference_id": "005346000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωσφόρος",
 "media_type": "Text",
 "index_reference": "φωσφόρος",
@@ -9870,13 +10082,14 @@
 "end_ref_usfm": "2PE 1:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005347000000000",
 "reference_id": "005347000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωτεινός",
 "media_type": "Text",
 "index_reference": "φωτεινός",
@@ -9910,13 +10123,14 @@
 "end_ref_usfm": "MAT 17:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005348000000000",
 "reference_id": "005348000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωτίζω",
 "media_type": "Text",
 "index_reference": "φωτίζω",
@@ -9992,13 +10206,14 @@
 "end_ref_usfm": "2TI 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005349000000000",
 "reference_id": "005349000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "φωτισμός",
 "media_type": "Text",
 "index_reference": "φωτισμός",
@@ -10020,7 +10235,8 @@
 "end_ref_usfm": "2CO 4:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

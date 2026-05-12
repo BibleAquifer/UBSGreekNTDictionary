@@ -2,7 +2,7 @@
 {
 "content_id": "002207000000000",
 "reference_id": "002207000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζαβουλών",
 "media_type": "Text",
 "index_reference": "ζαβουλών",
@@ -30,13 +30,14 @@
 "end_ref_usfm": "MAT 4:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002208000000000",
 "reference_id": "002208000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζακχαῖος",
 "media_type": "Text",
 "index_reference": "ζακχαῖος",
@@ -64,13 +65,14 @@
 "end_ref_usfm": "LUK 19:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002209000000000",
 "reference_id": "002209000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζάρα",
 "media_type": "Text",
 "index_reference": "ζάρα",
@@ -86,13 +88,14 @@
 "end_ref_usfm": "MAT 1:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002210000000000",
 "reference_id": "002210000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζαχαρίας",
 "media_type": "Text",
 "index_reference": "ζαχαρίας",
@@ -168,13 +171,14 @@
 "end_ref_usfm": "LUK 11:51"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002211000000000",
 "reference_id": "002211000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζάω",
 "media_type": "Text",
 "index_reference": "ζάω",
@@ -928,13 +932,14 @@
 "end_ref_usfm": "1PE 2:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002212000000000",
 "reference_id": "002212000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζεβεδαῖος",
 "media_type": "Text",
 "index_reference": "ζεβεδαῖος",
@@ -1010,13 +1015,14 @@
 "end_ref_usfm": "JHN 21:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002213000000000",
 "reference_id": "002213000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζεστός",
 "media_type": "Text",
 "index_reference": "ζεστός",
@@ -1038,13 +1044,14 @@
 "end_ref_usfm": "REV 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002214000000000",
 "reference_id": "002214000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζεῦγος",
 "media_type": "Text",
 "index_reference": "ζεῦγος",
@@ -1066,13 +1073,14 @@
 "end_ref_usfm": "LUK 14:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002215000000000",
 "reference_id": "002215000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζευκτηρία",
 "media_type": "Text",
 "index_reference": "ζευκτηρία",
@@ -1088,13 +1096,14 @@
 "end_ref_usfm": "ACT 27:40"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002216000000000",
 "reference_id": "002216000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζεύς",
 "media_type": "Text",
 "index_reference": "ζεύς",
@@ -1116,13 +1125,14 @@
 "end_ref_usfm": "ACT 14:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002217000000000",
 "reference_id": "002217000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζέω",
 "media_type": "Text",
 "index_reference": "ζέω",
@@ -1144,13 +1154,14 @@
 "end_ref_usfm": "ROM 12:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002218000000000",
 "reference_id": "002218000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζηλεύω",
 "media_type": "Text",
 "index_reference": "ζηλεύω",
@@ -1166,13 +1177,14 @@
 "end_ref_usfm": "REV 3:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002219000000000",
 "reference_id": "002219000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζῆλος",
 "media_type": "Text",
 "index_reference": "ζῆλος",
@@ -1278,13 +1290,14 @@
 "end_ref_usfm": "HEB 10:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002220000000000",
 "reference_id": "002220000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζηλόω",
 "media_type": "Text",
 "index_reference": "ζηλόω",
@@ -1354,13 +1367,14 @@
 "end_ref_usfm": "1CO 13:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002221000000000",
 "reference_id": "002221000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζηλωτής",
 "media_type": "Text",
 "index_reference": "ζηλωτής",
@@ -1418,13 +1432,14 @@
 "end_ref_usfm": "ACT 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002222000000000",
 "reference_id": "002222000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζημία",
 "media_type": "Text",
 "index_reference": "ζημία",
@@ -1458,13 +1473,14 @@
 "end_ref_usfm": "PHP 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002223000000000",
 "reference_id": "002223000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζημιόω",
 "media_type": "Text",
 "index_reference": "ζημιόω",
@@ -1510,13 +1526,14 @@
 "end_ref_usfm": "PHP 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002224000000000",
 "reference_id": "002224000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζηνᾶς",
 "media_type": "Text",
 "index_reference": "ζηνᾶς",
@@ -1532,13 +1549,14 @@
 "end_ref_usfm": "TIT 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002225000000000",
 "reference_id": "002225000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζητέω",
 "media_type": "Text",
 "index_reference": "ζητέω",
@@ -2232,13 +2250,14 @@
 "end_ref_usfm": "ROM 11:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002226000000000",
 "reference_id": "002226000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζήτημα",
 "media_type": "Text",
 "index_reference": "ζήτημα",
@@ -2278,13 +2297,14 @@
 "end_ref_usfm": "ACT 26:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002227000000000",
 "reference_id": "002227000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζήτησις",
 "media_type": "Text",
 "index_reference": "ζήτησις",
@@ -2336,13 +2356,14 @@
 "end_ref_usfm": "TIT 3:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002228000000000",
 "reference_id": "002228000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζιζάνιον",
 "media_type": "Text",
 "index_reference": "ζιζάνιον",
@@ -2400,13 +2421,14 @@
 "end_ref_usfm": "MAT 13:40"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002229000000000",
 "reference_id": "002229000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ζοροβαβέλ",
 "media_type": "Text",
 "index_reference": "ζοροβαβέλ",
@@ -2434,13 +2456,14 @@
 "end_ref_usfm": "LUK 3:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002230000000000",
 "reference_id": "002230000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζόφος",
 "media_type": "Text",
 "index_reference": "ζόφος",
@@ -2480,13 +2503,14 @@
 "end_ref_usfm": "JUD 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002231000000000",
 "reference_id": "002231000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζυγός",
 "media_type": "Text",
 "index_reference": "ζυγός",
@@ -2532,13 +2556,14 @@
 "end_ref_usfm": "REV 6:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002232000000000",
 "reference_id": "002232000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζύμη",
 "media_type": "Text",
 "index_reference": "ζύμη",
@@ -2614,13 +2639,14 @@
 "end_ref_usfm": "1CO 5:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002233000000000",
 "reference_id": "002233000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζυμόω",
 "media_type": "Text",
 "index_reference": "ζυμόω",
@@ -2654,13 +2680,14 @@
 "end_ref_usfm": "GAL 5:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002234000000000",
 "reference_id": "002234000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζωγρέω",
 "media_type": "Text",
 "index_reference": "ζωγρέω",
@@ -2682,13 +2709,14 @@
 "end_ref_usfm": "2TI 2:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002235000000000",
 "reference_id": "002235000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζωή",
 "media_type": "Text",
 "index_reference": "ζωή",
@@ -3460,13 +3488,14 @@
 "end_ref_usfm": "REV 22:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002236000000000",
 "reference_id": "002236000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζώνη",
 "media_type": "Text",
 "index_reference": "ζώνη",
@@ -3518,13 +3547,14 @@
 "end_ref_usfm": "REV 15:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002237000000000",
 "reference_id": "002237000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζωννύω",
 "media_type": "Text",
 "index_reference": "ζωννύω",
@@ -3546,13 +3576,14 @@
 "end_ref_usfm": "JHN 21:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002238000000000",
 "reference_id": "002238000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζῳογονέω",
 "media_type": "Text",
 "index_reference": "ζῳογονέω",
@@ -3580,13 +3611,14 @@
 "end_ref_usfm": "1TI 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002239000000000",
 "reference_id": "002239000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζῷον",
 "media_type": "Text",
 "index_reference": "ζῷον",
@@ -3716,13 +3748,14 @@
 "end_ref_usfm": "REV 19:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002240000000000",
 "reference_id": "002240000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ζῳοποιέω",
 "media_type": "Text",
 "index_reference": "ζῳοποιέω",
@@ -3792,7 +3825,8 @@
 "end_ref_usfm": "1PE 3:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

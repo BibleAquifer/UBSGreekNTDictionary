@@ -2,7 +2,7 @@
 {
 "content_id": "003480000000000",
 "reference_id": "003480000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξαίνω",
 "media_type": "Text",
 "index_reference": "ξαίνω",
@@ -18,13 +18,14 @@
 "end_ref_usfm": "MAT 6:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003481000000000",
 "reference_id": "003481000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξενία",
 "media_type": "Text",
 "index_reference": "ξενία",
@@ -46,13 +47,14 @@
 "end_ref_usfm": "PHM 1:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003482000000000",
 "reference_id": "003482000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξενίζω",
 "media_type": "Text",
 "index_reference": "ξενίζω",
@@ -122,13 +124,14 @@
 "end_ref_usfm": "1PE 4:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003483000000000",
 "reference_id": "003483000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξενοδοχέω",
 "media_type": "Text",
 "index_reference": "ξενοδοχέω",
@@ -144,13 +147,14 @@
 "end_ref_usfm": "1TI 5:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003484000000000",
 "reference_id": "003484000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξένος",
 "media_type": "Text",
 "index_reference": "ξένος",
@@ -244,13 +248,14 @@
 "end_ref_usfm": "ROM 16:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003485000000000",
 "reference_id": "003485000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξέστης",
 "media_type": "Text",
 "index_reference": "ξέστης",
@@ -266,13 +271,14 @@
 "end_ref_usfm": "MRK 7:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003486000000000",
 "reference_id": "003486000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξηραίνω",
 "media_type": "Text",
 "index_reference": "ξηραίνω",
@@ -372,13 +378,14 @@
 "end_ref_usfm": "MRK 9:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003487000000000",
 "reference_id": "003487000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξηρός",
 "media_type": "Text",
 "index_reference": "ξηρός",
@@ -436,13 +443,14 @@
 "end_ref_usfm": "MAT 23:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003488000000000",
 "reference_id": "003488000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξύλινος",
 "media_type": "Text",
 "index_reference": "ξύλινος",
@@ -464,13 +472,14 @@
 "end_ref_usfm": "REV 9:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003489000000000",
 "reference_id": "003489000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξύλον",
 "media_type": "Text",
 "index_reference": "ξύλον",
@@ -588,13 +597,14 @@
 "end_ref_usfm": "1PE 2:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "003490000000000",
 "reference_id": "003490000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ξυράω",
 "media_type": "Text",
 "index_reference": "ξυράω",
@@ -622,7 +632,8 @@
 "end_ref_usfm": "1CO 11:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]
