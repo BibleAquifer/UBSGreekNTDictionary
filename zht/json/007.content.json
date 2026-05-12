@@ -2,7 +2,7 @@
 {
 "content_id": "002241000000000",
 "reference_id": "002241000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἤ",
 "media_type": "Text",
 "index_reference": "ἤ",
@@ -1392,13 +1392,14 @@
 "end_ref_usfm": "1CO 14:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002242000000000",
 "reference_id": "002242000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡγεμονεύω",
 "media_type": "Text",
 "index_reference": "ἡγεμονεύω",
@@ -1420,13 +1421,14 @@
 "end_ref_usfm": "LUK 3:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002243000000000",
 "reference_id": "002243000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡγεμονία",
 "media_type": "Text",
 "index_reference": "ἡγεμονία",
@@ -1442,13 +1444,14 @@
 "end_ref_usfm": "LUK 3:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002244000000000",
 "reference_id": "002244000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡγεμών",
 "media_type": "Text",
 "index_reference": "ἡγεμών",
@@ -1572,13 +1575,14 @@
 "end_ref_usfm": "1PE 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002245000000000",
 "reference_id": "002245000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡγέομαι",
 "media_type": "Text",
 "index_reference": "ἡγέομαι",
@@ -1750,13 +1754,14 @@
 "end_ref_usfm": "ACT 7:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002246000000000",
 "reference_id": "002246000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡδέως",
 "media_type": "Text",
 "index_reference": "ἡδέως",
@@ -1796,13 +1801,14 @@
 "end_ref_usfm": "2CO 12:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002247000000000",
 "reference_id": "002247000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἤδη",
 "media_type": "Text",
 "index_reference": "ἤδη",
@@ -2142,13 +2148,14 @@
 "end_ref_usfm": "2PE 3:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002248000000000",
 "reference_id": "002248000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡδονή",
 "media_type": "Text",
 "index_reference": "ἡδονή",
@@ -2188,13 +2195,14 @@
 "end_ref_usfm": "JAS 4:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002249000000000",
 "reference_id": "002249000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡδύοσμον",
 "media_type": "Text",
 "index_reference": "ἡδύοσμον",
@@ -2216,13 +2224,14 @@
 "end_ref_usfm": "LUK 11:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002250000000000",
 "reference_id": "002250000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἦθος",
 "media_type": "Text",
 "index_reference": "ἦθος",
@@ -2238,13 +2247,14 @@
 "end_ref_usfm": "1CO 15:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002251000000000",
 "reference_id": "002251000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἥκω",
 "media_type": "Text",
 "index_reference": "ἥκω",
@@ -2404,13 +2414,14 @@
 "end_ref_usfm": "REV 18:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002252000000000",
 "reference_id": "002252000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἠλί",
 "media_type": "Text",
 "index_reference": "ἠλί",
@@ -2426,13 +2437,14 @@
 "end_ref_usfm": "MAT 27:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002253000000000",
 "reference_id": "002253000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἠλί",
 "media_type": "Text",
 "index_reference": "ἠλί",
@@ -2448,13 +2460,14 @@
 "end_ref_usfm": "LUK 3:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002254000000000",
 "reference_id": "002254000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἠλίας",
 "media_type": "Text",
 "index_reference": "ἠλίας",
@@ -2638,13 +2651,14 @@
 "end_ref_usfm": "JAS 5:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002255000000000",
 "reference_id": "002255000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡλικία",
 "media_type": "Text",
 "index_reference": "ἡλικία",
@@ -2702,13 +2716,14 @@
 "end_ref_usfm": "LUK 19:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002256000000000",
 "reference_id": "002256000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡλίκος",
 "media_type": "Text",
 "index_reference": "ἡλίκος",
@@ -2730,13 +2745,14 @@
 "end_ref_usfm": "COL 2:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002257000000000",
 "reference_id": "002257000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἥλιος",
 "media_type": "Text",
 "index_reference": "ἥλιος",
@@ -2938,13 +2954,14 @@
 "end_ref_usfm": "REV 22:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002258000000000",
 "reference_id": "002258000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἧλος",
 "media_type": "Text",
 "index_reference": "ἧλος",
@@ -2960,13 +2977,14 @@
 "end_ref_usfm": "JHN 20:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002259000000000",
 "reference_id": "002259000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡμέρα",
 "media_type": "Text",
 "index_reference": "ἡμέρα",
@@ -5184,13 +5202,14 @@
 "end_ref_usfm": "REV 16:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002260000000000",
 "reference_id": "002260000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡμέτερος",
 "media_type": "Text",
 "index_reference": "ἡμέτερος",
@@ -5248,13 +5267,14 @@
 "end_ref_usfm": "1JN 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002261000000000",
 "reference_id": "002261000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡμιθανής",
 "media_type": "Text",
 "index_reference": "ἡμιθανής",
@@ -5270,13 +5290,14 @@
 "end_ref_usfm": "LUK 10:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002262000000000",
 "reference_id": "002262000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἥμισυς",
 "media_type": "Text",
 "index_reference": "ἥμισυς",
@@ -5316,13 +5337,14 @@
 "end_ref_usfm": "REV 12:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002263000000000",
 "reference_id": "002263000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡμίωρον",
 "media_type": "Text",
 "index_reference": "ἡμίωρον",
@@ -5338,13 +5360,14 @@
 "end_ref_usfm": "REV 8:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002264000000000",
 "reference_id": "002264000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡνίκα",
 "media_type": "Text",
 "index_reference": "ἡνίκα",
@@ -5366,13 +5389,14 @@
 "end_ref_usfm": "2CO 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002265000000000",
 "reference_id": "002265000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἤπερ",
 "media_type": "Text",
 "index_reference": "ἤπερ",
@@ -5388,13 +5412,14 @@
 "end_ref_usfm": "JHN 12:43"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002266000000000",
 "reference_id": "002266000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἤπιος",
 "media_type": "Text",
 "index_reference": "ἤπιος",
@@ -5410,13 +5435,14 @@
 "end_ref_usfm": "2TI 2:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002267000000000",
 "reference_id": "002267000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἤρ",
 "media_type": "Text",
 "index_reference": "ἤρ",
@@ -5432,13 +5458,14 @@
 "end_ref_usfm": "LUK 3:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002268000000000",
 "reference_id": "002268000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἤρεμος",
 "media_type": "Text",
 "index_reference": "ἤρεμος",
@@ -5454,13 +5481,14 @@
 "end_ref_usfm": "1TI 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002269000000000",
 "reference_id": "002269000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἡρῴδης",
 "media_type": "Text",
 "index_reference": "ἡρῴδης",
@@ -5710,13 +5738,14 @@
 "end_ref_usfm": "ACT 13:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002270000000000",
 "reference_id": "002270000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἡρῳδιανοί",
 "media_type": "Text",
 "index_reference": "ἡρῳδιανοί",
@@ -5744,13 +5773,14 @@
 "end_ref_usfm": "MRK 12:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002271000000000",
 "reference_id": "002271000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἡρῳδιάς",
 "media_type": "Text",
 "index_reference": "ἡρῳδιάς",
@@ -5796,13 +5826,14 @@
 "end_ref_usfm": "LUK 3:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002272000000000",
 "reference_id": "002272000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἡρῳδίων",
 "media_type": "Text",
 "index_reference": "ἡρῳδίων",
@@ -5818,13 +5849,14 @@
 "end_ref_usfm": "ROM 16:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002273000000000",
 "reference_id": "002273000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἠσαΐας",
 "media_type": "Text",
 "index_reference": "ἠσαΐας",
@@ -5966,13 +5998,22 @@
 "end_ref_usfm": "ROM 15:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Isaiah",
+"type": "person",
+"confidence": 0.8658,
+"match_method": "embedding",
+"preferred_label": "Isaiah"
+}
+]
 }
 },
 {
 "content_id": "002274000000000",
 "reference_id": "002274000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Ἠσαῦ",
 "media_type": "Text",
 "index_reference": "ἠσαῦ",
@@ -6000,13 +6041,22 @@
 "end_ref_usfm": "HEB 12:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 0.8228,
+"match_method": "embedding",
+"preferred_label": "Esau"
+}
+]
 }
 },
 {
 "content_id": "002275000000000",
 "reference_id": "002275000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡσσάομαι",
 "media_type": "Text",
 "index_reference": "ἡσσάομαι",
@@ -6034,13 +6084,14 @@
 "end_ref_usfm": "2PE 2:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002276000000000",
 "reference_id": "002276000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἥσσων",
 "media_type": "Text",
 "index_reference": "ἥσσων",
@@ -6062,13 +6113,14 @@
 "end_ref_usfm": "1CO 11:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002277000000000",
 "reference_id": "002277000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡσυχάζω",
 "media_type": "Text",
 "index_reference": "ἡσυχάζω",
@@ -6108,13 +6160,14 @@
 "end_ref_usfm": "ACT 21:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002278000000000",
 "reference_id": "002278000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡσυχία",
 "media_type": "Text",
 "index_reference": "ἡσυχία",
@@ -6148,13 +6201,14 @@
 "end_ref_usfm": "1TI 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002279000000000",
 "reference_id": "002279000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἡσύχιος",
 "media_type": "Text",
 "index_reference": "ἡσύχιος",
@@ -6176,13 +6230,14 @@
 "end_ref_usfm": "1PE 3:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002280000000000",
 "reference_id": "002280000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἤτοι",
 "media_type": "Text",
 "index_reference": "ἤτοι",
@@ -6198,13 +6253,14 @@
 "end_ref_usfm": "ROM 6:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002281000000000",
 "reference_id": "002281000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἥττημα",
 "media_type": "Text",
 "index_reference": "ἥττημα",
@@ -6226,13 +6282,14 @@
 "end_ref_usfm": "1CO 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002282000000000",
 "reference_id": "002282000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἠχέω",
 "media_type": "Text",
 "index_reference": "ἠχέω",
@@ -6248,13 +6305,14 @@
 "end_ref_usfm": "1CO 13:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002283000000000",
 "reference_id": "002283000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ἦχος",
 "media_type": "Text",
 "index_reference": "ἦχος",
@@ -6288,7 +6346,8 @@
 "end_ref_usfm": "LUK 4:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

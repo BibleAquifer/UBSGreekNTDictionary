@@ -2,7 +2,7 @@
 {
 "content_id": "005451000000000",
 "reference_id": "005451000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψάλλω",
 "media_type": "Text",
 "index_reference": "ψάλλω",
@@ -36,13 +36,14 @@
 "end_ref_usfm": "JAS 5:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005452000000000",
 "reference_id": "005452000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψαλμός",
 "media_type": "Text",
 "index_reference": "ψαλμός",
@@ -94,13 +95,14 @@
 "end_ref_usfm": "COL 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005453000000000",
 "reference_id": "005453000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδάδελφος",
 "media_type": "Text",
 "index_reference": "ψευδάδελφος",
@@ -122,13 +124,14 @@
 "end_ref_usfm": "GAL 2:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005454000000000",
 "reference_id": "005454000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδαπόστολος",
 "media_type": "Text",
 "index_reference": "ψευδαπόστολος",
@@ -144,13 +147,14 @@
 "end_ref_usfm": "2CO 11:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005455000000000",
 "reference_id": "005455000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδής",
 "media_type": "Text",
 "index_reference": "ψευδής",
@@ -178,13 +182,14 @@
 "end_ref_usfm": "REV 21:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005456000000000",
 "reference_id": "005456000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδοδιδάσκαλος",
 "media_type": "Text",
 "index_reference": "ψευδοδιδάσκαλος",
@@ -200,13 +205,14 @@
 "end_ref_usfm": "2PE 2:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005457000000000",
 "reference_id": "005457000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδολόγος",
 "media_type": "Text",
 "index_reference": "ψευδολόγος",
@@ -222,13 +228,14 @@
 "end_ref_usfm": "1TI 4:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005458000000000",
 "reference_id": "005458000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψεύδομαι",
 "media_type": "Text",
 "index_reference": "ψεύδομαι",
@@ -310,13 +317,14 @@
 "end_ref_usfm": "REV 3:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005459000000000",
 "reference_id": "005459000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδομαρτυρέω",
 "media_type": "Text",
 "index_reference": "ψευδομαρτυρέω",
@@ -356,13 +364,14 @@
 "end_ref_usfm": "LUK 18:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005460000000000",
 "reference_id": "005460000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδομαρτυρία",
 "media_type": "Text",
 "index_reference": "ψευδομαρτυρία",
@@ -384,13 +393,14 @@
 "end_ref_usfm": "MAT 26:59"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005461000000000",
 "reference_id": "005461000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδόμαρτυς",
 "media_type": "Text",
 "index_reference": "ψευδόμαρτυς",
@@ -412,13 +422,14 @@
 "end_ref_usfm": "1CO 15:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005462000000000",
 "reference_id": "005462000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδοπροφήτης",
 "media_type": "Text",
 "index_reference": "ψευδοπροφήτης",
@@ -494,13 +505,14 @@
 "end_ref_usfm": "REV 20:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005463000000000",
 "reference_id": "005463000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψεῦδος",
 "media_type": "Text",
 "index_reference": "ψεῦδος",
@@ -570,13 +582,14 @@
 "end_ref_usfm": "REV 22:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005464000000000",
 "reference_id": "005464000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδόχριστος",
 "media_type": "Text",
 "index_reference": "ψευδόχριστος",
@@ -598,13 +611,14 @@
 "end_ref_usfm": "MRK 13:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005465000000000",
 "reference_id": "005465000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψευδώνυμος",
 "media_type": "Text",
 "index_reference": "ψευδώνυμος",
@@ -620,13 +634,14 @@
 "end_ref_usfm": "1TI 6:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005466000000000",
 "reference_id": "005466000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψεῦσμα",
 "media_type": "Text",
 "index_reference": "ψεῦσμα",
@@ -642,13 +657,14 @@
 "end_ref_usfm": "ROM 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005467000000000",
 "reference_id": "005467000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψεύστης",
 "media_type": "Text",
 "index_reference": "ψεύστης",
@@ -718,13 +734,14 @@
 "end_ref_usfm": "1JN 5:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005468000000000",
 "reference_id": "005468000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψηλαφάω",
 "media_type": "Text",
 "index_reference": "ψηλαφάω",
@@ -758,13 +775,14 @@
 "end_ref_usfm": "ACT 17:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005469000000000",
 "reference_id": "005469000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψηφίζω",
 "media_type": "Text",
 "index_reference": "ψηφίζω",
@@ -786,13 +804,14 @@
 "end_ref_usfm": "REV 13:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005470000000000",
 "reference_id": "005470000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψῆφος",
 "media_type": "Text",
 "index_reference": "ψῆφος",
@@ -814,13 +833,14 @@
 "end_ref_usfm": "REV 2:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005471000000000",
 "reference_id": "005471000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψιθυρισμός",
 "media_type": "Text",
 "index_reference": "ψιθυρισμός",
@@ -836,13 +856,14 @@
 "end_ref_usfm": "2CO 12:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005472000000000",
 "reference_id": "005472000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψιθυριστής",
 "media_type": "Text",
 "index_reference": "ψιθυριστής",
@@ -858,13 +879,14 @@
 "end_ref_usfm": "ROM 1:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005473000000000",
 "reference_id": "005473000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψίξ",
 "media_type": "Text",
 "index_reference": "ψίξ",
@@ -880,13 +902,14 @@
 "end_ref_usfm": "LUK 16:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005474000000000",
 "reference_id": "005474000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψιχίον",
 "media_type": "Text",
 "index_reference": "ψιχίον",
@@ -908,13 +931,14 @@
 "end_ref_usfm": "MRK 7:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005475000000000",
 "reference_id": "005475000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψυχή",
 "media_type": "Text",
 "index_reference": "ψυχή",
@@ -1476,13 +1500,14 @@
 "end_ref_usfm": "1JN 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005476000000000",
 "reference_id": "005476000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψυχικός",
 "media_type": "Text",
 "index_reference": "ψυχικός",
@@ -1522,13 +1547,14 @@
 "end_ref_usfm": "JUD 1:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005477000000000",
 "reference_id": "005477000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψῦχος",
 "media_type": "Text",
 "index_reference": "ψῦχος",
@@ -1556,13 +1582,14 @@
 "end_ref_usfm": "2CO 11:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005478000000000",
 "reference_id": "005478000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψυχρός",
 "media_type": "Text",
 "index_reference": "ψυχρός",
@@ -1590,13 +1617,14 @@
 "end_ref_usfm": "REV 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005479000000000",
 "reference_id": "005479000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψύχω",
 "media_type": "Text",
 "index_reference": "ψύχω",
@@ -1612,13 +1640,14 @@
 "end_ref_usfm": "MAT 24:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005480000000000",
 "reference_id": "005480000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψωμίζω",
 "media_type": "Text",
 "index_reference": "ψωμίζω",
@@ -1640,13 +1669,14 @@
 "end_ref_usfm": "1CO 13:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005481000000000",
 "reference_id": "005481000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψωμίον",
 "media_type": "Text",
 "index_reference": "ψωμίον",
@@ -1674,13 +1704,14 @@
 "end_ref_usfm": "JHN 13:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "005482000000000",
 "reference_id": "005482000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "ψώχω",
 "media_type": "Text",
 "index_reference": "ψώχω",
@@ -1696,7 +1727,8 @@
 "end_ref_usfm": "LUK 6:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

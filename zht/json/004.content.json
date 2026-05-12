@@ -2,7 +2,7 @@
 {
 "content_id": "001152000000000",
 "reference_id": "001152000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δαδδαῖος",
 "media_type": "Text",
 "index_reference": "δαδδαῖος",
@@ -11,13 +11,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001152000000000\" class=\"lex-lemma\">Δαδδαῖος</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Δαδδαῖος</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜陽＞</p><div class=\"lex-meaning\" data-id=\"001152001001000\"><p class=\"lex-domains\" id=\"93.88\"><span class=\"lex-entry-code\">93.88</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">人名</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">(音譯)達太</span></span> <span class=\"lex-def\"><span class=\"lex-link\" data-lemma=\"Θαδδαῖος:000000\">Θαδδαῖος</span> <a href=\"#93.150\" data-entryCode=\"93.150\" class=\"lex-domain-ref\">93.150</a> 的另一種拼寫法(<a href=\"https://ref.ly/Matt3:18\">MRK 3:18</a>,GNT3c-校勘欄)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001153000000000",
 "reference_id": "001153000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δαιμονίζομαι",
 "media_type": "Text",
 "index_reference": "δαιμονίζομαι",
@@ -105,13 +106,14 @@
 "end_ref_usfm": "JHN 10:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001154000000000",
 "reference_id": "001154000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δαιμόνιον",
 "media_type": "Text",
 "index_reference": "δαιμόνιον",
@@ -451,13 +453,14 @@
 "end_ref_usfm": "ACT 17:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001155000000000",
 "reference_id": "001155000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δαιμονιώδης",
 "media_type": "Text",
 "index_reference": "δαιμονιώδης",
@@ -473,13 +476,14 @@
 "end_ref_usfm": "JAS 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001156000000000",
 "reference_id": "001156000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δαίμων",
 "media_type": "Text",
 "index_reference": "δαίμων",
@@ -495,13 +499,14 @@
 "end_ref_usfm": "MAT 8:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001157000000000",
 "reference_id": "001157000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δάκνω",
 "media_type": "Text",
 "index_reference": "δάκνω",
@@ -517,13 +522,14 @@
 "end_ref_usfm": "GAL 5:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001158000000000",
 "reference_id": "001158000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δάκρυον",
 "media_type": "Text",
 "index_reference": "δάκρυον",
@@ -593,13 +599,14 @@
 "end_ref_usfm": "REV 21:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001159000000000",
 "reference_id": "001159000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δακρύω",
 "media_type": "Text",
 "index_reference": "δακρύω",
@@ -615,13 +622,14 @@
 "end_ref_usfm": "JHN 11:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001160000000000",
 "reference_id": "001160000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δακτύλιος",
 "media_type": "Text",
 "index_reference": "δακτύλιος",
@@ -637,13 +645,14 @@
 "end_ref_usfm": "LUK 15:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001161000000000",
 "reference_id": "001161000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δάκτυλος",
 "media_type": "Text",
 "index_reference": "δάκτυλος",
@@ -701,13 +710,14 @@
 "end_ref_usfm": "LUK 11:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001162000000000",
 "reference_id": "001162000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δαλμανουθά",
 "media_type": "Text",
 "index_reference": "δαλμανουθά",
@@ -723,13 +733,14 @@
 "end_ref_usfm": "MRK 8:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001163000000000",
 "reference_id": "001163000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δαλματία",
 "media_type": "Text",
 "index_reference": "δαλματία",
@@ -745,13 +756,22 @@
 "end_ref_usfm": "2TI 4:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Dalmatia",
+"type": "place",
+"confidence": 0.8487,
+"match_method": "embedding",
+"preferred_label": "Dalmatia"
+}
+]
 }
 },
 {
 "content_id": "001164000000000",
 "reference_id": "001164000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δαμάζω",
 "media_type": "Text",
 "index_reference": "δαμάζω",
@@ -779,13 +799,14 @@
 "end_ref_usfm": "JAS 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001165000000000",
 "reference_id": "001165000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δάμαλις",
 "media_type": "Text",
 "index_reference": "δάμαλις",
@@ -801,13 +822,14 @@
 "end_ref_usfm": "HEB 9:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001166000000000",
 "reference_id": "001166000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δάμαρις",
 "media_type": "Text",
 "index_reference": "δάμαρις",
@@ -823,13 +845,22 @@
 "end_ref_usfm": "ACT 17:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Damaris",
+"type": "person",
+"confidence": 0.8661,
+"match_method": "embedding",
+"preferred_label": "Damaris"
+}
+]
 }
 },
 {
 "content_id": "001167000000000",
 "reference_id": "001167000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δαμασκηνός",
 "media_type": "Text",
 "index_reference": "δαμασκηνός",
@@ -845,13 +876,14 @@
 "end_ref_usfm": "2CO 11:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001168000000000",
 "reference_id": "001168000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δαμασκός",
 "media_type": "Text",
 "index_reference": "δαμασκός",
@@ -951,13 +983,14 @@
 "end_ref_usfm": "GAL 1:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001169000000000",
 "reference_id": "001169000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δάνειον",
 "media_type": "Text",
 "index_reference": "δάνειον",
@@ -973,13 +1006,14 @@
 "end_ref_usfm": "MAT 18:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001170000000000",
 "reference_id": "001170000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δανίζω",
 "media_type": "Text",
 "index_reference": "δανίζω",
@@ -1007,13 +1041,14 @@
 "end_ref_usfm": "MAT 5:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001171000000000",
 "reference_id": "001171000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δανιήλ",
 "media_type": "Text",
 "index_reference": "δανιήλ",
@@ -1029,13 +1064,29 @@
 "end_ref_usfm": "MAT 24:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Daniel.2",
+"type": "person",
+"confidence": 0.9053,
+"match_method": "embedding",
+"preferred_label": "Daniel"
+},
+{
+"id": "person:Daniel.3",
+"type": "person",
+"confidence": 0.9053,
+"match_method": "embedding",
+"preferred_label": "Daniel"
+}
+]
 }
 },
 {
 "content_id": "001172000000000",
 "reference_id": "001172000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δανιστής",
 "media_type": "Text",
 "index_reference": "δανιστής",
@@ -1051,13 +1102,14 @@
 "end_ref_usfm": "LUK 7:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001173000000000",
 "reference_id": "001173000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δαπανάω",
 "media_type": "Text",
 "index_reference": "δαπανάω",
@@ -1097,13 +1149,14 @@
 "end_ref_usfm": "JAS 4:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001174000000000",
 "reference_id": "001174000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δαπάνη",
 "media_type": "Text",
 "index_reference": "δαπάνη",
@@ -1119,13 +1172,14 @@
 "end_ref_usfm": "LUK 14:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001175000000000",
 "reference_id": "001175000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δαυίδ",
 "media_type": "Text",
 "index_reference": "δαυίδ",
@@ -1459,13 +1513,22 @@
 "end_ref_usfm": "REV 22:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.8085,
+"match_method": "embedding",
+"preferred_label": "David"
+}
+]
 }
 },
 {
 "content_id": "001176000000000",
 "reference_id": "001176000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέ",
 "media_type": "Text",
 "index_reference": "δέ",
@@ -12017,13 +12080,14 @@
 "end_ref_usfm": "1PE 3:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001177000000000",
 "reference_id": "001177000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέησις",
 "media_type": "Text",
 "index_reference": "δέησις",
@@ -12129,13 +12193,14 @@
 "end_ref_usfm": "1PE 3:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001178000000000",
 "reference_id": "001178000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεῖ",
 "media_type": "Text",
 "index_reference": "δεῖ",
@@ -12745,13 +12810,14 @@
 "end_ref_usfm": "REV 10:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001179000000000",
 "reference_id": "001179000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεῖγμα",
 "media_type": "Text",
 "index_reference": "δεῖγμα",
@@ -12767,13 +12833,14 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001180000000000",
 "reference_id": "001180000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δειγματίζω",
 "media_type": "Text",
 "index_reference": "δειγματίζω",
@@ -12795,13 +12862,14 @@
 "end_ref_usfm": "COL 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001181000000000",
 "reference_id": "001181000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δείκνυμι",
 "media_type": "Text",
 "index_reference": "δείκνυμι",
@@ -12997,13 +13065,14 @@
 "end_ref_usfm": "HEB 8:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001182000000000",
 "reference_id": "001182000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δειλία",
 "media_type": "Text",
 "index_reference": "δειλία",
@@ -13019,13 +13088,14 @@
 "end_ref_usfm": "2TI 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001183000000000",
 "reference_id": "001183000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δειλιάω",
 "media_type": "Text",
 "index_reference": "δειλιάω",
@@ -13041,13 +13111,14 @@
 "end_ref_usfm": "JHN 14:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001184000000000",
 "reference_id": "001184000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δειλός",
 "media_type": "Text",
 "index_reference": "δειλός",
@@ -13075,13 +13146,14 @@
 "end_ref_usfm": "REV 21:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001185000000000",
 "reference_id": "001185000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεῖνα",
 "media_type": "Text",
 "index_reference": "δεῖνα",
@@ -13097,13 +13169,14 @@
 "end_ref_usfm": "MAT 26:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001186000000000",
 "reference_id": "001186000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεινός",
 "media_type": "Text",
 "index_reference": "δεινός",
@@ -13112,13 +13185,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001186000000000\" class=\"lex-lemma\">δεινός</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">δεινός</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜形＞  <span class=\"lex-head-sep\">|</span>  -ή, -όν  <span class=\"lex-head-sep\">|</span>  <span class=\"lex-link\" data-lemma=\"δειλιάω\">δειλιάω</span></p><div class=\"lex-meaning\" data-id=\"001186001001000\"><p class=\"lex-domains\" id=\"22.31\"><span class=\"lex-entry-code\">22.31</span>  ·  <span class=\"lex-domain\">煩惱，困難，解脫，有利的情況</span>  ·  <span class=\"lex-subdomain\">困難的，艱難的</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">困難的;艱苦的;嚴峻的</span></span> <span class=\"lex-def\">嚴峻或艱難的,暗示令人恐懼</span> <span class=\"lex-comments\">這詞只出現在一處異文中:ἀλλὰ ἐγγίζει ἄλλα δεινά「但是其他嚴重的(苦難)近了」<a href=\"https://ref.ly/Matt16:14\">MRK 16:14</a>(校勘欄)。</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001187000000000",
 "reference_id": "001187000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεινῶς",
 "media_type": "Text",
 "index_reference": "δεινῶς",
@@ -13140,13 +13214,14 @@
 "end_ref_usfm": "LUK 11:53"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001188000000000",
 "reference_id": "001188000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δειπνέω",
 "media_type": "Text",
 "index_reference": "δειπνέω",
@@ -13180,13 +13255,14 @@
 "end_ref_usfm": "REV 3:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001189000000000",
 "reference_id": "001189000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεῖπνον",
 "media_type": "Text",
 "index_reference": "δεῖπνον",
@@ -13292,13 +13368,14 @@
 "end_ref_usfm": "REV 19:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001190000000000",
 "reference_id": "001190000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεισιδαιμονία",
 "media_type": "Text",
 "index_reference": "δεισιδαιμονία",
@@ -13314,13 +13391,14 @@
 "end_ref_usfm": "ACT 25:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001191000000000",
 "reference_id": "001191000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεισιδαίμων",
 "media_type": "Text",
 "index_reference": "δεισιδαίμων",
@@ -13336,13 +13414,14 @@
 "end_ref_usfm": "ACT 17:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001192000000000",
 "reference_id": "001192000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέκα",
 "media_type": "Text",
 "index_reference": "δέκα",
@@ -13484,13 +13563,14 @@
 "end_ref_usfm": "REV 17:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001193000000000",
 "reference_id": "001193000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεκαοκτώ",
 "media_type": "Text",
 "index_reference": "δεκαοκτώ",
@@ -13512,13 +13592,14 @@
 "end_ref_usfm": "LUK 13:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001194000000000",
 "reference_id": "001194000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεκαπέντε",
 "media_type": "Text",
 "index_reference": "δεκαπέντε",
@@ -13546,13 +13627,14 @@
 "end_ref_usfm": "GAL 1:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001195000000000",
 "reference_id": "001195000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δεκάπολις",
 "media_type": "Text",
 "index_reference": "δεκάπολις",
@@ -13580,13 +13662,14 @@
 "end_ref_usfm": "MRK 7:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001196000000000",
 "reference_id": "001196000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεκατέσσαρες",
 "media_type": "Text",
 "index_reference": "δεκατέσσαρες",
@@ -13614,13 +13697,14 @@
 "end_ref_usfm": "GAL 2:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001197000000000",
 "reference_id": "001197000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέκατος",
 "media_type": "Text",
 "index_reference": "δέκατος",
@@ -13672,13 +13756,14 @@
 "end_ref_usfm": "HEB 7:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001198000000000",
 "reference_id": "001198000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεκατόω",
 "media_type": "Text",
 "index_reference": "δεκατόω",
@@ -13700,13 +13785,14 @@
 "end_ref_usfm": "HEB 7:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001199000000000",
 "reference_id": "001199000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεκτός",
 "media_type": "Text",
 "index_reference": "δεκτός",
@@ -13746,13 +13832,14 @@
 "end_ref_usfm": "2CO 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001200000000000",
 "reference_id": "001200000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δελεάζω",
 "media_type": "Text",
 "index_reference": "δελεάζω",
@@ -13780,13 +13867,14 @@
 "end_ref_usfm": "2PE 2:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001201000000000",
 "reference_id": "001201000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δένδρον",
 "media_type": "Text",
 "index_reference": "δένδρον",
@@ -13904,13 +13992,14 @@
 "end_ref_usfm": "REV 9:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001202000000000",
 "reference_id": "001202000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεξιολάβος",
 "media_type": "Text",
 "index_reference": "δεξιολάβος",
@@ -13926,13 +14015,14 @@
 "end_ref_usfm": "ACT 23:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001203000000000",
 "reference_id": "001203000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεξιός",
 "media_type": "Text",
 "index_reference": "δεξιός",
@@ -14266,13 +14356,14 @@
 "end_ref_usfm": "ACT 2:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001204000000000",
 "reference_id": "001204000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέομαι",
 "media_type": "Text",
 "index_reference": "δέομαι",
@@ -14414,13 +14505,14 @@
 "end_ref_usfm": "1TH 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001205000000000",
 "reference_id": "001205000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέος",
 "media_type": "Text",
 "index_reference": "δέος",
@@ -14436,13 +14528,14 @@
 "end_ref_usfm": "HEB 12:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001206000000000",
 "reference_id": "001206000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δερβαῖος",
 "media_type": "Text",
 "index_reference": "δερβαῖος",
@@ -14458,13 +14551,14 @@
 "end_ref_usfm": "ACT 20:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001207000000000",
 "reference_id": "001207000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δέρβη",
 "media_type": "Text",
 "index_reference": "δέρβη",
@@ -14492,13 +14586,14 @@
 "end_ref_usfm": "ACT 16:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001208000000000",
 "reference_id": "001208000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέρμα",
 "media_type": "Text",
 "index_reference": "δέρμα",
@@ -14514,13 +14609,14 @@
 "end_ref_usfm": "HEB 11:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001209000000000",
 "reference_id": "001209000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δερμάτινος",
 "media_type": "Text",
 "index_reference": "δερμάτινος",
@@ -14542,13 +14638,14 @@
 "end_ref_usfm": "MRK 1:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001210000000000",
 "reference_id": "001210000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέρω",
 "media_type": "Text",
 "index_reference": "δέρω",
@@ -14648,13 +14745,14 @@
 "end_ref_usfm": "2CO 11:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001211000000000",
 "reference_id": "001211000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεσμεύω",
 "media_type": "Text",
 "index_reference": "δεσμεύω",
@@ -14682,13 +14780,14 @@
 "end_ref_usfm": "ACT 22:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001212000000000",
 "reference_id": "001212000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέσμη",
 "media_type": "Text",
 "index_reference": "δέσμη",
@@ -14704,13 +14803,14 @@
 "end_ref_usfm": "MAT 13:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001213000000000",
 "reference_id": "001213000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέσμιος",
 "media_type": "Text",
 "index_reference": "δέσμιος",
@@ -14816,13 +14916,14 @@
 "end_ref_usfm": "HEB 13:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001214000000000",
 "reference_id": "001214000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεσμός",
 "media_type": "Text",
 "index_reference": "δεσμός",
@@ -14940,13 +15041,14 @@
 "end_ref_usfm": "LUK 13:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001215000000000",
 "reference_id": "001215000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεσμοφύλαξ",
 "media_type": "Text",
 "index_reference": "δεσμοφύλαξ",
@@ -14974,13 +15076,14 @@
 "end_ref_usfm": "ACT 16:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001216000000000",
 "reference_id": "001216000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεσμωτήριον",
 "media_type": "Text",
 "index_reference": "δεσμωτήριον",
@@ -15014,13 +15117,14 @@
 "end_ref_usfm": "ACT 16:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001217000000000",
 "reference_id": "001217000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεσμώτης",
 "media_type": "Text",
 "index_reference": "δεσμώτης",
@@ -15042,13 +15146,14 @@
 "end_ref_usfm": "ACT 27:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001218000000000",
 "reference_id": "001218000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεσπότης",
 "media_type": "Text",
 "index_reference": "δεσπότης",
@@ -15118,13 +15223,14 @@
 "end_ref_usfm": "1PE 2:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001219000000000",
 "reference_id": "001219000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεῦρο",
 "media_type": "Text",
 "index_reference": "δεῦρο",
@@ -15188,13 +15294,14 @@
 "end_ref_usfm": "ROM 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001220000000000",
 "reference_id": "001220000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεῦτε",
 "media_type": "Text",
 "index_reference": "δεῦτε",
@@ -15276,13 +15383,14 @@
 "end_ref_usfm": "REV 19:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001221000000000",
 "reference_id": "001221000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δευτεραῖος",
 "media_type": "Text",
 "index_reference": "δευτεραῖος",
@@ -15298,13 +15406,14 @@
 "end_ref_usfm": "ACT 28:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001222000000000",
 "reference_id": "001222000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δευτερόπρωτος",
 "media_type": "Text",
 "index_reference": "δευτερόπρωτος",
@@ -15320,13 +15429,14 @@
 "end_ref_usfm": "LUK 6:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001223000000000",
 "reference_id": "001223000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δεύτερος",
 "media_type": "Text",
 "index_reference": "δεύτερος",
@@ -15588,13 +15698,22 @@
 "end_ref_usfm": "JUD 1:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Secundus",
+"type": "person",
+"confidence": 0.8327,
+"match_method": "embedding",
+"preferred_label": "Secundus"
+}
+]
 }
 },
 {
 "content_id": "001224000000000",
 "reference_id": "001224000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέχομαι",
 "media_type": "Text",
 "index_reference": "δέχομαι",
@@ -15874,13 +15993,14 @@
 "end_ref_usfm": "EPH 6:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001225000000000",
 "reference_id": "001225000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δέω",
 "media_type": "Text",
 "index_reference": "δέω",
@@ -16130,13 +16250,14 @@
 "end_ref_usfm": "LUK 13:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001226000000000",
 "reference_id": "001226000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δή",
 "media_type": "Text",
 "index_reference": "δή",
@@ -16176,13 +16297,14 @@
 "end_ref_usfm": "1CO 6:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001227000000000",
 "reference_id": "001227000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δῆλος",
 "media_type": "Text",
 "index_reference": "δῆλος",
@@ -16210,13 +16332,14 @@
 "end_ref_usfm": "GAL 3:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001228000000000",
 "reference_id": "001228000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δηλόω",
 "media_type": "Text",
 "index_reference": "δηλόω",
@@ -16268,13 +16391,14 @@
 "end_ref_usfm": "1PE 1:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001229000000000",
 "reference_id": "001229000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δημᾶς",
 "media_type": "Text",
 "index_reference": "δημᾶς",
@@ -16302,13 +16426,14 @@
 "end_ref_usfm": "PHM 1:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001230000000000",
 "reference_id": "001230000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δημηγορέω",
 "media_type": "Text",
 "index_reference": "δημηγορέω",
@@ -16324,13 +16449,14 @@
 "end_ref_usfm": "ACT 12:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001231000000000",
 "reference_id": "001231000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δημήτριος",
 "media_type": "Text",
 "index_reference": "δημήτριος",
@@ -16358,13 +16484,22 @@
 "end_ref_usfm": "3JN 1:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Demetrius",
+"type": "person",
+"confidence": 0.8129,
+"match_method": "embedding",
+"preferred_label": "Demetrius"
+}
+]
 }
 },
 {
 "content_id": "001232000000000",
 "reference_id": "001232000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δημιουργός",
 "media_type": "Text",
 "index_reference": "δημιουργός",
@@ -16380,13 +16515,14 @@
 "end_ref_usfm": "HEB 11:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001233000000000",
 "reference_id": "001233000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δῆμος",
 "media_type": "Text",
 "index_reference": "δῆμος",
@@ -16420,13 +16556,14 @@
 "end_ref_usfm": "ACT 19:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001234000000000",
 "reference_id": "001234000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δημόσιος",
 "media_type": "Text",
 "index_reference": "δημόσιος",
@@ -16460,13 +16597,14 @@
 "end_ref_usfm": "ACT 20:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001235000000000",
 "reference_id": "001235000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δηνάριον",
 "media_type": "Text",
 "index_reference": "δηνάριον",
@@ -16566,13 +16704,14 @@
 "end_ref_usfm": "REV 6:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001236000000000",
 "reference_id": "001236000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δήποτε",
 "media_type": "Text",
 "index_reference": "δήποτε",
@@ -16581,13 +16720,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001236000000000\" class=\"lex-lemma\">δήποτε</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">δήποτε</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜副＞  <span class=\"lex-head-sep\">|</span>  δή + ποτέ</p><div class=\"lex-meaning\" data-id=\"001236001001000\"><p class=\"lex-domains\" id=\"67.9\"><span class=\"lex-entry-code\">67.9</span>  ·  <span class=\"lex-domain\">時間</span>  ·  <span class=\"lex-subdomain\">與其他時間點無關的時間點：時間，時機，曾經，常常</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">任何時候;某些時候;從來</span></span> <span class=\"lex-def\">不確定的時間點或時機</span> <span class=\"lex-comments\">這詞只出現在一處異文中:ὑγιὴς ἐγίνετο οἵῳ δήποτ ̓ οὖν κατείχετο νοσήματι「無論他曾患什麼疾病都被治好了」<a href=\"https://ref.ly/Luke5:3\">JHN 5:3</a>(校勘欄,第4節)。</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001237000000000",
 "reference_id": "001237000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δήπου",
 "media_type": "Text",
 "index_reference": "δήπου",
@@ -16603,13 +16743,14 @@
 "end_ref_usfm": "HEB 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001238000000000",
 "reference_id": "001238000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διά",
 "media_type": "Text",
 "index_reference": "διά",
@@ -19595,13 +19736,14 @@
 "end_ref_usfm": "ROM 11:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001239000000000",
 "reference_id": "001239000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαβαίνω",
 "media_type": "Text",
 "index_reference": "διαβαίνω",
@@ -19629,13 +19771,14 @@
 "end_ref_usfm": "HEB 11:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001240000000000",
 "reference_id": "001240000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαβάλλω",
 "media_type": "Text",
 "index_reference": "διαβάλλω",
@@ -19651,13 +19794,14 @@
 "end_ref_usfm": "LUK 16:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001241000000000",
 "reference_id": "001241000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαβεβαιόομαι",
 "media_type": "Text",
 "index_reference": "διαβεβαιόομαι",
@@ -19679,13 +19823,14 @@
 "end_ref_usfm": "TIT 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001242000000000",
 "reference_id": "001242000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαβλέπω",
 "media_type": "Text",
 "index_reference": "διαβλέπω",
@@ -19713,13 +19858,14 @@
 "end_ref_usfm": "LUK 6:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001243000000000",
 "reference_id": "001243000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάβολος",
 "media_type": "Text",
 "index_reference": "διάβολος",
@@ -19939,13 +20085,14 @@
 "end_ref_usfm": "TIT 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001244000000000",
 "reference_id": "001244000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαγγέλλω",
 "media_type": "Text",
 "index_reference": "διαγγέλλω",
@@ -19973,13 +20120,14 @@
 "end_ref_usfm": "ROM 9:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001245000000000",
 "reference_id": "001245000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαγίνομαι",
 "media_type": "Text",
 "index_reference": "διαγίνομαι",
@@ -20007,13 +20155,14 @@
 "end_ref_usfm": "ACT 27:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001246000000000",
 "reference_id": "001246000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαγινώσκω",
 "media_type": "Text",
 "index_reference": "διαγινώσκω",
@@ -20035,13 +20184,14 @@
 "end_ref_usfm": "ACT 24:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001247000000000",
 "reference_id": "001247000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάγνωσις",
 "media_type": "Text",
 "index_reference": "διάγνωσις",
@@ -20057,13 +20207,14 @@
 "end_ref_usfm": "ACT 25:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001248000000000",
 "reference_id": "001248000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαγογγύζω",
 "media_type": "Text",
 "index_reference": "διαγογγύζω",
@@ -20085,13 +20236,14 @@
 "end_ref_usfm": "LUK 19:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001249000000000",
 "reference_id": "001249000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαγρηγορέω",
 "media_type": "Text",
 "index_reference": "διαγρηγορέω",
@@ -20107,13 +20259,14 @@
 "end_ref_usfm": "LUK 9:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001250000000000",
 "reference_id": "001250000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάγω",
 "media_type": "Text",
 "index_reference": "διάγω",
@@ -20135,13 +20288,14 @@
 "end_ref_usfm": "TIT 3:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001251000000000",
 "reference_id": "001251000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαδέχομαι",
 "media_type": "Text",
 "index_reference": "διαδέχομαι",
@@ -20157,13 +20311,14 @@
 "end_ref_usfm": "ACT 7:45"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001252000000000",
 "reference_id": "001252000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάδημα",
 "media_type": "Text",
 "index_reference": "διάδημα",
@@ -20191,13 +20346,14 @@
 "end_ref_usfm": "REV 19:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001253000000000",
 "reference_id": "001253000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαδίδωμι",
 "media_type": "Text",
 "index_reference": "διαδίδωμι",
@@ -20231,13 +20387,14 @@
 "end_ref_usfm": "ACT 4:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001254000000000",
 "reference_id": "001254000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάδοχος",
 "media_type": "Text",
 "index_reference": "διάδοχος",
@@ -20253,13 +20410,14 @@
 "end_ref_usfm": "ACT 24:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001255000000000",
 "reference_id": "001255000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαζώννυμι",
 "media_type": "Text",
 "index_reference": "διαζώννυμι",
@@ -20287,13 +20445,14 @@
 "end_ref_usfm": "JHN 21:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001256000000000",
 "reference_id": "001256000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαθήκη",
 "media_type": "Text",
 "index_reference": "διαθήκη",
@@ -20483,13 +20642,14 @@
 "end_ref_usfm": "HEB 9:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001257000000000",
 "reference_id": "001257000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαίρεσις",
 "media_type": "Text",
 "index_reference": "διαίρεσις",
@@ -20517,13 +20677,14 @@
 "end_ref_usfm": "1CO 12:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001258000000000",
 "reference_id": "001258000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαιρέω",
 "media_type": "Text",
 "index_reference": "διαιρέω",
@@ -20545,13 +20706,14 @@
 "end_ref_usfm": "1CO 12:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001259000000000",
 "reference_id": "001259000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακαθαίρω",
 "media_type": "Text",
 "index_reference": "διακαθαίρω",
@@ -20567,13 +20729,14 @@
 "end_ref_usfm": "LUK 3:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001260000000000",
 "reference_id": "001260000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακαθαρίζω",
 "media_type": "Text",
 "index_reference": "διακαθαρίζω",
@@ -20589,13 +20752,14 @@
 "end_ref_usfm": "MAT 3:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001261000000000",
 "reference_id": "001261000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακατελέγχομαι",
 "media_type": "Text",
 "index_reference": "διακατελέγχομαι",
@@ -20611,13 +20775,14 @@
 "end_ref_usfm": "ACT 18:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001262000000000",
 "reference_id": "001262000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακονέω",
 "media_type": "Text",
 "index_reference": "διακονέω",
@@ -20819,13 +20984,14 @@
 "end_ref_usfm": "ACT 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001263000000000",
 "reference_id": "001263000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακονία",
 "media_type": "Text",
 "index_reference": "διακονία",
@@ -21027,13 +21193,14 @@
 "end_ref_usfm": "2CO 9:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001264000000000",
 "reference_id": "001264000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάκονος",
 "media_type": "Text",
 "index_reference": "διάκονος",
@@ -21205,13 +21372,14 @@
 "end_ref_usfm": "1TI 3:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001265000000000",
 "reference_id": "001265000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακόσιοι",
 "media_type": "Text",
 "index_reference": "διακόσιοι",
@@ -21263,13 +21431,14 @@
 "end_ref_usfm": "REV 12:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001266000000000",
 "reference_id": "001266000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακούω",
 "media_type": "Text",
 "index_reference": "διακούω",
@@ -21285,13 +21454,14 @@
 "end_ref_usfm": "ACT 23:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001267000000000",
 "reference_id": "001267000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακρίνω",
 "media_type": "Text",
 "index_reference": "διακρίνω",
@@ -21409,13 +21579,14 @@
 "end_ref_usfm": "ACT 11:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001268000000000",
 "reference_id": "001268000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάκρισις",
 "media_type": "Text",
 "index_reference": "διάκρισις",
@@ -21443,13 +21614,14 @@
 "end_ref_usfm": "ROM 14:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001269000000000",
 "reference_id": "001269000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διακωλύω",
 "media_type": "Text",
 "index_reference": "διακωλύω",
@@ -21465,13 +21637,14 @@
 "end_ref_usfm": "MAT 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001270000000000",
 "reference_id": "001270000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαλαλέω",
 "media_type": "Text",
 "index_reference": "διαλαλέω",
@@ -21493,13 +21666,14 @@
 "end_ref_usfm": "LUK 6:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001271000000000",
 "reference_id": "001271000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαλέγομαι",
 "media_type": "Text",
 "index_reference": "διαλέγομαι",
@@ -21587,13 +21761,14 @@
 "end_ref_usfm": "HEB 12:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001272000000000",
 "reference_id": "001272000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαλείπω",
 "media_type": "Text",
 "index_reference": "διαλείπω",
@@ -21609,13 +21784,14 @@
 "end_ref_usfm": "LUK 7:45"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001273000000000",
 "reference_id": "001273000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάλεκτος",
 "media_type": "Text",
 "index_reference": "διάλεκτος",
@@ -21661,13 +21837,14 @@
 "end_ref_usfm": "ACT 26:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001274000000000",
 "reference_id": "001274000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαλλάσσω",
 "media_type": "Text",
 "index_reference": "διαλλάσσω",
@@ -21683,13 +21860,14 @@
 "end_ref_usfm": "MAT 5:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001275000000000",
 "reference_id": "001275000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαλογίζομαι",
 "media_type": "Text",
 "index_reference": "διαλογίζομαι",
@@ -21789,13 +21967,14 @@
 "end_ref_usfm": "LUK 20:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001276000000000",
 "reference_id": "001276000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαλογισμός",
 "media_type": "Text",
 "index_reference": "διαλογισμός",
@@ -21889,13 +22068,14 @@
 "end_ref_usfm": "LUK 24:38"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001277000000000",
 "reference_id": "001277000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαλύω",
 "media_type": "Text",
 "index_reference": "διαλύω",
@@ -21911,13 +22091,14 @@
 "end_ref_usfm": "ACT 5:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001278000000000",
 "reference_id": "001278000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαμαρτύρομαι",
 "media_type": "Text",
 "index_reference": "διαμαρτύρομαι",
@@ -22017,13 +22198,14 @@
 "end_ref_usfm": "LUK 16:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001279000000000",
 "reference_id": "001279000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαμάχομαι",
 "media_type": "Text",
 "index_reference": "διαμάχομαι",
@@ -22039,13 +22221,14 @@
 "end_ref_usfm": "ACT 23:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001280000000000",
 "reference_id": "001280000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαμένω",
 "media_type": "Text",
 "index_reference": "διαμένω",
@@ -22085,13 +22268,14 @@
 "end_ref_usfm": "HEB 1:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001281000000000",
 "reference_id": "001281000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαμερίζω",
 "media_type": "Text",
 "index_reference": "διαμερίζω",
@@ -22167,13 +22351,14 @@
 "end_ref_usfm": "ACT 2:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001282000000000",
 "reference_id": "001282000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαμερισμός",
 "media_type": "Text",
 "index_reference": "διαμερισμός",
@@ -22189,13 +22374,14 @@
 "end_ref_usfm": "LUK 12:51"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001283000000000",
 "reference_id": "001283000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διανέμω",
 "media_type": "Text",
 "index_reference": "διανέμω",
@@ -22211,13 +22397,14 @@
 "end_ref_usfm": "ACT 4:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001284000000000",
 "reference_id": "001284000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διανεύω",
 "media_type": "Text",
 "index_reference": "διανεύω",
@@ -22233,13 +22420,14 @@
 "end_ref_usfm": "LUK 1:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001285000000000",
 "reference_id": "001285000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διανόημα",
 "media_type": "Text",
 "index_reference": "διανόημα",
@@ -22255,13 +22443,14 @@
 "end_ref_usfm": "LUK 11:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001286000000000",
 "reference_id": "001286000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάνοια",
 "media_type": "Text",
 "index_reference": "διάνοια",
@@ -22343,13 +22532,14 @@
 "end_ref_usfm": "1JN 5:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001287000000000",
 "reference_id": "001287000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διανοίγω",
 "media_type": "Text",
 "index_reference": "διανοίγω",
@@ -22407,13 +22597,14 @@
 "end_ref_usfm": "LUK 2:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001288000000000",
 "reference_id": "001288000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διανυκτερεύω",
 "media_type": "Text",
 "index_reference": "διανυκτερεύω",
@@ -22429,13 +22620,14 @@
 "end_ref_usfm": "LUK 6:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001289000000000",
 "reference_id": "001289000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διανύω",
 "media_type": "Text",
 "index_reference": "διανύω",
@@ -22451,13 +22643,14 @@
 "end_ref_usfm": "ACT 21:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001290000000000",
 "reference_id": "001290000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπαρατριβή",
 "media_type": "Text",
 "index_reference": "διαπαρατριβή",
@@ -22473,13 +22666,14 @@
 "end_ref_usfm": "1TI 6:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001291000000000",
 "reference_id": "001291000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπεράω",
 "media_type": "Text",
 "index_reference": "διαπεράω",
@@ -22525,13 +22719,14 @@
 "end_ref_usfm": "ACT 21:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001292000000000",
 "reference_id": "001292000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπλέω",
 "media_type": "Text",
 "index_reference": "διαπλέω",
@@ -22547,13 +22742,14 @@
 "end_ref_usfm": "ACT 27:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001293000000000",
 "reference_id": "001293000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπονέομαι",
 "media_type": "Text",
 "index_reference": "διαπονέομαι",
@@ -22575,13 +22771,14 @@
 "end_ref_usfm": "ACT 16:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001294000000000",
 "reference_id": "001294000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπορεύομαι",
 "media_type": "Text",
 "index_reference": "διαπορεύομαι",
@@ -22621,13 +22818,14 @@
 "end_ref_usfm": "LUK 18:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001295000000000",
 "reference_id": "001295000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπορέω",
 "media_type": "Text",
 "index_reference": "διαπορέω",
@@ -22661,13 +22859,14 @@
 "end_ref_usfm": "ACT 10:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001296000000000",
 "reference_id": "001296000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπραγματεύομαι",
 "media_type": "Text",
 "index_reference": "διαπραγματεύομαι",
@@ -22683,13 +22882,14 @@
 "end_ref_usfm": "LUK 19:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001297000000000",
 "reference_id": "001297000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαπρίω",
 "media_type": "Text",
 "index_reference": "διαπρίω",
@@ -22711,13 +22911,14 @@
 "end_ref_usfm": "ACT 7:54"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001298000000000",
 "reference_id": "001298000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαρπάζω",
 "media_type": "Text",
 "index_reference": "διαρπάζω",
@@ -22739,13 +22940,14 @@
 "end_ref_usfm": "MRK 3:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001299000000000",
 "reference_id": "001299000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαρρήγνυμι",
 "media_type": "Text",
 "index_reference": "διαρρήγνυμι",
@@ -22785,13 +22987,14 @@
 "end_ref_usfm": "ACT 14:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001300000000000",
 "reference_id": "001300000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διασαφέω",
 "media_type": "Text",
 "index_reference": "διασαφέω",
@@ -22813,13 +23016,14 @@
 "end_ref_usfm": "MAT 18:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001301000000000",
 "reference_id": "001301000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διασείω",
 "media_type": "Text",
 "index_reference": "διασείω",
@@ -22835,13 +23039,14 @@
 "end_ref_usfm": "LUK 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001302000000000",
 "reference_id": "001302000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διασκορπίζω",
 "media_type": "Text",
 "index_reference": "διασκορπίζω",
@@ -22905,13 +23110,14 @@
 "end_ref_usfm": "LUK 16:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001303000000000",
 "reference_id": "001303000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διασπάω",
 "media_type": "Text",
 "index_reference": "διασπάω",
@@ -22933,13 +23139,14 @@
 "end_ref_usfm": "ACT 23:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001304000000000",
 "reference_id": "001304000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διασπείρω",
 "media_type": "Text",
 "index_reference": "διασπείρω",
@@ -22967,13 +23174,14 @@
 "end_ref_usfm": "ACT 11:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001305000000000",
 "reference_id": "001305000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διασπορά",
 "media_type": "Text",
 "index_reference": "διασπορά",
@@ -23001,13 +23209,14 @@
 "end_ref_usfm": "1PE 1:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001306000000000",
 "reference_id": "001306000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαστέλλω",
 "media_type": "Text",
 "index_reference": "διαστέλλω",
@@ -23059,13 +23268,14 @@
 "end_ref_usfm": "HEB 12:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001307000000000",
 "reference_id": "001307000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάστημα",
 "media_type": "Text",
 "index_reference": "διάστημα",
@@ -23081,13 +23291,14 @@
 "end_ref_usfm": "ACT 5:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001308000000000",
 "reference_id": "001308000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαστολή",
 "media_type": "Text",
 "index_reference": "διαστολή",
@@ -23115,13 +23326,14 @@
 "end_ref_usfm": "1CO 14:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001309000000000",
 "reference_id": "001309000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαστρέφω",
 "media_type": "Text",
 "index_reference": "διαστρέφω",
@@ -23173,13 +23385,14 @@
 "end_ref_usfm": "ACT 13:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001310000000000",
 "reference_id": "001310000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διασῴζω",
 "media_type": "Text",
 "index_reference": "διασῴζω",
@@ -23237,13 +23450,14 @@
 "end_ref_usfm": "LUK 7:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001311000000000",
 "reference_id": "001311000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαταγή",
 "media_type": "Text",
 "index_reference": "διαταγή",
@@ -23265,13 +23479,14 @@
 "end_ref_usfm": "ROM 13:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001312000000000",
 "reference_id": "001312000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάταγμα",
 "media_type": "Text",
 "index_reference": "διάταγμα",
@@ -23287,13 +23502,14 @@
 "end_ref_usfm": "HEB 11:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001313000000000",
 "reference_id": "001313000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαταράσσω",
 "media_type": "Text",
 "index_reference": "διαταράσσω",
@@ -23309,13 +23525,14 @@
 "end_ref_usfm": "LUK 1:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001314000000000",
 "reference_id": "001314000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διατάσσω",
 "media_type": "Text",
 "index_reference": "διατάσσω",
@@ -23421,13 +23638,14 @@
 "end_ref_usfm": "ACT 20:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001315000000000",
 "reference_id": "001315000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διατελέω",
 "media_type": "Text",
 "index_reference": "διατελέω",
@@ -23443,13 +23661,14 @@
 "end_ref_usfm": "ACT 27:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001316000000000",
 "reference_id": "001316000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διατηρέω",
 "media_type": "Text",
 "index_reference": "διατηρέω",
@@ -23465,13 +23684,14 @@
 "end_ref_usfm": "ACT 15:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001317000000000",
 "reference_id": "001317000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διατίθημι",
 "media_type": "Text",
 "index_reference": "διατίθημι",
@@ -23517,13 +23737,14 @@
 "end_ref_usfm": "LUK 22:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001318000000000",
 "reference_id": "001318000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διατρίβω",
 "media_type": "Text",
 "index_reference": "διατρίβω",
@@ -23587,13 +23808,14 @@
 "end_ref_usfm": "ACT 25:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001319000000000",
 "reference_id": "001319000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διατροφή",
 "media_type": "Text",
 "index_reference": "διατροφή",
@@ -23609,13 +23831,14 @@
 "end_ref_usfm": "1TI 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001320000000000",
 "reference_id": "001320000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαυγάζω",
 "media_type": "Text",
 "index_reference": "διαυγάζω",
@@ -23631,13 +23854,14 @@
 "end_ref_usfm": "2PE 1:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001321000000000",
 "reference_id": "001321000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαυγής",
 "media_type": "Text",
 "index_reference": "διαυγής",
@@ -23653,13 +23877,14 @@
 "end_ref_usfm": "REV 21:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001322000000000",
 "reference_id": "001322000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαφέρω",
 "media_type": "Text",
 "index_reference": "διαφέρω",
@@ -23747,13 +23972,14 @@
 "end_ref_usfm": "PHP 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001323000000000",
 "reference_id": "001323000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαφεύγω",
 "media_type": "Text",
 "index_reference": "διαφεύγω",
@@ -23769,13 +23995,14 @@
 "end_ref_usfm": "ACT 27:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001324000000000",
 "reference_id": "001324000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαφημίζω",
 "media_type": "Text",
 "index_reference": "διαφημίζω",
@@ -23803,13 +24030,14 @@
 "end_ref_usfm": "MRK 1:45"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001325000000000",
 "reference_id": "001325000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαφθείρω",
 "media_type": "Text",
 "index_reference": "διαφθείρω",
@@ -23849,13 +24077,14 @@
 "end_ref_usfm": "2CO 4:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001326000000000",
 "reference_id": "001326000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαφθορά",
 "media_type": "Text",
 "index_reference": "διαφθορά",
@@ -23901,13 +24130,14 @@
 "end_ref_usfm": "ACT 13:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001327000000000",
 "reference_id": "001327000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διάφορος",
 "media_type": "Text",
 "index_reference": "διάφορος",
@@ -23941,13 +24171,14 @@
 "end_ref_usfm": "HEB 9:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001328000000000",
 "reference_id": "001328000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαφυλάσσω",
 "media_type": "Text",
 "index_reference": "διαφυλάσσω",
@@ -23963,13 +24194,14 @@
 "end_ref_usfm": "LUK 4:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001329000000000",
 "reference_id": "001329000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαχειρίζω",
 "media_type": "Text",
 "index_reference": "διαχειρίζω",
@@ -23991,13 +24223,14 @@
 "end_ref_usfm": "ACT 26:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001330000000000",
 "reference_id": "001330000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαχλευάζω",
 "media_type": "Text",
 "index_reference": "διαχλευάζω",
@@ -24013,13 +24246,14 @@
 "end_ref_usfm": "ACT 2:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001331000000000",
 "reference_id": "001331000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διαχωρίζω",
 "media_type": "Text",
 "index_reference": "διαχωρίζω",
@@ -24035,13 +24269,14 @@
 "end_ref_usfm": "LUK 9:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001332000000000",
 "reference_id": "001332000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διδακτικός",
 "media_type": "Text",
 "index_reference": "διδακτικός",
@@ -24063,13 +24298,14 @@
 "end_ref_usfm": "2TI 2:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001333000000000",
 "reference_id": "001333000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διδακτός",
 "media_type": "Text",
 "index_reference": "διδακτός",
@@ -24091,13 +24327,14 @@
 "end_ref_usfm": "1CO 2:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001334000000000",
 "reference_id": "001334000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διδασκαλία",
 "media_type": "Text",
 "index_reference": "διδασκαλία",
@@ -24233,13 +24470,14 @@
 "end_ref_usfm": "TIT 2:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001335000000000",
 "reference_id": "001335000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διδάσκαλος",
 "media_type": "Text",
 "index_reference": "διδάσκαλος",
@@ -24597,13 +24835,14 @@
 "end_ref_usfm": "JAS 3:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001336000000000",
 "reference_id": "001336000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διδάσκω",
 "media_type": "Text",
 "index_reference": "διδάσκω",
@@ -25159,13 +25398,14 @@
 "end_ref_usfm": "REV 2:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001337000000000",
 "reference_id": "001337000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διδαχή",
 "media_type": "Text",
 "index_reference": "διδαχή",
@@ -25343,13 +25583,14 @@
 "end_ref_usfm": "REV 2:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001338000000000",
 "reference_id": "001338000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίδραχμον",
 "media_type": "Text",
 "index_reference": "δίδραχμον",
@@ -25365,13 +25606,14 @@
 "end_ref_usfm": "MAT 17:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001339000000000",
 "reference_id": "001339000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δίδυμος",
 "media_type": "Text",
 "index_reference": "δίδυμος",
@@ -25399,13 +25641,14 @@
 "end_ref_usfm": "JHN 21:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001340000000000",
 "reference_id": "001340000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίδωμι",
 "media_type": "Text",
 "index_reference": "δίδωμι",
@@ -26915,13 +27158,14 @@
 "end_ref_usfm": "TIT 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001341000000000",
 "reference_id": "001341000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διεγείρω",
 "media_type": "Text",
 "index_reference": "διεγείρω",
@@ -26961,13 +27205,14 @@
 "end_ref_usfm": "JHN 6:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001342000000000",
 "reference_id": "001342000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διενθυμέομαι",
 "media_type": "Text",
 "index_reference": "διενθυμέομαι",
@@ -26983,13 +27228,14 @@
 "end_ref_usfm": "ACT 10:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001343000000000",
 "reference_id": "001343000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διέξοδος",
 "media_type": "Text",
 "index_reference": "διέξοδος",
@@ -27005,13 +27251,14 @@
 "end_ref_usfm": "MAT 22:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001344000000000",
 "reference_id": "001344000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διερμηνευτής",
 "media_type": "Text",
 "index_reference": "διερμηνευτής",
@@ -27027,13 +27274,14 @@
 "end_ref_usfm": "1CO 14:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001345000000000",
 "reference_id": "001345000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διερμηνεύω",
 "media_type": "Text",
 "index_reference": "διερμηνεύω",
@@ -27079,13 +27327,14 @@
 "end_ref_usfm": "LUK 24:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001346000000000",
 "reference_id": "001346000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διέρχομαι",
 "media_type": "Text",
 "index_reference": "διέρχομαι",
@@ -27335,13 +27584,14 @@
 "end_ref_usfm": "ACT 12:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001347000000000",
 "reference_id": "001347000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διερωτάω",
 "media_type": "Text",
 "index_reference": "διερωτάω",
@@ -27357,13 +27607,14 @@
 "end_ref_usfm": "ACT 10:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001348000000000",
 "reference_id": "001348000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διετής",
 "media_type": "Text",
 "index_reference": "διετής",
@@ -27379,13 +27630,14 @@
 "end_ref_usfm": "MAT 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001349000000000",
 "reference_id": "001349000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διετία",
 "media_type": "Text",
 "index_reference": "διετία",
@@ -27407,13 +27659,14 @@
 "end_ref_usfm": "ACT 28:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001350000000000",
 "reference_id": "001350000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διηγέομαι",
 "media_type": "Text",
 "index_reference": "διηγέομαι",
@@ -27471,13 +27724,14 @@
 "end_ref_usfm": "HEB 11:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001351000000000",
 "reference_id": "001351000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διήγησις",
 "media_type": "Text",
 "index_reference": "διήγησις",
@@ -27493,13 +27747,14 @@
 "end_ref_usfm": "LUK 1:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001352000000000",
 "reference_id": "001352000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διηνεκής",
 "media_type": "Text",
 "index_reference": "διηνεκής",
@@ -27533,13 +27788,14 @@
 "end_ref_usfm": "HEB 10:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001353000000000",
 "reference_id": "001353000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διθάλασσος",
 "media_type": "Text",
 "index_reference": "διθάλασσος",
@@ -27555,13 +27811,14 @@
 "end_ref_usfm": "ACT 27:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001354000000000",
 "reference_id": "001354000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διϊκνέομαι",
 "media_type": "Text",
 "index_reference": "διϊκνέομαι",
@@ -27577,13 +27834,14 @@
 "end_ref_usfm": "HEB 4:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001355000000000",
 "reference_id": "001355000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διΐστημι",
 "media_type": "Text",
 "index_reference": "διΐστημι",
@@ -27611,13 +27869,14 @@
 "end_ref_usfm": "LUK 22:59"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001356000000000",
 "reference_id": "001356000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διϊσχυρίζομαι",
 "media_type": "Text",
 "index_reference": "διϊσχυρίζομαι",
@@ -27639,13 +27898,14 @@
 "end_ref_usfm": "ACT 12:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001357000000000",
 "reference_id": "001357000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δικαιοκρισία",
 "media_type": "Text",
 "index_reference": "δικαιοκρισία",
@@ -27661,13 +27921,14 @@
 "end_ref_usfm": "ROM 2:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001358000000000",
 "reference_id": "001358000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίκαιος",
 "media_type": "Text",
 "index_reference": "δίκαιος",
@@ -28121,13 +28382,14 @@
 "end_ref_usfm": "2PE 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001359000000000",
 "reference_id": "001359000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δικαιοσύνη",
 "media_type": "Text",
 "index_reference": "δικαιοσύνη",
@@ -28653,13 +28915,14 @@
 "end_ref_usfm": "MAT 6:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001360000000000",
 "reference_id": "001360000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δικαιόω",
 "media_type": "Text",
 "index_reference": "δικαιόω",
@@ -28885,13 +29148,14 @@
 "end_ref_usfm": "LUK 7:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001361000000000",
 "reference_id": "001361000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δικαίωμα",
 "media_type": "Text",
 "index_reference": "δικαίωμα",
@@ -28961,13 +29225,14 @@
 "end_ref_usfm": "ROM 5:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001362000000000",
 "reference_id": "001362000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δικαίως",
 "media_type": "Text",
 "index_reference": "δικαίως",
@@ -29007,13 +29272,14 @@
 "end_ref_usfm": "1PE 2:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001363000000000",
 "reference_id": "001363000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δικαίωσις",
 "media_type": "Text",
 "index_reference": "δικαίωσις",
@@ -29035,13 +29301,14 @@
 "end_ref_usfm": "ROM 5:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001364000000000",
 "reference_id": "001364000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δικαστής",
 "media_type": "Text",
 "index_reference": "δικαστής",
@@ -29063,13 +29330,14 @@
 "end_ref_usfm": "ACT 7:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001365000000000",
 "reference_id": "001365000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίκη",
 "media_type": "Text",
 "index_reference": "δίκη",
@@ -29097,13 +29365,14 @@
 "end_ref_usfm": "ACT 28:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001366000000000",
 "reference_id": "001366000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίκτυον",
 "media_type": "Text",
 "index_reference": "δίκτυον",
@@ -29179,13 +29448,14 @@
 "end_ref_usfm": "JHN 21:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001367000000000",
 "reference_id": "001367000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίλογος",
 "media_type": "Text",
 "index_reference": "δίλογος",
@@ -29201,13 +29471,14 @@
 "end_ref_usfm": "1TI 3:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001368000000000",
 "reference_id": "001368000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διό",
 "media_type": "Text",
 "index_reference": "διό",
@@ -29529,13 +29800,14 @@
 "end_ref_usfm": "2PE 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001369000000000",
 "reference_id": "001369000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διοδεύω",
 "media_type": "Text",
 "index_reference": "διοδεύω",
@@ -29557,13 +29829,14 @@
 "end_ref_usfm": "ACT 17:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001370000000000",
 "reference_id": "001370000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Διονύσιος",
 "media_type": "Text",
 "index_reference": "διονύσιος",
@@ -29579,13 +29852,22 @@
 "end_ref_usfm": "ACT 17:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Dionysius",
+"type": "person",
+"confidence": 0.9099,
+"match_method": "embedding",
+"preferred_label": "Dionysius"
+}
+]
 }
 },
 {
 "content_id": "001371000000000",
 "reference_id": "001371000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διόπερ",
 "media_type": "Text",
 "index_reference": "διόπερ",
@@ -29607,13 +29889,14 @@
 "end_ref_usfm": "1CO 10:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001372000000000",
 "reference_id": "001372000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διοπετής",
 "media_type": "Text",
 "index_reference": "διοπετής",
@@ -29629,13 +29912,14 @@
 "end_ref_usfm": "ACT 19:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001373000000000",
 "reference_id": "001373000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διόρθωμα",
 "media_type": "Text",
 "index_reference": "διόρθωμα",
@@ -29651,13 +29935,14 @@
 "end_ref_usfm": "ACT 24:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001374000000000",
 "reference_id": "001374000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διόρθωσις",
 "media_type": "Text",
 "index_reference": "διόρθωσις",
@@ -29673,13 +29958,14 @@
 "end_ref_usfm": "HEB 9:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001375000000000",
 "reference_id": "001375000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διορύσσω",
 "media_type": "Text",
 "index_reference": "διορύσσω",
@@ -29713,13 +29999,14 @@
 "end_ref_usfm": "LUK 12:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001376000000000",
 "reference_id": "001376000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Διόσκουροι",
 "media_type": "Text",
 "index_reference": "διόσκουροι",
@@ -29735,13 +30022,14 @@
 "end_ref_usfm": "ACT 28:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001377000000000",
 "reference_id": "001377000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διότι",
 "media_type": "Text",
 "index_reference": "διότι",
@@ -29889,13 +30177,14 @@
 "end_ref_usfm": "ROM 8:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001378000000000",
 "reference_id": "001378000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Διοτρέφης",
 "media_type": "Text",
 "index_reference": "διοτρέφης",
@@ -29911,13 +30200,14 @@
 "end_ref_usfm": "3JN 1:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001379000000000",
 "reference_id": "001379000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διπλοῦς",
 "media_type": "Text",
 "index_reference": "διπλοῦς",
@@ -29945,13 +30235,14 @@
 "end_ref_usfm": "REV 18:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001380000000000",
 "reference_id": "001380000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διπλόω",
 "media_type": "Text",
 "index_reference": "διπλόω",
@@ -29967,13 +30258,14 @@
 "end_ref_usfm": "REV 18:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001381000000000",
 "reference_id": "001381000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίς",
 "media_type": "Text",
 "index_reference": "δίς",
@@ -30019,13 +30311,14 @@
 "end_ref_usfm": "JUD 1:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001382000000000",
 "reference_id": "001382000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δισμυριάς",
 "media_type": "Text",
 "index_reference": "δισμυριάς",
@@ -30041,13 +30334,14 @@
 "end_ref_usfm": "REV 9:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001383000000000",
 "reference_id": "001383000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διστάζω",
 "media_type": "Text",
 "index_reference": "διστάζω",
@@ -30069,13 +30363,14 @@
 "end_ref_usfm": "MAT 28:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001384000000000",
 "reference_id": "001384000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίστομος",
 "media_type": "Text",
 "index_reference": "δίστομος",
@@ -30103,13 +30398,14 @@
 "end_ref_usfm": "REV 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001385000000000",
 "reference_id": "001385000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δισχίλιοι",
 "media_type": "Text",
 "index_reference": "δισχίλιοι",
@@ -30125,13 +30421,14 @@
 "end_ref_usfm": "MRK 5:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001386000000000",
 "reference_id": "001386000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διϋλίζω",
 "media_type": "Text",
 "index_reference": "διϋλίζω",
@@ -30147,13 +30444,14 @@
 "end_ref_usfm": "MAT 23:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001387000000000",
 "reference_id": "001387000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διχάζω",
 "media_type": "Text",
 "index_reference": "διχάζω",
@@ -30169,13 +30467,14 @@
 "end_ref_usfm": "MAT 10:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001388000000000",
 "reference_id": "001388000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διχοστασία",
 "media_type": "Text",
 "index_reference": "διχοστασία",
@@ -30197,13 +30496,14 @@
 "end_ref_usfm": "GAL 5:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001389000000000",
 "reference_id": "001389000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διχοτομέω",
 "media_type": "Text",
 "index_reference": "διχοτομέω",
@@ -30225,13 +30525,14 @@
 "end_ref_usfm": "LUK 12:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001390000000000",
 "reference_id": "001390000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διψάω",
 "media_type": "Text",
 "index_reference": "διψάω",
@@ -30337,13 +30638,14 @@
 "end_ref_usfm": "JHN 7:37"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001391000000000",
 "reference_id": "001391000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίψος",
 "media_type": "Text",
 "index_reference": "δίψος",
@@ -30359,13 +30661,14 @@
 "end_ref_usfm": "2CO 11:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001392000000000",
 "reference_id": "001392000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δίψυχος",
 "media_type": "Text",
 "index_reference": "δίψυχος",
@@ -30387,13 +30690,14 @@
 "end_ref_usfm": "JAS 4:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001393000000000",
 "reference_id": "001393000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διωγμός",
 "media_type": "Text",
 "index_reference": "διωγμός",
@@ -30457,13 +30761,14 @@
 "end_ref_usfm": "2TI 3:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001394000000000",
 "reference_id": "001394000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διώκτης",
 "media_type": "Text",
 "index_reference": "διώκτης",
@@ -30479,13 +30784,14 @@
 "end_ref_usfm": "1TI 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001395000000000",
 "reference_id": "001395000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "διώκω",
 "media_type": "Text",
 "index_reference": "διώκω",
@@ -30759,13 +31065,14 @@
 "end_ref_usfm": "2TI 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001396000000000",
 "reference_id": "001396000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δόγμα",
 "media_type": "Text",
 "index_reference": "δόγμα",
@@ -30805,13 +31112,14 @@
 "end_ref_usfm": "EPH 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001397000000000",
 "reference_id": "001397000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δογματίζω",
 "media_type": "Text",
 "index_reference": "δογματίζω",
@@ -30827,13 +31135,14 @@
 "end_ref_usfm": "COL 2:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001398000000000",
 "reference_id": "001398000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοκέω",
 "media_type": "Text",
 "index_reference": "δοκέω",
@@ -31209,13 +31518,14 @@
 "end_ref_usfm": "HEB 12:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001399000000000",
 "reference_id": "001399000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοκιμάζω",
 "media_type": "Text",
 "index_reference": "δοκιμάζω",
@@ -31345,13 +31655,14 @@
 "end_ref_usfm": "PHP 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001400000000000",
 "reference_id": "001400000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοκιμασία",
 "media_type": "Text",
 "index_reference": "δοκιμασία",
@@ -31367,13 +31678,14 @@
 "end_ref_usfm": "HEB 3:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001401000000000",
 "reference_id": "001401000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοκιμή",
 "media_type": "Text",
 "index_reference": "δοκιμή",
@@ -31419,13 +31731,14 @@
 "end_ref_usfm": "PHP 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001402000000000",
 "reference_id": "001402000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοκίμιον",
 "media_type": "Text",
 "index_reference": "δοκίμιον",
@@ -31447,13 +31760,14 @@
 "end_ref_usfm": "1PE 1:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001403000000000",
 "reference_id": "001403000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δόκιμος",
 "media_type": "Text",
 "index_reference": "δόκιμος",
@@ -31505,13 +31819,14 @@
 "end_ref_usfm": "ROM 14:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001404000000000",
 "reference_id": "001404000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοκός",
 "media_type": "Text",
 "index_reference": "δοκός",
@@ -31551,13 +31866,14 @@
 "end_ref_usfm": "LUK 6:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001405000000000",
 "reference_id": "001405000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δόλιος",
 "media_type": "Text",
 "index_reference": "δόλιος",
@@ -31573,13 +31889,14 @@
 "end_ref_usfm": "2CO 11:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001406000000000",
 "reference_id": "001406000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δολιόω",
 "media_type": "Text",
 "index_reference": "δολιόω",
@@ -31595,13 +31912,14 @@
 "end_ref_usfm": "ROM 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001407000000000",
 "reference_id": "001407000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δόλος",
 "media_type": "Text",
 "index_reference": "δόλος",
@@ -31677,13 +31995,14 @@
 "end_ref_usfm": "1PE 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001408000000000",
 "reference_id": "001408000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δολόω",
 "media_type": "Text",
 "index_reference": "δολόω",
@@ -31699,13 +32018,14 @@
 "end_ref_usfm": "2CO 4:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001409000000000",
 "reference_id": "001409000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δόμα",
 "media_type": "Text",
 "index_reference": "δόμα",
@@ -31739,13 +32059,14 @@
 "end_ref_usfm": "PHP 4:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001410000000000",
 "reference_id": "001410000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δονεῖ",
 "media_type": "Text",
 "index_reference": "δονεῖ",
@@ -31754,13 +32075,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001410000000000\" class=\"lex-lemma\">Δονεῖ</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Δονεῖ</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜陽＞</p><div class=\"lex-meaning\" data-id=\"001410001001000\"><p class=\"lex-domains\" id=\"93.100\"><span class=\"lex-entry-code\">93.100</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">人名</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">(音譯)多內</span></span> <span class=\"lex-def\">耶穌家譜中的一員(<a href=\"https://ref.ly/Mark3:33\">LUK 3:33</a>,GNT3c-校勘欄)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001411000000000",
 "reference_id": "001411000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δόξα",
 "media_type": "Text",
 "index_reference": "δόξα",
@@ -32658,13 +32980,14 @@
 "end_ref_usfm": "1TH 2:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001412000000000",
 "reference_id": "001412000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοξάζω",
 "media_type": "Text",
 "index_reference": "δοξάζω",
@@ -32992,13 +33315,14 @@
 "end_ref_usfm": "1PE 1:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001413000000000",
 "reference_id": "001413000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δορκάς",
 "media_type": "Text",
 "index_reference": "δορκάς",
@@ -33020,13 +33344,14 @@
 "end_ref_usfm": "ACT 9:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001414000000000",
 "reference_id": "001414000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δόσις",
 "media_type": "Text",
 "index_reference": "δόσις",
@@ -33048,13 +33373,14 @@
 "end_ref_usfm": "JAS 1:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001415000000000",
 "reference_id": "001415000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δότης",
 "media_type": "Text",
 "index_reference": "δότης",
@@ -33070,13 +33396,14 @@
 "end_ref_usfm": "2CO 9:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001416000000000",
 "reference_id": "001416000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δουβέριος",
 "media_type": "Text",
 "index_reference": "δουβέριος",
@@ -33085,13 +33412,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001416000000000\" class=\"lex-lemma\">Δουβέριος</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Δουβέριος</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜形＞</p><div class=\"lex-meaning\" data-id=\"001416001001000\"><p class=\"lex-domains\" id=\"93.463\"><span class=\"lex-entry-code\">93.463</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">(音譯)多庇羅思人</span></span> <span class=\"lex-def\">(Δόβηρος 音譯:「多庇羅思」[Doberus] 的衍生詞,原詞沒有出現在新約中)馬其頓城市多庇羅思的本地人或住在該城的人(<a href=\"https://ref.ly/John20:4\">ACT 20:4</a>,校勘欄)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001417000000000",
 "reference_id": "001417000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δουλαγωγέω",
 "media_type": "Text",
 "index_reference": "δουλαγωγέω",
@@ -33107,13 +33435,14 @@
 "end_ref_usfm": "1CO 9:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001418000000000",
 "reference_id": "001418000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δουλεία",
 "media_type": "Text",
 "index_reference": "δουλεία",
@@ -33153,13 +33482,14 @@
 "end_ref_usfm": "HEB 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001419000000000",
 "reference_id": "001419000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δουλεύω",
 "media_type": "Text",
 "index_reference": "δουλεύω",
@@ -33307,13 +33637,14 @@
 "end_ref_usfm": "1TI 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001420000000000",
 "reference_id": "001420000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δούλη",
 "media_type": "Text",
 "index_reference": "δούλη",
@@ -33341,13 +33672,14 @@
 "end_ref_usfm": "ACT 2:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001421000000000",
 "reference_id": "001421000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοῦλος",
 "media_type": "Text",
 "index_reference": "δοῦλος",
@@ -34065,13 +34397,14 @@
 "end_ref_usfm": "REV 22:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001422000000000",
 "reference_id": "001422000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δουλόω",
 "media_type": "Text",
 "index_reference": "δουλόω",
@@ -34129,13 +34462,14 @@
 "end_ref_usfm": "2PE 2:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001423000000000",
 "reference_id": "001423000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δοχή",
 "media_type": "Text",
 "index_reference": "δοχή",
@@ -34157,13 +34491,14 @@
 "end_ref_usfm": "LUK 14:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001424000000000",
 "reference_id": "001424000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δράκων",
 "media_type": "Text",
 "index_reference": "δράκων",
@@ -34245,13 +34580,14 @@
 "end_ref_usfm": "REV 20:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001425000000000",
 "reference_id": "001425000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δράσσομαι",
 "media_type": "Text",
 "index_reference": "δράσσομαι",
@@ -34267,13 +34603,14 @@
 "end_ref_usfm": "1CO 3:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001426000000000",
 "reference_id": "001426000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δραχμή",
 "media_type": "Text",
 "index_reference": "δραχμή",
@@ -34295,13 +34632,14 @@
 "end_ref_usfm": "LUK 15:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001427000000000",
 "reference_id": "001427000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δρέπανον",
 "media_type": "Text",
 "index_reference": "δρέπανον",
@@ -34353,13 +34691,14 @@
 "end_ref_usfm": "REV 14:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001428000000000",
 "reference_id": "001428000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δρόμος",
 "media_type": "Text",
 "index_reference": "δρόμος",
@@ -34387,13 +34726,14 @@
 "end_ref_usfm": "ACT 20:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001429000000000",
 "reference_id": "001429000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Δρούσιλλα",
 "media_type": "Text",
 "index_reference": "δρούσιλλα",
@@ -34409,13 +34749,14 @@
 "end_ref_usfm": "ACT 24:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001430000000000",
 "reference_id": "001430000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δύναμαι",
 "media_type": "Text",
 "index_reference": "δύναμαι",
@@ -35625,13 +35966,14 @@
 "end_ref_usfm": "REV 15:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001431000000000",
 "reference_id": "001431000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δύναμις",
 "media_type": "Text",
 "index_reference": "δύναμις",
@@ -36331,13 +36673,14 @@
 "end_ref_usfm": "1CO 14:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001432000000000",
 "reference_id": "001432000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυναμόω",
 "media_type": "Text",
 "index_reference": "δυναμόω",
@@ -36359,13 +36702,14 @@
 "end_ref_usfm": "HEB 11:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001433000000000",
 "reference_id": "001433000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυνάστης",
 "media_type": "Text",
 "index_reference": "δυνάστης",
@@ -36393,13 +36737,14 @@
 "end_ref_usfm": "1TI 6:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001434000000000",
 "reference_id": "001434000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυνατέω",
 "media_type": "Text",
 "index_reference": "δυνατέω",
@@ -36427,13 +36772,14 @@
 "end_ref_usfm": "2CO 13:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001435000000000",
 "reference_id": "001435000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυνατός",
 "media_type": "Text",
 "index_reference": "δυνατός",
@@ -36635,13 +36981,14 @@
 "end_ref_usfm": "ACT 25:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001436000000000",
 "reference_id": "001436000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δύνω",
 "media_type": "Text",
 "index_reference": "δύνω",
@@ -36663,13 +37010,14 @@
 "end_ref_usfm": "LUK 4:40"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001437000000000",
 "reference_id": "001437000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δύο",
 "media_type": "Text",
 "index_reference": "δύο",
@@ -37411,13 +37759,14 @@
 "end_ref_usfm": "REV 19:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001438000000000",
 "reference_id": "001438000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσβάστακτος",
 "media_type": "Text",
 "index_reference": "δυσβάστακτος",
@@ -37433,13 +37782,14 @@
 "end_ref_usfm": "LUK 11:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001439000000000",
 "reference_id": "001439000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσεντέριον",
 "media_type": "Text",
 "index_reference": "δυσεντέριον",
@@ -37455,13 +37805,14 @@
 "end_ref_usfm": "ACT 28:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001440000000000",
 "reference_id": "001440000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσερμήνευτος",
 "media_type": "Text",
 "index_reference": "δυσερμήνευτος",
@@ -37477,13 +37828,14 @@
 "end_ref_usfm": "HEB 5:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001441000000000",
 "reference_id": "001441000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δύσις",
 "media_type": "Text",
 "index_reference": "δύσις",
@@ -37499,13 +37851,14 @@
 "end_ref_usfm": "MRK 16:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001442000000000",
 "reference_id": "001442000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δύσκολος",
 "media_type": "Text",
 "index_reference": "δύσκολος",
@@ -37521,13 +37874,14 @@
 "end_ref_usfm": "MRK 10:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001443000000000",
 "reference_id": "001443000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσκόλως",
 "media_type": "Text",
 "index_reference": "δυσκόλως",
@@ -37555,13 +37909,14 @@
 "end_ref_usfm": "LUK 18:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001444000000000",
 "reference_id": "001444000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσμή",
 "media_type": "Text",
 "index_reference": "δυσμή",
@@ -37601,13 +37956,14 @@
 "end_ref_usfm": "REV 21:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001445000000000",
 "reference_id": "001445000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσνόητος",
 "media_type": "Text",
 "index_reference": "δυσνόητος",
@@ -37623,13 +37979,14 @@
 "end_ref_usfm": "2PE 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001446000000000",
 "reference_id": "001446000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσφημέω",
 "media_type": "Text",
 "index_reference": "δυσφημέω",
@@ -37645,13 +38002,14 @@
 "end_ref_usfm": "1CO 4:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001447000000000",
 "reference_id": "001447000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δυσφημία",
 "media_type": "Text",
 "index_reference": "δυσφημία",
@@ -37667,13 +38025,14 @@
 "end_ref_usfm": "2CO 6:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001448000000000",
 "reference_id": "001448000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δώδεκα",
 "media_type": "Text",
 "index_reference": "δώδεκα",
@@ -38049,13 +38408,14 @@
 "end_ref_usfm": "ACT 6:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001449000000000",
 "reference_id": "001449000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δωδέκατος",
 "media_type": "Text",
 "index_reference": "δωδέκατος",
@@ -38071,13 +38431,14 @@
 "end_ref_usfm": "REV 21:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001450000000000",
 "reference_id": "001450000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δωδεκάφυλον",
 "media_type": "Text",
 "index_reference": "δωδεκάφυλον",
@@ -38093,13 +38454,14 @@
 "end_ref_usfm": "ACT 26:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001451000000000",
 "reference_id": "001451000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δῶμα",
 "media_type": "Text",
 "index_reference": "δῶμα",
@@ -38151,13 +38513,14 @@
 "end_ref_usfm": "ACT 10:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001452000000000",
 "reference_id": "001452000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δωρεά",
 "media_type": "Text",
 "index_reference": "δωρεά",
@@ -38233,13 +38596,14 @@
 "end_ref_usfm": "HEB 6:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001453000000000",
 "reference_id": "001453000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δωρεάν",
 "media_type": "Text",
 "index_reference": "δωρεάν",
@@ -38297,13 +38661,14 @@
 "end_ref_usfm": "GAL 2:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001454000000000",
 "reference_id": "001454000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δωρέομαι",
 "media_type": "Text",
 "index_reference": "δωρέομαι",
@@ -38331,13 +38696,14 @@
 "end_ref_usfm": "2PE 1:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001455000000000",
 "reference_id": "001455000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δώρημα",
 "media_type": "Text",
 "index_reference": "δώρημα",
@@ -38359,13 +38725,14 @@
 "end_ref_usfm": "JAS 1:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001456000000000",
 "reference_id": "001456000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δῶρον",
 "media_type": "Text",
 "index_reference": "δῶρον",
@@ -38477,13 +38844,14 @@
 "end_ref_usfm": "REV 11:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001457000000000",
 "reference_id": "001457000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "δωροφορία",
 "media_type": "Text",
 "index_reference": "δωροφορία",
@@ -38499,7 +38867,8 @@
 "end_ref_usfm": "ROM 15:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

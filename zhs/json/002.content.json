@@ -2,7 +2,7 @@
 {
 "content_id": "000894000000000",
 "reference_id": "000894000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "β",
 "media_type": "Text",
 "index_reference": "β",
@@ -11,13 +11,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000894000000000\" class=\"lex-lemma\">β</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">β</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜中＞</p><div class=\"lex-meaning\" data-id=\"000894001001000\"><p class=\"lex-domains\" id=\"60.49\"><span class=\"lex-entry-code\">60.49</span>  ·  <span class=\"lex-domain\">数目</span>  ·  <span class=\"lex-subdomain\">第一，第二，第三，等等（序数）</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">第二;其次</span></span> <span class=\"lex-def\">时间、空间或集合系列中的第二个</span> <span class=\"lex-comments\">只出现在新约书卷的标题中:πρὸς Κορινθίους β“致哥林多人的第二封信”(即《哥林多后书》);πρὸς Τιμόθεον β“给提摩太的第二封信”(即《提摩太后书》)。</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000895000000000",
 "reference_id": "000895000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βάαλ",
 "media_type": "Text",
 "index_reference": "βάαλ",
@@ -33,13 +34,36 @@
 "end_ref_usfm": "ROM 11:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 0.8094,
+"match_method": "embedding",
+"preferred_label": "Baal"
+},
+{
+"id": "person:Baal",
+"type": "person",
+"confidence": 0.8094,
+"match_method": "embedding",
+"preferred_label": "Baal"
+},
+{
+"id": "person:Baal.2",
+"type": "person",
+"confidence": 0.8094,
+"match_method": "embedding",
+"preferred_label": "Baal"
+}
+]
 }
 },
 {
 "content_id": "000896000000000",
 "reference_id": "000896000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαβυλών",
 "media_type": "Text",
 "index_reference": "βαβυλών",
@@ -115,13 +139,14 @@
 "end_ref_usfm": "REV 18:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000897000000000",
 "reference_id": "000897000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαθμός",
 "media_type": "Text",
 "index_reference": "βαθμός",
@@ -137,13 +162,14 @@
 "end_ref_usfm": "1TI 3:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000898000000000",
 "reference_id": "000898000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάθος",
 "media_type": "Text",
 "index_reference": "βάθος",
@@ -201,13 +227,14 @@
 "end_ref_usfm": "1CO 2:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000899000000000",
 "reference_id": "000899000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαθύνω",
 "media_type": "Text",
 "index_reference": "βαθύνω",
@@ -223,13 +250,14 @@
 "end_ref_usfm": "LUK 6:48"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000900000000000",
 "reference_id": "000900000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαθύς",
 "media_type": "Text",
 "index_reference": "βαθύς",
@@ -263,13 +291,14 @@
 "end_ref_usfm": "REV 2:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000901000000000",
 "reference_id": "000901000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάϊον",
 "media_type": "Text",
 "index_reference": "βάϊον",
@@ -285,13 +314,14 @@
 "end_ref_usfm": "JHN 12:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000902000000000",
 "reference_id": "000902000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαλαάμ",
 "media_type": "Text",
 "index_reference": "βαλαάμ",
@@ -319,13 +349,22 @@
 "end_ref_usfm": "REV 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Balaam",
+"type": "person",
+"confidence": 0.8691,
+"match_method": "embedding",
+"preferred_label": "Balaam"
+}
+]
 }
 },
 {
 "content_id": "000903000000000",
 "reference_id": "000903000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαλάκ",
 "media_type": "Text",
 "index_reference": "βαλάκ",
@@ -341,13 +380,14 @@
 "end_ref_usfm": "REV 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000904000000000",
 "reference_id": "000904000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαλλάντιον",
 "media_type": "Text",
 "index_reference": "βαλλάντιον",
@@ -381,13 +421,14 @@
 "end_ref_usfm": "LUK 22:36"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000905000000000",
 "reference_id": "000905000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάλλω",
 "media_type": "Text",
 "index_reference": "βάλλω",
@@ -1033,13 +1074,14 @@
 "end_ref_usfm": "LUK 12:49"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000906000000000",
 "reference_id": "000906000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαπτίζω",
 "media_type": "Text",
 "index_reference": "βαπτίζω",
@@ -1427,13 +1469,14 @@
 "end_ref_usfm": "LUK 12:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000907000000000",
 "reference_id": "000907000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάπτισμα",
 "media_type": "Text",
 "index_reference": "βάπτισμα",
@@ -1557,13 +1600,14 @@
 "end_ref_usfm": "1PE 3:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000908000000000",
 "reference_id": "000908000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαπτισμός",
 "media_type": "Text",
 "index_reference": "βαπτισμός",
@@ -1597,13 +1641,14 @@
 "end_ref_usfm": "COL 2:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000909000000000",
 "reference_id": "000909000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαπτιστής",
 "media_type": "Text",
 "index_reference": "βαπτιστής",
@@ -1685,13 +1730,14 @@
 "end_ref_usfm": "LUK 9:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000910000000000",
 "reference_id": "000910000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάπτω",
 "media_type": "Text",
 "index_reference": "βάπτω",
@@ -1719,13 +1765,14 @@
 "end_ref_usfm": "REV 19:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000911000000000",
 "reference_id": "000911000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαραββᾶς",
 "media_type": "Text",
 "index_reference": "βαραββᾶς",
@@ -1795,13 +1842,22 @@
 "end_ref_usfm": "JHN 18:40"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Barabbas",
+"type": "person",
+"confidence": 0.8102,
+"match_method": "embedding",
+"preferred_label": "Barabbas"
+}
+]
 }
 },
 {
 "content_id": "000912000000000",
 "reference_id": "000912000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαράκ",
 "media_type": "Text",
 "index_reference": "βαράκ",
@@ -1817,13 +1873,22 @@
 "end_ref_usfm": "HEB 11:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Barak",
+"type": "person",
+"confidence": 0.8213,
+"match_method": "embedding",
+"preferred_label": "Barak"
+}
+]
 }
 },
 {
 "content_id": "000913000000000",
 "reference_id": "000913000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαραχίας",
 "media_type": "Text",
 "index_reference": "βαραχίας",
@@ -1839,13 +1904,14 @@
 "end_ref_usfm": "MAT 23:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000914000000000",
 "reference_id": "000914000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάρβαρος",
 "media_type": "Text",
 "index_reference": "βάρβαρος",
@@ -1885,13 +1951,14 @@
 "end_ref_usfm": "COL 3:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000915000000000",
 "reference_id": "000915000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαρέω",
 "media_type": "Text",
 "index_reference": "βαρέω",
@@ -1937,13 +2004,14 @@
 "end_ref_usfm": "MAT 26:43"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000916000000000",
 "reference_id": "000916000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαρέως",
 "media_type": "Text",
 "index_reference": "βαρέως",
@@ -1965,13 +2033,14 @@
 "end_ref_usfm": "ACT 28:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000917000000000",
 "reference_id": "000917000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαρθολομαῖος",
 "media_type": "Text",
 "index_reference": "βαρθολομαῖος",
@@ -2005,13 +2074,22 @@
 "end_ref_usfm": "ACT 1:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Bartholomew",
+"type": "person",
+"confidence": 0.8032,
+"match_method": "embedding",
+"preferred_label": "Bartholomew"
+}
+]
 }
 },
 {
 "content_id": "000918000000000",
 "reference_id": "000918000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαριησοῦς",
 "media_type": "Text",
 "index_reference": "βαριησοῦς",
@@ -2027,13 +2105,14 @@
 "end_ref_usfm": "ACT 13:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000919000000000",
 "reference_id": "000919000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαριωνᾶ",
 "media_type": "Text",
 "index_reference": "βαριωνᾶ",
@@ -2049,13 +2128,14 @@
 "end_ref_usfm": "MAT 16:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000920000000000",
 "reference_id": "000920000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαρναβᾶς",
 "media_type": "Text",
 "index_reference": "βαρναβᾶς",
@@ -2227,13 +2307,22 @@
 "end_ref_usfm": "COL 4:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Barnabas",
+"type": "person",
+"confidence": 0.8019,
+"match_method": "embedding",
+"preferred_label": "Barnabas"
+}
+]
 }
 },
 {
 "content_id": "000921000000000",
 "reference_id": "000921000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάρος",
 "media_type": "Text",
 "index_reference": "βάρος",
@@ -2279,13 +2368,14 @@
 "end_ref_usfm": "2CO 4:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000922000000000",
 "reference_id": "000922000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαρσαββᾶς",
 "media_type": "Text",
 "index_reference": "βαρσαββᾶς",
@@ -2307,13 +2397,14 @@
 "end_ref_usfm": "ACT 15:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000923000000000",
 "reference_id": "000923000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βαρτιμαῖος",
 "media_type": "Text",
 "index_reference": "βαρτιμαῖος",
@@ -2329,13 +2420,14 @@
 "end_ref_usfm": "MRK 10:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000924000000000",
 "reference_id": "000924000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαρύς",
 "media_type": "Text",
 "index_reference": "βαρύς",
@@ -2381,13 +2473,14 @@
 "end_ref_usfm": "ACT 20:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000925000000000",
 "reference_id": "000925000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαρύτιμος",
 "media_type": "Text",
 "index_reference": "βαρύτιμος",
@@ -2403,13 +2496,14 @@
 "end_ref_usfm": "MAT 26:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000926000000000",
 "reference_id": "000926000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασανίζω",
 "media_type": "Text",
 "index_reference": "βασανίζω",
@@ -2491,13 +2585,14 @@
 "end_ref_usfm": "REV 20:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000927000000000",
 "reference_id": "000927000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασανισμός",
 "media_type": "Text",
 "index_reference": "βασανισμός",
@@ -2537,13 +2632,14 @@
 "end_ref_usfm": "REV 18:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000928000000000",
 "reference_id": "000928000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασανιστής",
 "media_type": "Text",
 "index_reference": "βασανιστής",
@@ -2559,13 +2655,14 @@
 "end_ref_usfm": "MAT 18:34"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000929000000000",
 "reference_id": "000929000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάσανος",
 "media_type": "Text",
 "index_reference": "βάσανος",
@@ -2593,13 +2690,14 @@
 "end_ref_usfm": "LUK 16:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000930000000000",
 "reference_id": "000930000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασιλεία",
 "media_type": "Text",
 "index_reference": "βασιλεία",
@@ -3527,13 +3625,14 @@
 "end_ref_usfm": "REV 16:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000931000000000",
 "reference_id": "000931000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασίλειος",
 "media_type": "Text",
 "index_reference": "βασίλειος",
@@ -3555,13 +3654,14 @@
 "end_ref_usfm": "LUK 7:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000932000000000",
 "reference_id": "000932000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασιλεύς",
 "media_type": "Text",
 "index_reference": "βασιλεύς",
@@ -4201,13 +4301,14 @@
 "end_ref_usfm": "REV 21:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000933000000000",
 "reference_id": "000933000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασιλεύω",
 "media_type": "Text",
 "index_reference": "βασιλεύω",
@@ -4319,13 +4420,14 @@
 "end_ref_usfm": "ROM 6:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000934000000000",
 "reference_id": "000934000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασιλικός",
 "media_type": "Text",
 "index_reference": "βασιλικός",
@@ -4365,13 +4467,14 @@
 "end_ref_usfm": "JHN 4:49"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000935000000000",
 "reference_id": "000935000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασίλισσα",
 "media_type": "Text",
 "index_reference": "βασίλισσα",
@@ -4405,13 +4508,14 @@
 "end_ref_usfm": "REV 18:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000936000000000",
 "reference_id": "000936000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάσις",
 "media_type": "Text",
 "index_reference": "βάσις",
@@ -4427,13 +4531,14 @@
 "end_ref_usfm": "ACT 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000937000000000",
 "reference_id": "000937000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βασκαίνω",
 "media_type": "Text",
 "index_reference": "βασκαίνω",
@@ -4449,13 +4554,14 @@
 "end_ref_usfm": "GAL 3:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000938000000000",
 "reference_id": "000938000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βαστάζω",
 "media_type": "Text",
 "index_reference": "βαστάζω",
@@ -4627,13 +4733,14 @@
 "end_ref_usfm": "LUK 11:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000939000000000",
 "reference_id": "000939000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάτος",
 "media_type": "Text",
 "index_reference": "βάτος",
@@ -4679,13 +4786,14 @@
 "end_ref_usfm": "LUK 16:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000940000000000",
 "reference_id": "000940000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βάτραχος",
 "media_type": "Text",
 "index_reference": "βάτραχος",
@@ -4701,13 +4809,14 @@
 "end_ref_usfm": "REV 16:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000941000000000",
 "reference_id": "000941000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βατταλογέω",
 "media_type": "Text",
 "index_reference": "βατταλογέω",
@@ -4723,13 +4832,14 @@
 "end_ref_usfm": "MAT 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000942000000000",
 "reference_id": "000942000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βδέλυγμα",
 "media_type": "Text",
 "index_reference": "βδέλυγμα",
@@ -4775,13 +4885,14 @@
 "end_ref_usfm": "MRK 13:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000943000000000",
 "reference_id": "000943000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βδελυκτός",
 "media_type": "Text",
 "index_reference": "βδελυκτός",
@@ -4797,13 +4908,14 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000944000000000",
 "reference_id": "000944000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βδελύσσομαι",
 "media_type": "Text",
 "index_reference": "βδελύσσομαι",
@@ -4825,13 +4937,14 @@
 "end_ref_usfm": "REV 21:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000945000000000",
 "reference_id": "000945000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βέβαιος",
 "media_type": "Text",
 "index_reference": "βέβαιος",
@@ -4889,13 +5002,14 @@
 "end_ref_usfm": "2PE 1:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000946000000000",
 "reference_id": "000946000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βεβαιόω",
 "media_type": "Text",
 "index_reference": "βεβαιόω",
@@ -4953,13 +5067,14 @@
 "end_ref_usfm": "COL 2:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000947000000000",
 "reference_id": "000947000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βεβαίωσις",
 "media_type": "Text",
 "index_reference": "βεβαίωσις",
@@ -4981,13 +5096,14 @@
 "end_ref_usfm": "HEB 6:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000948000000000",
 "reference_id": "000948000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βέβηλος",
 "media_type": "Text",
 "index_reference": "βέβηλος",
@@ -5027,13 +5143,14 @@
 "end_ref_usfm": "HEB 12:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000949000000000",
 "reference_id": "000949000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βεβηλόω",
 "media_type": "Text",
 "index_reference": "βεβηλόω",
@@ -5055,13 +5172,14 @@
 "end_ref_usfm": "ACT 24:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000950000000000",
 "reference_id": "000950000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βεελζεβούλ",
 "media_type": "Text",
 "index_reference": "βεελζεβούλ",
@@ -5113,13 +5231,14 @@
 "end_ref_usfm": "LUK 11:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000951000000000",
 "reference_id": "000951000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βελζεθά",
 "media_type": "Text",
 "index_reference": "βελζεθά",
@@ -5128,13 +5247,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000951000000000\" class=\"lex-lemma\">Βελζεθά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βελζεθά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000951001001000\"><p class=\"lex-domains\" id=\"93.421\"><span class=\"lex-entry-code\">93.421</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">毕士大;《思》贝特匝达</span></span> <span class=\"lex-def\"><span class=\"lex-link\" data-lemma=\"Βηθζαθά:000000\">Βηθζαθά</span> <a href=\"#93.430\" data-entryCode=\"93.430\" class=\"lex-domain-ref\">93.430</a> 的另一种拼写法(<a href=\"https://ref.ly/Luke5:2\">JHN 5:2</a>,校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000952000000000",
 "reference_id": "000952000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βελιάρ",
 "media_type": "Text",
 "index_reference": "βελιάρ",
@@ -5150,13 +5270,14 @@
 "end_ref_usfm": "2CO 6:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000953000000000",
 "reference_id": "000953000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βελόνη",
 "media_type": "Text",
 "index_reference": "βελόνη",
@@ -5172,13 +5293,14 @@
 "end_ref_usfm": "LUK 18:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000954000000000",
 "reference_id": "000954000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βέλος",
 "media_type": "Text",
 "index_reference": "βέλος",
@@ -5194,13 +5316,14 @@
 "end_ref_usfm": "EPH 6:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000955000000000",
 "reference_id": "000955000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βελτίων",
 "media_type": "Text",
 "index_reference": "βελτίων",
@@ -5216,13 +5339,14 @@
 "end_ref_usfm": "2TI 1:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000956000000000",
 "reference_id": "000956000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βενιαμίν",
 "media_type": "Text",
 "index_reference": "βενιαμίν",
@@ -5256,13 +5380,14 @@
 "end_ref_usfm": "REV 7:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000957000000000",
 "reference_id": "000957000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βερνίκη",
 "media_type": "Text",
 "index_reference": "βερνίκη",
@@ -5290,13 +5415,14 @@
 "end_ref_usfm": "ACT 26:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000958000000000",
 "reference_id": "000958000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βέροια",
 "media_type": "Text",
 "index_reference": "βέροια",
@@ -5318,13 +5444,14 @@
 "end_ref_usfm": "ACT 17:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000959000000000",
 "reference_id": "000959000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βεροιαῖος",
 "media_type": "Text",
 "index_reference": "βεροιαῖος",
@@ -5340,13 +5467,14 @@
 "end_ref_usfm": "ACT 20:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000960000000000",
 "reference_id": "000960000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βέρος",
 "media_type": "Text",
 "index_reference": "βέρος",
@@ -5362,13 +5490,14 @@
 "end_ref_usfm": "ACT 20:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000961000000000",
 "reference_id": "000961000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βεωορσόρ",
 "media_type": "Text",
 "index_reference": "βεωορσόρ",
@@ -5384,13 +5513,14 @@
 "end_ref_usfm": "2PE 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000962000000000",
 "reference_id": "000962000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βεώρ",
 "media_type": "Text",
 "index_reference": "βεώρ",
@@ -5399,13 +5529,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000962000000000\" class=\"lex-lemma\">Βεώρ</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βεώρ</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阳＞</p><div class=\"lex-meaning\" data-id=\"000962001001000\"><p class=\"lex-domains\" id=\"93.74\"><span class=\"lex-entry-code\">93.74</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">人名</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">比珥;《思》贝敖尔</span></span> <span class=\"lex-def\">巴兰的父亲(<a href=\"https://ref.ly/1Pet2:15\">2PE 2:15</a>,校勘栏)。大部分抄本在 <a href=\"https://ref.ly/1Pet2:15\">2PE 2:15</a> 作 <span class=\"lex-link\" data-lemma=\"Βοσόρ:000000\">Βοσόρ</span>(<a href=\"#93.80\" data-entryCode=\"93.80\" class=\"lex-domain-ref\">93.80</a>)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000963000000000",
 "reference_id": "000963000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηδσαϊδάν",
 "media_type": "Text",
 "index_reference": "βηδσαϊδάν",
@@ -5414,13 +5545,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000963000000000\" class=\"lex-lemma\">Βηδσαϊδάν</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βηδσαϊδάν</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000963001001000\"><p class=\"lex-domains\" id=\"93.424\"><span class=\"lex-entry-code\">93.424</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">(音译)伯赛大;《思》贝特匝达</span></span> <span class=\"lex-def\">Βηθσαϊδά <a href=\"#93.432\" data-entryCode=\"93.432\" class=\"lex-domain-ref\">93.432</a> 的另一种拼写法(<a href=\"https://ref.ly/Luke5:2\">JHN 5:2</a>,校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000964000000000",
 "reference_id": "000964000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηζαθά",
 "media_type": "Text",
 "index_reference": "βηζαθά",
@@ -5429,13 +5561,22 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000964000000000\" class=\"lex-lemma\">Βηζαθά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βηζαθά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000964001001000\"><p class=\"lex-domains\" id=\"93.425\"><span class=\"lex-entry-code\">93.425</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">毕士大;《思》贝特匝达</span></span> <span class=\"lex-def\"><span class=\"lex-link\" data-lemma=\"Βηθζαθά:000000\">Βηθζαθά</span> <a href=\"#93.430\" data-entryCode=\"93.430\" class=\"lex-domain-ref\">93.430</a> 的另一种拼写法(<a href=\"https://ref.ly/Luke5:2\">JHN 5:2</a>,校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Biztha",
+"type": "person",
+"confidence": 0.8302,
+"match_method": "embedding",
+"preferred_label": "Biztha"
+}
+]
 }
 },
 {
 "content_id": "000965000000000",
 "reference_id": "000965000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθαβαρά",
 "media_type": "Text",
 "index_reference": "βηθαβαρά",
@@ -5444,13 +5585,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000965000000000\" class=\"lex-lemma\">Βηθαβαρά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βηθαβαρά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000965001001000\"><p class=\"lex-domains\" id=\"93.426\"><span class=\"lex-entry-code\">93.426</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">伯大巴喇</span></span> <span class=\"lex-def\">地方名,位置不详(<a href=\"https://ref.ly/Luke1:28\">JHN 1:28</a>,校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000966000000000",
 "reference_id": "000966000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθανία",
 "media_type": "Text",
 "index_reference": "βηθανία",
@@ -5532,13 +5674,14 @@
 "end_ref_usfm": "JHN 1:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000967000000000",
 "reference_id": "000967000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθαραβά",
 "media_type": "Text",
 "index_reference": "βηθαραβά",
@@ -5547,13 +5690,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000967000000000\" class=\"lex-lemma\">Βηθαραβά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βηθαραβά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000967001001000\"><p class=\"lex-domains\" id=\"93.428\"><span class=\"lex-entry-code\">93.428</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">伯大巴喇</span></span> <span class=\"lex-def\"><span class=\"lex-link\" data-lemma=\"Βηθαβαρά:000000\">Βηθαβαρά</span> <a href=\"#93.426\" data-entryCode=\"93.426\" class=\"lex-domain-ref\">93.426</a> 的另一种拼写法(<a href=\"https://ref.ly/Luke1:28\">JHN 1:28</a>,校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000968000000000",
 "reference_id": "000968000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθεσδά",
 "media_type": "Text",
 "index_reference": "βηθεσδά",
@@ -5562,13 +5706,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000968000000000\" class=\"lex-lemma\">Βηθεσδά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βηθεσδά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000968001001000\"><p class=\"lex-domains\" id=\"93.429\"><span class=\"lex-entry-code\">93.429</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">毕士大;《思》贝特匝达</span></span> <span class=\"lex-def\"><span class=\"lex-link\" data-lemma=\"Βηθζαθά:000000\">Βηθζαθά</span> <a href=\"#93.430\" data-entryCode=\"93.430\" class=\"lex-domain-ref\">93.430</a> 的另一种拼写法(<a href=\"https://ref.ly/Luke5:2\">JHN 5:2</a>,校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000969000000000",
 "reference_id": "000969000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθζαθά",
 "media_type": "Text",
 "index_reference": "βηθζαθά",
@@ -5577,13 +5722,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000969000000000\" class=\"lex-lemma\">Βηθζαθά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βηθζαθά</span> (<span class=\"lex-strong\">G0964</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000969001001000\"><p class=\"lex-domains\" id=\"93.430\"><span class=\"lex-entry-code\">93.430</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">毕士大;《思》贝特匝达</span></span> <span class=\"lex-def\">耶路撒冷旧城东北面的一个水池</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000970000000000",
 "reference_id": "000970000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθλέεμ",
 "media_type": "Text",
 "index_reference": "βηθλέεμ",
@@ -5641,13 +5787,14 @@
 "end_ref_usfm": "JHN 7:42"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000971000000000",
 "reference_id": "000971000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθσαϊδά",
 "media_type": "Text",
 "index_reference": "βηθσαϊδά",
@@ -5699,13 +5846,14 @@
 "end_ref_usfm": "JHN 12:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000972000000000",
 "reference_id": "000972000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηθφαγή",
 "media_type": "Text",
 "index_reference": "βηθφαγή",
@@ -5733,13 +5881,14 @@
 "end_ref_usfm": "LUK 19:29"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000973000000000",
 "reference_id": "000973000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βῆμα",
 "media_type": "Text",
 "index_reference": "βῆμα",
@@ -5821,13 +5970,14 @@
 "end_ref_usfm": "ACT 7:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000974000000000",
 "reference_id": "000974000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βηρεύς",
 "media_type": "Text",
 "index_reference": "βηρεύς",
@@ -5836,13 +5986,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000974000000000\" class=\"lex-lemma\">Βηρεύς</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βηρεύς</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阳＞  <span class=\"lex-head-sep\">|</span>  -εως</p><div class=\"lex-meaning\" data-id=\"000974001001000\"><p class=\"lex-domains\" id=\"93.75\"><span class=\"lex-entry-code\">93.75</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">人名</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">(音译)贝利乌斯</span></span> <span class=\"lex-def\">在《罗马书》16 章的问安名单中出现的基督徒,<a href=\"https://ref.ly/Acts16:15\">ROM 16:15</a>(校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000975000000000",
 "reference_id": "000975000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βήρυλλος",
 "media_type": "Text",
 "index_reference": "βήρυλλος",
@@ -5858,13 +6009,14 @@
 "end_ref_usfm": "REV 21:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000976000000000",
 "reference_id": "000976000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βησσαϊδά",
 "media_type": "Text",
 "index_reference": "βησσαϊδά",
@@ -5873,13 +6025,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000976000000000\" class=\"lex-lemma\">Βησσαϊδά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βησσαϊδά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000976001001000\"><p class=\"lex-domains\" id=\"93.434\"><span class=\"lex-entry-code\">93.434</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">伯赛大;《思》贝特赛达</span></span> <span class=\"lex-def\">Βηθσαϊδά <a href=\"#93.432\" data-entryCode=\"93.432\" class=\"lex-domain-ref\">93.432</a> 的另一种拼写法(<a href=\"https://ref.ly/Luke5:2\">JHN 5:2</a>,校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000977000000000",
 "reference_id": "000977000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βία",
 "media_type": "Text",
 "index_reference": "βία",
@@ -5907,13 +6060,14 @@
 "end_ref_usfm": "ACT 27:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000978000000000",
 "reference_id": "000978000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βιάζω",
 "media_type": "Text",
 "index_reference": "βιάζω",
@@ -5935,13 +6089,14 @@
 "end_ref_usfm": "LUK 16:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000979000000000",
 "reference_id": "000979000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βίαιος",
 "media_type": "Text",
 "index_reference": "βίαιος",
@@ -5957,13 +6112,14 @@
 "end_ref_usfm": "ACT 2:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000980000000000",
 "reference_id": "000980000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βιαστής",
 "media_type": "Text",
 "index_reference": "βιαστής",
@@ -5979,13 +6135,14 @@
 "end_ref_usfm": "MAT 11:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000981000000000",
 "reference_id": "000981000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βιβλαρίδιον",
 "media_type": "Text",
 "index_reference": "βιβλαρίδιον",
@@ -6013,13 +6170,14 @@
 "end_ref_usfm": "REV 10:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000982000000000",
 "reference_id": "000982000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βιβλίον",
 "media_type": "Text",
 "index_reference": "βιβλίον",
@@ -6203,13 +6361,14 @@
 "end_ref_usfm": "MRK 10:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000983000000000",
 "reference_id": "000983000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βίβλος",
 "media_type": "Text",
 "index_reference": "βίβλος",
@@ -6279,13 +6438,14 @@
 "end_ref_usfm": "MAT 1:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000984000000000",
 "reference_id": "000984000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βιβρώσκω",
 "media_type": "Text",
 "index_reference": "βιβρώσκω",
@@ -6301,13 +6461,14 @@
 "end_ref_usfm": "JHN 6:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000985000000000",
 "reference_id": "000985000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βιθαρά",
 "media_type": "Text",
 "index_reference": "βιθαρά",
@@ -6316,13 +6477,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"000985000000000\" class=\"lex-lemma\">Βιθαρά</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\">Βιθαρά</span></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">＜名（名字）＞＜阴＞</p><div class=\"lex-meaning\" data-id=\"000985001001000\"><p class=\"lex-domains\" id=\"93.435\"><span class=\"lex-entry-code\">93.435</span>  ·  <span class=\"lex-domain\">人名及地名</span>  ·  <span class=\"lex-subdomain\">Places</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">[Glosses - zhS]</span></span> <span class=\"lex-def\"><span class=\"lex-link\" data-lemma=\"Βηθαβαρά:000000\">Βηθαβαρά</span> <a href=\"#93.426\" data-entryCode=\"93.426\" class=\"lex-domain-ref\">93.426</a> 的另一种拼写法(<a href=\"https://ref.ly/Luke1:28\">JHN 1:28</a>,GNT3c-校勘栏)</span></p></div></div>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000986000000000",
 "reference_id": "000986000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βιθυνία",
 "media_type": "Text",
 "index_reference": "βιθυνία",
@@ -6344,13 +6506,14 @@
 "end_ref_usfm": "1PE 1:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000987000000000",
 "reference_id": "000987000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βίος",
 "media_type": "Text",
 "index_reference": "βίος",
@@ -6420,13 +6583,22 @@
 "end_ref_usfm": "1JN 3:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Life",
+"type": "keyterm",
+"confidence": 0.8908,
+"match_method": "embedding",
+"preferred_label": "Life"
+}
+]
 }
 },
 {
 "content_id": "000988000000000",
 "reference_id": "000988000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βιόω",
 "media_type": "Text",
 "index_reference": "βιόω",
@@ -6442,13 +6614,14 @@
 "end_ref_usfm": "1PE 4:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000989000000000",
 "reference_id": "000989000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βίωσις",
 "media_type": "Text",
 "index_reference": "βίωσις",
@@ -6464,13 +6637,14 @@
 "end_ref_usfm": "ACT 26:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000990000000000",
 "reference_id": "000990000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βιωτικός",
 "media_type": "Text",
 "index_reference": "βιωτικός",
@@ -6498,13 +6672,14 @@
 "end_ref_usfm": "1CO 6:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000991000000000",
 "reference_id": "000991000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλαβερός",
 "media_type": "Text",
 "index_reference": "βλαβερός",
@@ -6520,13 +6695,14 @@
 "end_ref_usfm": "1TI 6:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000992000000000",
 "reference_id": "000992000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλάπτω",
 "media_type": "Text",
 "index_reference": "βλάπτω",
@@ -6548,13 +6724,14 @@
 "end_ref_usfm": "LUK 4:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000993000000000",
 "reference_id": "000993000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλαστάνω",
 "media_type": "Text",
 "index_reference": "βλαστάνω",
@@ -6588,13 +6765,14 @@
 "end_ref_usfm": "JAS 5:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000994000000000",
 "reference_id": "000994000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βλάστος",
 "media_type": "Text",
 "index_reference": "βλάστος",
@@ -6610,13 +6788,14 @@
 "end_ref_usfm": "ACT 12:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000995000000000",
 "reference_id": "000995000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλασφημέω",
 "media_type": "Text",
 "index_reference": "βλασφημέω",
@@ -6830,13 +7009,14 @@
 "end_ref_usfm": "REV 16:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000996000000000",
 "reference_id": "000996000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλασφημία",
 "media_type": "Text",
 "index_reference": "βλασφημία",
@@ -6948,13 +7128,14 @@
 "end_ref_usfm": "REV 17:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000997000000000",
 "reference_id": "000997000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλάσφημος",
 "media_type": "Text",
 "index_reference": "βλάσφημος",
@@ -6988,13 +7169,14 @@
 "end_ref_usfm": "2PE 2:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000998000000000",
 "reference_id": "000998000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλέμμα",
 "media_type": "Text",
 "index_reference": "βλέμμα",
@@ -7010,13 +7192,14 @@
 "end_ref_usfm": "2PE 2:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "000999000000000",
 "reference_id": "000999000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλέπω",
 "media_type": "Text",
 "index_reference": "βλέπω",
@@ -7722,13 +7905,14 @@
 "end_ref_usfm": "MRK 12:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001000000000000",
 "reference_id": "001000000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βλητέος",
 "media_type": "Text",
 "index_reference": "βλητέος",
@@ -7744,13 +7928,14 @@
 "end_ref_usfm": "LUK 5:38"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001001000000000",
 "reference_id": "001001000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βοανηργές",
 "media_type": "Text",
 "index_reference": "βοανηργές",
@@ -7766,13 +7951,14 @@
 "end_ref_usfm": "MRK 3:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001002000000000",
 "reference_id": "001002000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βοάω",
 "media_type": "Text",
 "index_reference": "βοάω",
@@ -7854,13 +8040,14 @@
 "end_ref_usfm": "GAL 4:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001003000000000",
 "reference_id": "001003000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βόες",
 "media_type": "Text",
 "index_reference": "βόες",
@@ -7882,13 +8069,14 @@
 "end_ref_usfm": "LUK 3:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001004000000000",
 "reference_id": "001004000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βοή",
 "media_type": "Text",
 "index_reference": "βοή",
@@ -7904,13 +8092,14 @@
 "end_ref_usfm": "JAS 5:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001005000000000",
 "reference_id": "001005000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βοήθεια",
 "media_type": "Text",
 "index_reference": "βοήθεια",
@@ -7932,13 +8121,14 @@
 "end_ref_usfm": "ACT 27:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001006000000000",
 "reference_id": "001006000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βοηθέω",
 "media_type": "Text",
 "index_reference": "βοηθέω",
@@ -7996,13 +8186,14 @@
 "end_ref_usfm": "REV 12:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001007000000000",
 "reference_id": "001007000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βοηθός",
 "media_type": "Text",
 "index_reference": "βοηθός",
@@ -8018,13 +8209,14 @@
 "end_ref_usfm": "HEB 13:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001008000000000",
 "reference_id": "001008000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βόθυνος",
 "media_type": "Text",
 "index_reference": "βόθυνος",
@@ -8052,13 +8244,14 @@
 "end_ref_usfm": "LUK 6:39"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001009000000000",
 "reference_id": "001009000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βολή",
 "media_type": "Text",
 "index_reference": "βολή",
@@ -8074,13 +8267,14 @@
 "end_ref_usfm": "LUK 22:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001010000000000",
 "reference_id": "001010000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βολίζω",
 "media_type": "Text",
 "index_reference": "βολίζω",
@@ -8096,13 +8290,14 @@
 "end_ref_usfm": "ACT 27:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001011000000000",
 "reference_id": "001011000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βόρβορος",
 "media_type": "Text",
 "index_reference": "βόρβορος",
@@ -8118,13 +8313,14 @@
 "end_ref_usfm": "2PE 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001012000000000",
 "reference_id": "001012000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βορρᾶς",
 "media_type": "Text",
 "index_reference": "βορρᾶς",
@@ -8146,13 +8342,14 @@
 "end_ref_usfm": "REV 21:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001013000000000",
 "reference_id": "001013000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βόσκω",
 "media_type": "Text",
 "index_reference": "βόσκω",
@@ -8216,13 +8413,14 @@
 "end_ref_usfm": "LUK 8:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001014000000000",
 "reference_id": "001014000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "Βοσόρ",
 "media_type": "Text",
 "index_reference": "βοσόρ",
@@ -8238,13 +8436,14 @@
 "end_ref_usfm": "2PE 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001015000000000",
 "reference_id": "001015000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βοτάνη",
 "media_type": "Text",
 "index_reference": "βοτάνη",
@@ -8260,13 +8459,14 @@
 "end_ref_usfm": "HEB 6:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001016000000000",
 "reference_id": "001016000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βότρυς",
 "media_type": "Text",
 "index_reference": "βότρυς",
@@ -8282,13 +8482,14 @@
 "end_ref_usfm": "REV 14:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001017000000000",
 "reference_id": "001017000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βουλευτής",
 "media_type": "Text",
 "index_reference": "βουλευτής",
@@ -8310,13 +8511,14 @@
 "end_ref_usfm": "LUK 23:50"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001018000000000",
 "reference_id": "001018000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βουλεύω",
 "media_type": "Text",
 "index_reference": "βουλεύω",
@@ -8362,13 +8564,14 @@
 "end_ref_usfm": "LUK 14:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001019000000000",
 "reference_id": "001019000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βουλή",
 "media_type": "Text",
 "index_reference": "βουλή",
@@ -8450,13 +8653,14 @@
 "end_ref_usfm": "ACT 27:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001020000000000",
 "reference_id": "001020000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βούλημα",
 "media_type": "Text",
 "index_reference": "βούλημα",
@@ -8484,13 +8688,14 @@
 "end_ref_usfm": "ROM 9:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001021000000000",
 "reference_id": "001021000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βούλομαι",
 "media_type": "Text",
 "index_reference": "βούλομαι",
@@ -8722,13 +8927,14 @@
 "end_ref_usfm": "3JN 1:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001022000000000",
 "reference_id": "001022000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βουνός",
 "media_type": "Text",
 "index_reference": "βουνός",
@@ -8750,13 +8956,14 @@
 "end_ref_usfm": "LUK 23:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001023000000000",
 "reference_id": "001023000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βοῦς",
 "media_type": "Text",
 "index_reference": "βοῦς",
@@ -8808,13 +9015,14 @@
 "end_ref_usfm": "1TI 5:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001024000000000",
 "reference_id": "001024000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραβεῖον",
 "media_type": "Text",
 "index_reference": "βραβεῖον",
@@ -8836,13 +9044,14 @@
 "end_ref_usfm": "PHP 3:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001025000000000",
 "reference_id": "001025000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραβεύω",
 "media_type": "Text",
 "index_reference": "βραβεύω",
@@ -8858,13 +9067,14 @@
 "end_ref_usfm": "COL 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001026000000000",
 "reference_id": "001026000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραδύνω",
 "media_type": "Text",
 "index_reference": "βραδύνω",
@@ -8886,13 +9096,14 @@
 "end_ref_usfm": "2PE 3:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001027000000000",
 "reference_id": "001027000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραδυπλοέω",
 "media_type": "Text",
 "index_reference": "βραδυπλοέω",
@@ -8908,13 +9119,14 @@
 "end_ref_usfm": "ACT 27:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001028000000000",
 "reference_id": "001028000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραδύς",
 "media_type": "Text",
 "index_reference": "βραδύς",
@@ -8936,13 +9148,14 @@
 "end_ref_usfm": "JAS 1:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001029000000000",
 "reference_id": "001029000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραδύτης",
 "media_type": "Text",
 "index_reference": "βραδύτης",
@@ -8958,13 +9171,14 @@
 "end_ref_usfm": "2PE 3:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001030000000000",
 "reference_id": "001030000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραχίων",
 "media_type": "Text",
 "index_reference": "βραχίων",
@@ -8992,13 +9206,14 @@
 "end_ref_usfm": "ACT 13:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001031000000000",
 "reference_id": "001031000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βραχύς",
 "media_type": "Text",
 "index_reference": "βραχύς",
@@ -9050,13 +9265,14 @@
 "end_ref_usfm": "HEB 2:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001032000000000",
 "reference_id": "001032000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρέφος",
 "media_type": "Text",
 "index_reference": "βρέφος",
@@ -9114,13 +9330,14 @@
 "end_ref_usfm": "2TI 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001033000000000",
 "reference_id": "001033000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρέχω",
 "media_type": "Text",
 "index_reference": "βρέχω",
@@ -9166,13 +9383,14 @@
 "end_ref_usfm": "LUK 7:44"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001034000000000",
 "reference_id": "001034000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βροντή",
 "media_type": "Text",
 "index_reference": "βροντή",
@@ -9248,13 +9466,14 @@
 "end_ref_usfm": "REV 19:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001035000000000",
 "reference_id": "001035000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βροχή",
 "media_type": "Text",
 "index_reference": "βροχή",
@@ -9276,13 +9495,14 @@
 "end_ref_usfm": "MAT 7:27"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001036000000000",
 "reference_id": "001036000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρόχος",
 "media_type": "Text",
 "index_reference": "βρόχος",
@@ -9298,13 +9518,14 @@
 "end_ref_usfm": "1CO 7:35"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001037000000000",
 "reference_id": "001037000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρυγμός",
 "media_type": "Text",
 "index_reference": "βρυγμός",
@@ -9356,13 +9577,14 @@
 "end_ref_usfm": "LUK 13:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001038000000000",
 "reference_id": "001038000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρύχω",
 "media_type": "Text",
 "index_reference": "βρύχω",
@@ -9378,13 +9600,14 @@
 "end_ref_usfm": "ACT 7:54"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001039000000000",
 "reference_id": "001039000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρύω",
 "media_type": "Text",
 "index_reference": "βρύω",
@@ -9400,13 +9623,14 @@
 "end_ref_usfm": "JAS 3:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001040000000000",
 "reference_id": "001040000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρῶμα",
 "media_type": "Text",
 "index_reference": "βρῶμα",
@@ -9506,13 +9730,14 @@
 "end_ref_usfm": "1TI 4:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001041000000000",
 "reference_id": "001041000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρώσιμος",
 "media_type": "Text",
 "index_reference": "βρώσιμος",
@@ -9528,13 +9753,14 @@
 "end_ref_usfm": "LUK 24:41"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001042000000000",
 "reference_id": "001042000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βρῶσις",
 "media_type": "Text",
 "index_reference": "βρῶσις",
@@ -9604,13 +9830,14 @@
 "end_ref_usfm": "MAT 6:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001043000000000",
 "reference_id": "001043000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βυθίζω",
 "media_type": "Text",
 "index_reference": "βυθίζω",
@@ -9632,13 +9859,14 @@
 "end_ref_usfm": "1TI 6:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001044000000000",
 "reference_id": "001044000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βυθός",
 "media_type": "Text",
 "index_reference": "βυθός",
@@ -9654,13 +9882,14 @@
 "end_ref_usfm": "2CO 11:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001045000000000",
 "reference_id": "001045000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βυρσεύς",
 "media_type": "Text",
 "index_reference": "βυρσεύς",
@@ -9688,13 +9917,14 @@
 "end_ref_usfm": "ACT 10:32"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001046000000000",
 "reference_id": "001046000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βύσσινος",
 "media_type": "Text",
 "index_reference": "βύσσινος",
@@ -9728,13 +9958,14 @@
 "end_ref_usfm": "REV 19:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001047000000000",
 "reference_id": "001047000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βύσσος",
 "media_type": "Text",
 "index_reference": "βύσσος",
@@ -9750,13 +9981,14 @@
 "end_ref_usfm": "LUK 16:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "001048000000000",
 "reference_id": "001048000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "βωμός",
 "media_type": "Text",
 "index_reference": "βωμός",
@@ -9772,7 +10004,8 @@
 "end_ref_usfm": "ACT 17:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]
