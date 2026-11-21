@@ -64,7 +64,7 @@
 "type": "place",
 "confidence": 0.8176,
 "match_method": "embedding",
-"preferred_label": "Magadan"
+"preferred_label": "馬加丹"
 }
 ]
 }
@@ -95,7 +95,7 @@
 "type": "place",
 "confidence": 0.8678,
 "match_method": "embedding",
-"preferred_label": "Magdala"
+"preferred_label": "抹大拉"
 }
 ]
 }
@@ -240,7 +240,7 @@
 "type": "place",
 "confidence": 0.8275,
 "match_method": "embedding",
-"preferred_label": "Magadan"
+"preferred_label": "馬加丹"
 }
 ]
 }
@@ -364,14 +364,14 @@
 "type": "person",
 "confidence": 0.8823,
 "match_method": "embedding",
-"preferred_label": "Magog"
+"preferred_label": "瑪各"
 },
 {
 "id": "place:Magog",
 "type": "place",
 "confidence": 0.8823,
 "match_method": "embedding",
-"preferred_label": "Magog"
+"preferred_label": "瑪各"
 }
 ]
 }
@@ -2029,14 +2029,14 @@
 "type": "person",
 "confidence": 0.8568,
 "match_method": "embedding",
-"preferred_label": "Mahath"
+"preferred_label": "瑪哈"
 },
 {
 "id": "person:Mahath.3",
 "type": "person",
 "confidence": 0.8568,
 "match_method": "embedding",
-"preferred_label": "Mahath"
+"preferred_label": "瑪哈"
 }
 ]
 }
@@ -2655,7 +2655,7 @@
 "type": "place",
 "confidence": 0.919,
 "match_method": "embedding",
-"preferred_label": "Macedonia"
+"preferred_label": "馬其頓"
 }
 ]
 }
@@ -3953,7 +3953,7 @@
 "type": "person",
 "confidence": 0.9076,
 "match_method": "embedding",
-"preferred_label": "Manaen"
+"preferred_label": "馬念"
 }
 ]
 }
@@ -6272,14 +6272,14 @@
 "type": "person",
 "confidence": 0.9116,
 "match_method": "embedding",
-"preferred_label": "Mattan"
+"preferred_label": "瑪坦"
 },
 {
 "id": "person:Mattan.2",
 "type": "person",
 "confidence": 0.9116,
 "match_method": "embedding",
-"preferred_label": "Mattan"
+"preferred_label": "瑪坦"
 }
 ]
 }
@@ -6310,14 +6310,14 @@
 "type": "person",
 "confidence": 0.8607,
 "match_method": "embedding",
-"preferred_label": "Matthat"
+"preferred_label": "瑪塔"
 },
 {
 "id": "person:Matthat.2",
 "type": "person",
 "confidence": 0.8607,
 "match_method": "embedding",
-"preferred_label": "Matthat"
+"preferred_label": "瑪塔"
 }
 ]
 }
@@ -6354,21 +6354,21 @@
 "type": "person",
 "confidence": 0.8255,
 "match_method": "embedding",
-"preferred_label": "Mattattah"
+"preferred_label": "瑪達他"
 },
 {
 "id": "person:Mattathias",
 "type": "person",
 "confidence": 0.825,
 "match_method": "embedding",
-"preferred_label": "Mattathias"
+"preferred_label": "瑪他提亞"
 },
 {
 "id": "person:Mattathias.2",
 "type": "person",
 "confidence": 0.825,
 "match_method": "embedding",
-"preferred_label": "Mattathias"
+"preferred_label": "瑪他提亞"
 }
 ]
 }
@@ -12481,7 +12481,7 @@
 "type": "place",
 "confidence": 0.8645,
 "match_method": "embedding",
-"preferred_label": "Mesopotamia"
+"preferred_label": "美索不達米亞"
 }
 ]
 }
@@ -24169,7 +24169,7 @@
 "type": "place",
 "confidence": 0.812,
 "match_method": "embedding",
-"preferred_label": "Mitylene"
+"preferred_label": "米推利尼"
 }
 ]
 }
@@ -24206,7 +24206,7 @@
 "type": "person",
 "confidence": 0.89,
 "match_method": "embedding",
-"preferred_label": "Michal"
+"preferred_label": "米甲"
 }
 ]
 }

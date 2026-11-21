@@ -5568,7 +5568,7 @@
 "type": "person",
 "confidence": 0.8302,
 "match_method": "embedding",
-"preferred_label": "Biztha"
+"preferred_label": "Biztá"
 }
 ]
 }
@@ -6590,7 +6590,7 @@
 "type": "keyterm",
 "confidence": 0.8908,
 "match_method": "embedding",
-"preferred_label": "Life"
+"preferred_label": "vida"
 }
 ]
 }

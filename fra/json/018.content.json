@@ -712,7 +712,7 @@
 "type": "place",
 "confidence": 0.8096,
 "match_method": "embedding",
-"preferred_label": "Sela"
+"preferred_label": "Séla"
 }
 ]
 }
@@ -1649,21 +1649,21 @@
 "type": "person",
 "confidence": 0.8433,
 "match_method": "embedding",
-"preferred_label": "Shaul"
+"preferred_label": "Saül"
 },
 {
 "id": "person:Shaul.2",
 "type": "person",
 "confidence": 0.8433,
 "match_method": "embedding",
-"preferred_label": "Shaul"
+"preferred_label": "Saül"
 },
 {
 "id": "person:Shaul.3",
 "type": "person",
 "confidence": 0.8433,
 "match_method": "embedding",
-"preferred_label": "Shaul"
+"preferred_label": "Saül"
 }
 ]
 }
@@ -5657,7 +5657,7 @@
 "type": "place",
 "confidence": 0.8852,
 "match_method": "embedding",
-"preferred_label": "Siloam"
+"preferred_label": "Siloé"
 }
 ]
 }
@@ -25790,7 +25790,7 @@
 "type": "person",
 "confidence": 0.8059,
 "match_method": "embedding",
-"preferred_label": "Husband"
+"preferred_label": "Mari"
 }
 ]
 }

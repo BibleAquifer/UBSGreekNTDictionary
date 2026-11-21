@@ -12679,7 +12679,7 @@
 "type": "group",
 "confidence": 0.8063,
 "match_method": "embedding",
-"preferred_label": "Mitsraïm"
+"preferred_label": "Égyptiens"
 }
 ]
 }
@@ -36743,7 +36743,7 @@
 "type": "person",
 "confidence": 0.8212,
 "match_method": "embedding",
-"preferred_label": "Hanania"
+"preferred_label": "Anania"
 },
 {
 "id": "place:Ananiah",
@@ -66242,7 +66242,7 @@
 "type": "deity",
 "confidence": 0.8376,
 "match_method": "embedding",
-"preferred_label": "Diane"
+"preferred_label": "Artémis"
 },
 {
 "id": "person:Artemas",
@@ -72610,14 +72610,14 @@
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athalie"
+"preferred_label": "Athalia"
 },
 {
 "id": "person:Athaliah.3",
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athalie"
+"preferred_label": "Athalia"
 }
 ]
 }
@@ -96112,7 +96112,7 @@
 "type": "person",
 "confidence": 0.8618,
 "match_method": "embedding",
-"preferred_label": "Ahiya"
+"preferred_label": "Achija"
 }
 ]
 }

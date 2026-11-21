@@ -712,7 +712,7 @@
 "type": "place",
 "confidence": 0.8096,
 "match_method": "embedding",
-"preferred_label": "Sela"
+"preferred_label": "西拉"
 }
 ]
 }
@@ -772,7 +772,7 @@
 "type": "place",
 "confidence": 0.8676,
 "match_method": "embedding",
-"preferred_label": "Salamis"
+"preferred_label": "撒拉米"
 }
 ]
 }
@@ -933,14 +933,14 @@
 "type": "place",
 "confidence": 0.8795,
 "match_method": "embedding",
-"preferred_label": "Salim"
+"preferred_label": "撒冷"
 },
 {
 "id": "person:Salma",
 "type": "person",
 "confidence": 0.809,
 "match_method": "embedding",
-"preferred_label": "Salma"
+"preferred_label": "萨玛"
 }
 ]
 }
@@ -1649,21 +1649,21 @@
 "type": "person",
 "confidence": 0.8433,
 "match_method": "embedding",
-"preferred_label": "Shaul"
+"preferred_label": "扫罗"
 },
 {
 "id": "person:Shaul.2",
 "type": "person",
 "confidence": 0.8433,
 "match_method": "embedding",
-"preferred_label": "Shaul"
+"preferred_label": "扫罗"
 },
 {
 "id": "person:Shaul.3",
 "type": "person",
 "confidence": 0.8433,
 "match_method": "embedding",
-"preferred_label": "Shaul"
+"preferred_label": "少罗"
 }
 ]
 }
@@ -2846,7 +2846,7 @@
 "type": "person",
 "confidence": 0.8171,
 "match_method": "embedding",
-"preferred_label": "Sarah"
+"preferred_label": "撒拉"
 }
 ]
 }
@@ -4058,35 +4058,35 @@
 "type": "person",
 "confidence": 0.8636,
 "match_method": "embedding",
-"preferred_label": "Semein"
+"preferred_label": "西美"
 },
 {
 "id": "person:Simeon.2",
 "type": "person",
 "confidence": 0.8022,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 },
 {
 "id": "person:Simeon.3",
 "type": "person",
 "confidence": 0.8022,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 },
 {
 "id": "person:Simeon.4",
 "type": "person",
 "confidence": 0.8022,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 },
 {
 "id": "person:Simeon.5",
 "type": "person",
 "confidence": 0.8022,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 }
 ]
 }
@@ -5657,7 +5657,7 @@
 "type": "place",
 "confidence": 0.8852,
 "match_method": "embedding",
-"preferred_label": "Siloam"
+"preferred_label": "西罗亚"
 }
 ]
 }
@@ -25790,7 +25790,7 @@
 "type": "person",
 "confidence": 0.8059,
 "match_method": "embedding",
-"preferred_label": "Husband"
+"preferred_label": "丈夫"
 }
 ]
 }
@@ -26767,28 +26767,28 @@
 "type": "person",
 "confidence": 0.8179,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 },
 {
 "id": "person:Simeon.3",
 "type": "person",
 "confidence": 0.8179,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 },
 {
 "id": "person:Simeon.4",
 "type": "person",
 "confidence": 0.8179,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 },
 {
 "id": "person:Simeon.5",
 "type": "person",
 "confidence": 0.8179,
 "match_method": "embedding",
-"preferred_label": "Simeon"
+"preferred_label": "西缅"
 }
 ]
 }
@@ -30574,7 +30574,7 @@
 "type": "keyterm",
 "confidence": 0.8139,
 "match_method": "embedding",
-"preferred_label": "Conscience"
+"preferred_label": "良心"
 }
 ]
 }

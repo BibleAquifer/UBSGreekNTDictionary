@@ -3670,7 +3670,7 @@
 "type": "keyterm",
 "confidence": 0.8089,
 "match_method": "embedding",
-"preferred_label": "amour"
+"preferred_label": "amitié"
 }
 ]
 }
@@ -4168,7 +4168,7 @@
 "type": "group",
 "confidence": 0.8537,
 "match_method": "embedding",
-"preferred_label": "un Philippien"
+"preferred_label": "Philippiens"
 }
 ]
 }
@@ -7684,7 +7684,7 @@
 "type": "realia",
 "confidence": 0.8502,
 "match_method": "embedding",
-"preferred_label": "Prison"
+"preferred_label": "prison"
 }
 ]
 }

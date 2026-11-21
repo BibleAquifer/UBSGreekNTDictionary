@@ -3548,7 +3548,7 @@
 "type": "group",
 "confidence": 0.8594,
 "match_method": "embedding",
-"preferred_label": "Hebrews"
+"preferred_label": "Hébreux"
 }
 ]
 }
@@ -47961,7 +47961,7 @@
 "type": "group",
 "confidence": 0.8234,
 "match_method": "embedding",
-"preferred_label": "Juif de langue grecque"
+"preferred_label": "Hellénistes"
 }
 ]
 }

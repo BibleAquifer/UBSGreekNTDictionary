@@ -6005,7 +6005,7 @@
 "type": "person",
 "confidence": 0.8658,
 "match_method": "embedding",
-"preferred_label": "Isaiah"
+"preferred_label": "以賽亞"
 }
 ]
 }
@@ -6048,7 +6048,7 @@
 "type": "person",
 "confidence": 0.8228,
 "match_method": "embedding",
-"preferred_label": "Esau"
+"preferred_label": "以掃"
 }
 ]
 }

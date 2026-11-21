@@ -778,7 +778,7 @@
 "type": "person",
 "confidence": 0.8365,
 "match_method": "embedding",
-"preferred_label": "Phanuel"
+"preferred_label": "法内利"
 }
 ]
 }
@@ -2518,7 +2518,7 @@
 "type": "person",
 "confidence": 0.8292,
 "match_method": "embedding",
-"preferred_label": "Felix"
+"preferred_label": "腓力斯"
 }
 ]
 }
@@ -3615,7 +3615,7 @@
 "type": "place",
 "confidence": 0.8091,
 "match_method": "embedding",
-"preferred_label": "Philadelphia"
+"preferred_label": "非拉铁非"
 }
 ]
 }
@@ -3670,7 +3670,7 @@
 "type": "keyterm",
 "confidence": 0.8089,
 "match_method": "embedding",
-"preferred_label": "Friendship"
+"preferred_label": "友谊"
 }
 ]
 }
@@ -4168,7 +4168,7 @@
 "type": "group",
 "confidence": 0.8537,
 "match_method": "embedding",
-"preferred_label": "Philippians"
+"preferred_label": "腓立比人"
 }
 ]
 }
@@ -4217,7 +4217,7 @@
 "type": "place",
 "confidence": 0.8629,
 "match_method": "embedding",
-"preferred_label": "Philippi"
+"preferred_label": "腓立比"
 }
 ]
 }
@@ -4810,14 +4810,14 @@
 "type": "person",
 "confidence": 0.854,
 "match_method": "embedding",
-"preferred_label": "Teman"
+"preferred_label": "提幔"
 },
 {
 "id": "place:Teman",
 "type": "place",
 "confidence": 0.854,
 "match_method": "embedding",
-"preferred_label": "Teman"
+"preferred_label": "提幔"
 }
 ]
 }
@@ -7684,7 +7684,7 @@
 "type": "realia",
 "confidence": 0.8502,
 "match_method": "embedding",
-"preferred_label": "Prison"
+"preferred_label": "监牢"
 }
 ]
 }

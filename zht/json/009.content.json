@@ -31,7 +31,7 @@
 "type": "person",
 "confidence": 0.847,
 "match_method": "embedding",
-"preferred_label": "Jairus"
+"preferred_label": "睚魯"
 }
 ]
 }
@@ -206,7 +206,7 @@
 "type": "person",
 "confidence": 0.856,
 "match_method": "embedding",
-"preferred_label": "Jacob"
+"preferred_label": "雅各（約瑟的父親）"
 }
 ]
 }
@@ -540,7 +540,7 @@
 "type": "person",
 "confidence": 0.8033,
 "match_method": "embedding",
-"preferred_label": "Jannai"
+"preferred_label": "雅拿"
 }
 ]
 }
@@ -890,7 +890,7 @@
 "type": "person",
 "confidence": 0.8221,
 "match_method": "embedding",
-"preferred_label": "Jason"
+"preferred_label": "耶孫"
 }
 ]
 }
@@ -3617,7 +3617,7 @@
 "type": "person",
 "confidence": 0.8273,
 "match_method": "embedding",
-"preferred_label": "Isaiah"
+"preferred_label": "以賽亞"
 }
 ]
 }
@@ -13298,7 +13298,7 @@
 "type": "place",
 "confidence": 0.8283,
 "match_method": "embedding",
-"preferred_label": "Joppa"
+"preferred_label": "約帕"
 }
 ]
 }
@@ -15668,7 +15668,7 @@
 "type": "person",
 "confidence": 0.8632,
 "match_method": "embedding",
-"preferred_label": "Isaac"
+"preferred_label": "以撒"
 }
 ]
 }
@@ -16341,14 +16341,14 @@
 "type": "person",
 "confidence": 0.827,
 "match_method": "embedding",
-"preferred_label": "Israel"
+"preferred_label": "以色列"
 },
 {
 "id": "place:Israel",
 "type": "place",
 "confidence": 0.827,
 "match_method": "embedding",
-"preferred_label": "Israel"
+"preferred_label": "以色列"
 }
 ]
 }
@@ -16427,7 +16427,7 @@
 "type": "group",
 "confidence": 0.848,
 "match_method": "embedding",
-"preferred_label": "Israelites"
+"preferred_label": "以色列人"
 }
 ]
 }
@@ -17896,7 +17896,7 @@
 "type": "group",
 "confidence": 0.8768,
 "match_method": "embedding",
-"preferred_label": "Italians"
+"preferred_label": "意大利人"
 }
 ]
 }
@@ -18139,21 +18139,21 @@
 "type": "person",
 "confidence": 0.856,
 "match_method": "embedding",
-"preferred_label": "Jotham"
+"preferred_label": "約坦"
 },
 {
 "id": "person:Jotham.2",
 "type": "person",
 "confidence": 0.856,
 "match_method": "embedding",
-"preferred_label": "Jotham"
+"preferred_label": "約坦"
 },
 {
 "id": "person:Jotham.3",
 "type": "person",
 "confidence": 0.856,
 "match_method": "embedding",
-"preferred_label": "Jotham"
+"preferred_label": "約坦"
 }
 ]
 }
@@ -18200,7 +18200,7 @@
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Joanan"
+"preferred_label": "約亞拿"
 }
 ]
 }
@@ -18253,7 +18253,7 @@
 "type": "person",
 "confidence": 0.8672,
 "match_method": "embedding",
-"preferred_label": "Joanna"
+"preferred_label": "約亞拿"
 }
 ]
 }
@@ -18277,56 +18277,56 @@
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.3",
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.4",
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.5",
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.6",
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.7",
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.8",
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.9",
 "type": "person",
 "confidence": 0.802,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 }
 ]
 }
@@ -19137,56 +19137,56 @@
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.3",
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.4",
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.5",
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.6",
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.7",
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.8",
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 },
 {
 "id": "person:Johanan.9",
 "type": "person",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Johanan"
+"preferred_label": "約哈難"
 }
 ]
 }
@@ -19263,7 +19263,7 @@
 "type": "person",
 "confidence": 0.8639,
 "match_method": "embedding",
-"preferred_label": "Joda"
+"preferred_label": "猶大"
 }
 ]
 }
@@ -19294,98 +19294,98 @@
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.10",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.11",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.12",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.13",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.14",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.2",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.3",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.4",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.5",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.6",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.7",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.8",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 },
 {
 "id": "person:Joel.9",
 "type": "person",
 "confidence": 0.8562,
 "match_method": "embedding",
-"preferred_label": "Joel"
+"preferred_label": "約珥"
 }
 ]
 }
@@ -19432,7 +19432,7 @@
 "type": "person",
 "confidence": 0.883,
 "match_method": "embedding",
-"preferred_label": "Jonam"
+"preferred_label": "約南"
 }
 ]
 }
@@ -19522,21 +19522,21 @@
 "type": "person",
 "confidence": 0.8417,
 "match_method": "embedding",
-"preferred_label": "Joram"
+"preferred_label": "約蘭"
 },
 {
 "id": "person:Joram.3",
 "type": "person",
 "confidence": 0.8417,
 "match_method": "embedding",
-"preferred_label": "Joram"
+"preferred_label": "約蘭"
 },
 {
 "id": "person:Joram.4",
 "type": "person",
 "confidence": 0.8417,
 "match_method": "embedding",
-"preferred_label": "Joram"
+"preferred_label": "約蘭"
 }
 ]
 }
@@ -19567,21 +19567,21 @@
 "type": "person",
 "confidence": 0.8167,
 "match_method": "embedding",
-"preferred_label": "Joram"
+"preferred_label": "約蘭"
 },
 {
 "id": "person:Joram.3",
 "type": "person",
 "confidence": 0.8167,
 "match_method": "embedding",
-"preferred_label": "Joram"
+"preferred_label": "約蘭"
 },
 {
 "id": "person:Joram.4",
 "type": "person",
 "confidence": 0.8167,
 "match_method": "embedding",
-"preferred_label": "Joram"
+"preferred_label": "約蘭"
 }
 ]
 }
@@ -19920,21 +19920,21 @@
 "type": "person",
 "confidence": 0.8286,
 "match_method": "embedding",
-"preferred_label": "Josiah"
+"preferred_label": "約西亞"
 },
 {
 "id": "person:Josiah.2",
 "type": "person",
 "confidence": 0.8286,
 "match_method": "embedding",
-"preferred_label": "Josiah"
+"preferred_label": "約西亞"
 },
 {
 "id": "person:Isaiah",
 "type": "person",
 "confidence": 0.8028,
 "match_method": "embedding",
-"preferred_label": "Isaiah"
+"preferred_label": "以賽亞"
 }
 ]
 }

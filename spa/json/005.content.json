@@ -3548,7 +3548,7 @@
 "type": "group",
 "confidence": 0.8594,
 "match_method": "embedding",
-"preferred_label": "Hebrews"
+"preferred_label": "hebreos"
 }
 ]
 }
@@ -47268,28 +47268,28 @@
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliacim"
+"preferred_label": "Eliaquim"
 },
 {
 "id": "person:Eliakim.2",
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliacim"
+"preferred_label": "Eliaquim"
 },
 {
 "id": "person:Eliakim.3",
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliacim"
+"preferred_label": "Eliaquim"
 },
 {
 "id": "person:Eliakim.4",
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliacim"
+"preferred_label": "Eliaquim"
 }
 ]
 }
@@ -47961,7 +47961,7 @@
 "type": "group",
 "confidence": 0.8234,
 "match_method": "embedding",
-"preferred_label": "Judío de habla griega"
+"preferred_label": "helenistas"
 }
 ]
 }
@@ -48050,7 +48050,7 @@
 "type": "person",
 "confidence": 0.8751,
 "match_method": "embedding",
-"preferred_label": "que"
+"preferred_label": "Elmadán"
 }
 ]
 }
@@ -90891,7 +90891,7 @@
 "type": "person",
 "confidence": 0.8091,
 "match_method": "embedding",
-"preferred_label": "que"
+"preferred_label": "Eslí"
 }
 ]
 }
@@ -96535,7 +96535,7 @@
 "type": "person",
 "confidence": 0.8209,
 "match_method": "embedding",
-"preferred_label": "Euodias"
+"preferred_label": "Evodia"
 }
 ]
 }
@@ -99295,7 +99295,7 @@
 "type": "place",
 "confidence": 0.8359,
 "match_method": "embedding",
-"preferred_label": "Efesios"
+"preferred_label": "Éfeso"
 }
 ]
 }

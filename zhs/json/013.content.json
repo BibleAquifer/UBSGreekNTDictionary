@@ -54,7 +54,7 @@
 "type": "person",
 "confidence": 0.8156,
 "match_method": "embedding",
-"preferred_label": "Naggai"
+"preferred_label": "拿该"
 }
 ]
 }
@@ -322,21 +322,21 @@
 "type": "person",
 "confidence": 0.8598,
 "match_method": "embedding",
-"preferred_label": "Naham"
+"preferred_label": "拿含"
 },
 {
 "id": "person:Nahum",
 "type": "person",
 "confidence": 0.8094,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "拿鸿"
 },
 {
 "id": "person:Nahum.2",
 "type": "person",
 "confidence": 0.8094,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "那鸿"
 }
 ]
 }
@@ -397,7 +397,7 @@
 "type": "person",
 "confidence": 0.8203,
 "match_method": "embedding",
-"preferred_label": "Nathanael"
+"preferred_label": "拿但业"
 }
 ]
 }
@@ -642,7 +642,7 @@
 "type": "place",
 "confidence": 0.9236,
 "match_method": "embedding",
-"preferred_label": "Nain"
+"preferred_label": "拿因"
 }
 ]
 }
@@ -924,21 +924,21 @@
 "type": "person",
 "confidence": 0.8813,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "拿鸿"
 },
 {
 "id": "person:Nahum.2",
 "type": "person",
 "confidence": 0.8813,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "那鸿"
 },
 {
 "id": "person:Naham",
 "type": "person",
 "confidence": 0.8309,
 "match_method": "embedding",
-"preferred_label": "Naham"
+"preferred_label": "拿含"
 }
 ]
 }
@@ -2514,7 +2514,7 @@
 "type": "group",
 "confidence": 0.8406,
 "match_method": "embedding",
-"preferred_label": "Nephilim"
+"preferred_label": "伟人"
 }
 ]
 }
@@ -3239,7 +3239,7 @@
 "type": "person",
 "confidence": 0.8011,
 "match_method": "embedding",
-"preferred_label": "Nicanor"
+"preferred_label": "尼迦挪"
 }
 ]
 }
@@ -3478,7 +3478,7 @@
 "type": "person",
 "confidence": 0.8331,
 "match_method": "embedding",
-"preferred_label": "Nicodemus"
+"preferred_label": "尼哥德慕"
 }
 ]
 }
@@ -3538,7 +3538,7 @@
 "type": "person",
 "confidence": 0.8778,
 "match_method": "embedding",
-"preferred_label": "Nicolaus"
+"preferred_label": "尼哥拉"
 }
 ]
 }
@@ -3569,7 +3569,7 @@
 "type": "place",
 "confidence": 0.8727,
 "match_method": "embedding",
-"preferred_label": "Nicopolis"
+"preferred_label": "尼哥波立"
 }
 ]
 }
@@ -5550,7 +5550,7 @@
 "type": "place",
 "confidence": 0.8269,
 "match_method": "embedding",
-"preferred_label": "South"
+"preferred_label": "南方"
 }
 ]
 }

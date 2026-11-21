@@ -70,7 +70,7 @@
 "type": "deity",
 "confidence": 0.8817,
 "match_method": "embedding",
-"preferred_label": "Gabriel"
+"preferred_label": "加百列"
 }
 ]
 }
@@ -1006,14 +1006,14 @@
 "type": "person",
 "confidence": 0.903,
 "match_method": "embedding",
-"preferred_label": "Gamaliel"
+"preferred_label": "迦瑪列"
 },
 {
 "id": "person:Gamaliel.2",
 "type": "person",
 "confidence": 0.903,
 "match_method": "embedding",
-"preferred_label": "Gamaliel"
+"preferred_label": "迦瑪列"
 }
 ]
 }
@@ -7793,7 +7793,7 @@
 "type": "place",
 "confidence": 0.8701,
 "match_method": "embedding",
-"preferred_label": "Gennesaret"
+"preferred_label": "革尼撒勒"
 }
 ]
 }
@@ -16417,7 +16417,7 @@
 "type": "keyterm",
 "confidence": 0.8499,
 "match_method": "embedding",
-"preferred_label": "Letter"
+"preferred_label": "書信（文件）"
 }
 ]
 }

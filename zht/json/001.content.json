@@ -65,7 +65,7 @@
 "type": "person",
 "confidence": 0.8453,
 "match_method": "embedding",
-"preferred_label": "Aaron"
+"preferred_label": "亞倫"
 }
 ]
 }
@@ -724,14 +724,14 @@
 "type": "person",
 "confidence": 0.8148,
 "match_method": "embedding",
-"preferred_label": "Abiram"
+"preferred_label": "亞比蘭（以利押之子）"
 },
 {
 "id": "person:Abiram.2",
 "type": "person",
 "confidence": 0.8148,
 "match_method": "embedding",
-"preferred_label": "Abiram"
+"preferred_label": "亞比蘭（希伊勒之子）"
 }
 ]
 }
@@ -8582,21 +8582,21 @@
 "type": "person",
 "confidence": 0.867,
 "match_method": "embedding",
-"preferred_label": "Adam"
+"preferred_label": "亞當"
 },
 {
 "id": "place:Adam",
 "type": "place",
 "confidence": 0.867,
 "match_method": "embedding",
-"preferred_label": "Adam"
+"preferred_label": "亞當"
 },
 {
 "id": "place:Amad",
 "type": "place",
 "confidence": 0.8531,
 "match_method": "embedding",
-"preferred_label": "Amad"
+"preferred_label": "亞末"
 }
 ]
 }
@@ -12041,7 +12041,7 @@
 "type": "person",
 "confidence": 0.827,
 "match_method": "embedding",
-"preferred_label": "Azor"
+"preferred_label": "亞所"
 }
 ]
 }
@@ -12679,7 +12679,7 @@
 "type": "group",
 "confidence": 0.8063,
 "match_method": "embedding",
-"preferred_label": "Egyptians"
+"preferred_label": "埃及人"
 }
 ]
 }
@@ -13549,7 +13549,7 @@
 "type": "person",
 "confidence": 0.8016,
 "match_method": "embedding",
-"preferred_label": "Aeneas"
+"preferred_label": "以尼雅"
 }
 ]
 }
@@ -32305,35 +32305,35 @@
 "type": "deity",
 "confidence": 0.8594,
 "match_method": "embedding",
-"preferred_label": "Amon"
+"preferred_label": "亞捫"
 },
 {
 "id": "person:Amon.2",
 "type": "person",
 "confidence": 0.8594,
 "match_method": "embedding",
-"preferred_label": "Amon"
+"preferred_label": "亞們"
 },
 {
 "id": "person:Amon.3",
 "type": "person",
 "confidence": 0.8594,
 "match_method": "embedding",
-"preferred_label": "Amon"
+"preferred_label": "亞們（瑪拿西之子）"
 },
 {
 "id": "person:Onam",
 "type": "person",
 "confidence": 0.8046,
 "match_method": "embedding",
-"preferred_label": "Onam"
+"preferred_label": "阿南"
 },
 {
 "id": "person:Onam.2",
 "type": "person",
 "confidence": 0.8046,
 "match_method": "embedding",
-"preferred_label": "Onam"
+"preferred_label": "阿南"
 }
 ]
 }
@@ -32370,7 +32370,7 @@
 "type": "person",
 "confidence": 0.8139,
 "match_method": "embedding",
-"preferred_label": "Amoz"
+"preferred_label": "亞摩斯"
 }
 ]
 }
@@ -36722,35 +36722,35 @@
 "type": "person",
 "confidence": 0.852,
 "match_method": "embedding",
-"preferred_label": "Ananias"
+"preferred_label": "亞拿尼亞"
 },
 {
 "id": "person:Ananias.2",
 "type": "person",
 "confidence": 0.852,
 "match_method": "embedding",
-"preferred_label": "Ananias"
+"preferred_label": "亞拿尼亞"
 },
 {
 "id": "person:Ananias.3",
 "type": "person",
 "confidence": 0.852,
 "match_method": "embedding",
-"preferred_label": "Ananias"
+"preferred_label": "亞拿尼亞"
 },
 {
 "id": "person:Ananiah",
 "type": "person",
 "confidence": 0.8212,
 "match_method": "embedding",
-"preferred_label": "Ananiah"
+"preferred_label": "亞難尼"
 },
 {
 "id": "place:Ananiah",
 "type": "place",
 "confidence": 0.8212,
 "match_method": "embedding",
-"preferred_label": "Ananiah"
+"preferred_label": "亞難雅（便雅憫）"
 }
 ]
 }
@@ -38654,7 +38654,7 @@
 "type": "person",
 "confidence": 0.8744,
 "match_method": "embedding",
-"preferred_label": "Andronicus"
+"preferred_label": "安多尼古"
 }
 ]
 }
@@ -59686,7 +59686,7 @@
 "type": "place",
 "confidence": 0.8035,
 "match_method": "embedding",
-"preferred_label": "Apollonia"
+"preferred_label": "亞波羅尼亞"
 }
 ]
 }
@@ -63969,21 +63969,21 @@
 "type": "person",
 "confidence": 0.9122,
 "match_method": "embedding",
-"preferred_label": "Aram"
+"preferred_label": "亞蘭"
 },
 {
 "id": "person:Aram.2",
 "type": "person",
 "confidence": 0.9122,
 "match_method": "embedding",
-"preferred_label": "Aram"
+"preferred_label": "亞蘭"
 },
 {
 "id": "person:Aram.3",
 "type": "person",
 "confidence": 0.9122,
 "match_method": "embedding",
-"preferred_label": "Aram"
+"preferred_label": "亞蘭"
 }
 ]
 }
@@ -64870,7 +64870,7 @@
 "type": "place",
 "confidence": 0.863,
 "match_method": "embedding",
-"preferred_label": "Arimathea"
+"preferred_label": "亞利馬太"
 }
 ]
 }
@@ -66187,7 +66187,7 @@
 "type": "person",
 "confidence": 0.8502,
 "match_method": "embedding",
-"preferred_label": "Artemas"
+"preferred_label": "亞提馬"
 }
 ]
 }
@@ -66242,14 +66242,14 @@
 "type": "deity",
 "confidence": 0.8376,
 "match_method": "embedding",
-"preferred_label": "Artemis"
+"preferred_label": "亞底米"
 },
 {
 "id": "person:Artemas",
 "type": "person",
 "confidence": 0.8167,
 "match_method": "embedding",
-"preferred_label": "Artemas"
+"preferred_label": "亞提馬"
 }
 ]
 }
@@ -72603,21 +72603,21 @@
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athaliah"
+"preferred_label": "亞她利雅"
 },
 {
 "id": "person:Athaliah.2",
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athaliah"
+"preferred_label": "亞他利雅"
 },
 {
 "id": "person:Athaliah.3",
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athaliah"
+"preferred_label": "亞他利雅"
 }
 ]
 }
@@ -96020,14 +96020,14 @@
 "type": "person",
 "confidence": 0.8514,
 "match_method": "embedding",
-"preferred_label": "Ahaz"
+"preferred_label": "亞哈斯"
 },
 {
 "id": "person:Ahaz.2",
 "type": "person",
 "confidence": 0.8514,
 "match_method": "embedding",
-"preferred_label": "Ahaz"
+"preferred_label": "亞哈斯"
 }
 ]
 }
@@ -96112,7 +96112,7 @@
 "type": "person",
 "confidence": 0.8618,
 "match_method": "embedding",
-"preferred_label": "Ahiah"
+"preferred_label": "亞希雅"
 }
 ]
 }
