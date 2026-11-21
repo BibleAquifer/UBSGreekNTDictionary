@@ -637,28 +637,28 @@
 "type": "person",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Thamar"
+"preferred_label": "Tamar"
 },
 {
 "id": "person:Tamar.2",
 "type": "person",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Thamar"
+"preferred_label": "Tamar"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Thamar"
+"preferred_label": "Tamar"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Thamar"
+"preferred_label": "Tamar"
 }
 ]
 }
@@ -2363,7 +2363,7 @@
 "type": "realia",
 "confidence": 0.8328,
 "match_method": "embedding",
-"preferred_label": "Theater"
+"preferred_label": "teatro"
 }
 ]
 }

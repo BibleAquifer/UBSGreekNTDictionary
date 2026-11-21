@@ -18242,7 +18242,7 @@
 "type": "place",
 "confidence": 0.8108,
 "match_method": "embedding",
-"preferred_label": "Patara"
+"preferred_label": "帕大喇"
 }
 ]
 }
@@ -32972,7 +32972,7 @@
 "type": "place",
 "confidence": 0.8394,
 "match_method": "embedding",
-"preferred_label": "Pisidia"
+"preferred_label": "彼西底"
 }
 ]
 }
@@ -66244,7 +66244,7 @@
 "type": "keyterm",
 "confidence": 0.8162,
 "match_method": "embedding",
-"preferred_label": "Offering"
+"preferred_label": "供物"
 }
 ]
 }

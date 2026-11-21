@@ -778,7 +778,7 @@
 "type": "person",
 "confidence": 0.8365,
 "match_method": "embedding",
-"preferred_label": "Phanuel"
+"preferred_label": "Fanuel"
 }
 ]
 }
@@ -4168,7 +4168,7 @@
 "type": "group",
 "confidence": 0.8537,
 "match_method": "embedding",
-"preferred_label": "filipense"
+"preferred_label": "filipenses"
 }
 ]
 }
@@ -7684,7 +7684,7 @@
 "type": "realia",
 "confidence": 0.8502,
 "match_method": "embedding",
-"preferred_label": "Prison"
+"preferred_label": "prisión"
 }
 ]
 }

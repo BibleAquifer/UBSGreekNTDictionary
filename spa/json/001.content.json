@@ -8582,21 +8582,21 @@
 "type": "person",
 "confidence": 0.867,
 "match_method": "embedding",
-"preferred_label": "Adam"
+"preferred_label": "Adán"
 },
 {
 "id": "place:Adam",
 "type": "place",
 "confidence": 0.867,
 "match_method": "embedding",
-"preferred_label": "Adam"
+"preferred_label": "Adán"
 },
 {
 "id": "place:Amad",
 "type": "place",
 "confidence": 0.8531,
 "match_method": "embedding",
-"preferred_label": "Amead"
+"preferred_label": "Amad"
 }
 ]
 }
@@ -12679,7 +12679,7 @@
 "type": "group",
 "confidence": 0.8063,
 "match_method": "embedding",
-"preferred_label": "Egipto"
+"preferred_label": "egipcios"
 }
 ]
 }
@@ -32370,7 +32370,7 @@
 "type": "person",
 "confidence": 0.8139,
 "match_method": "embedding",
-"preferred_label": "Amós"
+"preferred_label": "Amoz"
 }
 ]
 }
@@ -66242,7 +66242,7 @@
 "type": "deity",
 "confidence": 0.8376,
 "match_method": "embedding",
-"preferred_label": "Diana"
+"preferred_label": "Artemisa"
 },
 {
 "id": "person:Artemas",
@@ -72603,21 +72603,21 @@
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athalía"
+"preferred_label": "Atalía"
 },
 {
 "id": "person:Athaliah.2",
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athalía"
+"preferred_label": "Atalías"
 },
 {
 "id": "person:Athaliah.3",
 "type": "person",
 "confidence": 0.8087,
 "match_method": "embedding",
-"preferred_label": "Athalía"
+"preferred_label": "Atalías"
 }
 ]
 }
@@ -96020,14 +96020,14 @@
 "type": "person",
 "confidence": 0.8514,
 "match_method": "embedding",
-"preferred_label": "Achâz"
+"preferred_label": "Acaz"
 },
 {
 "id": "person:Ahaz.2",
 "type": "person",
 "confidence": 0.8514,
 "match_method": "embedding",
-"preferred_label": "Achâz"
+"preferred_label": "Acaz"
 }
 ]
 }
@@ -96112,7 +96112,7 @@
 "type": "person",
 "confidence": 0.8618,
 "match_method": "embedding",
-"preferred_label": "Ahijas"
+"preferred_label": "Ahías"
 }
 ]
 }

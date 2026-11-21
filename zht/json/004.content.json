@@ -763,7 +763,7 @@
 "type": "place",
 "confidence": 0.8487,
 "match_method": "embedding",
-"preferred_label": "Dalmatia"
+"preferred_label": "撻馬太"
 }
 ]
 }
@@ -852,7 +852,7 @@
 "type": "person",
 "confidence": 0.8661,
 "match_method": "embedding",
-"preferred_label": "Damaris"
+"preferred_label": "大馬哩"
 }
 ]
 }
@@ -1071,14 +1071,14 @@
 "type": "person",
 "confidence": 0.9053,
 "match_method": "embedding",
-"preferred_label": "Daniel"
+"preferred_label": "但以理"
 },
 {
 "id": "person:Daniel.3",
 "type": "person",
 "confidence": 0.9053,
 "match_method": "embedding",
-"preferred_label": "Daniel"
+"preferred_label": "但以理"
 }
 ]
 }
@@ -1520,7 +1520,7 @@
 "type": "person",
 "confidence": 0.8085,
 "match_method": "embedding",
-"preferred_label": "David"
+"preferred_label": "大衛"
 }
 ]
 }
@@ -15705,7 +15705,7 @@
 "type": "person",
 "confidence": 0.8327,
 "match_method": "embedding",
-"preferred_label": "Secundus"
+"preferred_label": "西公都"
 }
 ]
 }
@@ -16491,7 +16491,7 @@
 "type": "person",
 "confidence": 0.8129,
 "match_method": "embedding",
-"preferred_label": "Demetrius"
+"preferred_label": "底米丟"
 }
 ]
 }
@@ -29859,7 +29859,7 @@
 "type": "person",
 "confidence": 0.9099,
 "match_method": "embedding",
-"preferred_label": "Dionysius"
+"preferred_label": "丟尼修"
 }
 ]
 }

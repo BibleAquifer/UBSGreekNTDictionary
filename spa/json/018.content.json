@@ -712,7 +712,7 @@
 "type": "place",
 "confidence": 0.8096,
 "match_method": "embedding",
-"preferred_label": "Jocteel"
+"preferred_label": "Sela"
 }
 ]
 }
@@ -940,7 +940,7 @@
 "type": "person",
 "confidence": 0.809,
 "match_method": "embedding",
-"preferred_label": "Salma"
+"preferred_label": "Salmá"
 }
 ]
 }
@@ -4058,7 +4058,7 @@
 "type": "person",
 "confidence": 0.8636,
 "match_method": "embedding",
-"preferred_label": "que"
+"preferred_label": "Semeí"
 },
 {
 "id": "person:Simeon.2",
@@ -5657,7 +5657,7 @@
 "type": "place",
 "confidence": 0.8852,
 "match_method": "embedding",
-"preferred_label": "Siloam"
+"preferred_label": "Siloé"
 }
 ]
 }
@@ -25790,7 +25790,7 @@
 "type": "person",
 "confidence": 0.8059,
 "match_method": "embedding",
-"preferred_label": "Husband"
+"preferred_label": "Esposo"
 }
 ]
 }

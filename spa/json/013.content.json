@@ -329,14 +329,14 @@
 "type": "person",
 "confidence": 0.8094,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "Nahúm"
 },
 {
 "id": "person:Nahum.2",
 "type": "person",
 "confidence": 0.8094,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "Nahúm"
 }
 ]
 }
@@ -924,14 +924,14 @@
 "type": "person",
 "confidence": 0.8813,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "Nahúm"
 },
 {
 "id": "person:Nahum.2",
 "type": "person",
 "confidence": 0.8813,
 "match_method": "embedding",
-"preferred_label": "Nahum"
+"preferred_label": "Nahúm"
 },
 {
 "id": "person:Naham",
@@ -2514,7 +2514,7 @@
 "type": "group",
 "confidence": 0.8406,
 "match_method": "embedding",
-"preferred_label": "Nephilim"
+"preferred_label": "nefilim"
 }
 ]
 }
@@ -5550,7 +5550,7 @@
 "type": "place",
 "confidence": 0.8269,
 "match_method": "embedding",
-"preferred_label": "South"
+"preferred_label": "Sur"
 }
 ]
 }

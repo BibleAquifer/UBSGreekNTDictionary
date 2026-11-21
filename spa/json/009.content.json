@@ -540,7 +540,7 @@
 "type": "person",
 "confidence": 0.8033,
 "match_method": "embedding",
-"preferred_label": "que"
+"preferred_label": "Janay"
 }
 ]
 }
@@ -13298,7 +13298,7 @@
 "type": "place",
 "confidence": 0.8283,
 "match_method": "embedding",
-"preferred_label": "Joppe"
+"preferred_label": "Jope"
 }
 ]
 }
@@ -16427,7 +16427,7 @@
 "type": "group",
 "confidence": 0.848,
 "match_method": "embedding",
-"preferred_label": "Israel"
+"preferred_label": "israelitas"
 }
 ]
 }
@@ -17896,7 +17896,7 @@
 "type": "group",
 "confidence": 0.8768,
 "match_method": "embedding",
-"preferred_label": "Italiano"
+"preferred_label": "italianos"
 }
 ]
 }
@@ -18139,21 +18139,21 @@
 "type": "person",
 "confidence": 0.856,
 "match_method": "embedding",
-"preferred_label": "Jotham"
+"preferred_label": "Jotán"
 },
 {
 "id": "person:Jotham.2",
 "type": "person",
 "confidence": 0.856,
 "match_method": "embedding",
-"preferred_label": "Jotham"
+"preferred_label": "Jotán"
 },
 {
 "id": "person:Jotham.3",
 "type": "person",
 "confidence": 0.856,
 "match_method": "embedding",
-"preferred_label": "Jotham"
+"preferred_label": "Jotán"
 }
 ]
 }
@@ -18200,7 +18200,7 @@
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Que"
+"preferred_label": "Joanán"
 }
 ]
 }
@@ -19263,7 +19263,7 @@
 "type": "person",
 "confidence": 0.8639,
 "match_method": "embedding",
-"preferred_label": "Maat"
+"preferred_label": "Jodá"
 }
 ]
 }
@@ -19432,7 +19432,7 @@
 "type": "person",
 "confidence": 0.883,
 "match_method": "embedding",
-"preferred_label": "que"
+"preferred_label": "Jonán"
 }
 ]
 }

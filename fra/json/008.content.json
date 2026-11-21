@@ -658,7 +658,7 @@
 "type": "place",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Tamar"
+"preferred_label": "Thamar"
 }
 ]
 }
@@ -2363,7 +2363,7 @@
 "type": "realia",
 "confidence": 0.8328,
 "match_method": "embedding",
-"preferred_label": "Theater"
+"preferred_label": "théâtre"
 }
 ]
 }

@@ -13298,7 +13298,7 @@
 "type": "place",
 "confidence": 0.8283,
 "match_method": "embedding",
-"preferred_label": "Joppa"
+"preferred_label": "Joppé"
 }
 ]
 }
@@ -16348,7 +16348,7 @@
 "type": "place",
 "confidence": 0.827,
 "match_method": "embedding",
-"preferred_label": "Israel"
+"preferred_label": "Israël"
 }
 ]
 }
@@ -16427,7 +16427,7 @@
 "type": "group",
 "confidence": 0.848,
 "match_method": "embedding",
-"preferred_label": "Israël"
+"preferred_label": "Israélites"
 }
 ]
 }
@@ -17896,7 +17896,7 @@
 "type": "group",
 "confidence": 0.8768,
 "match_method": "embedding",
-"preferred_label": "italien"
+"preferred_label": "Italiens"
 }
 ]
 }

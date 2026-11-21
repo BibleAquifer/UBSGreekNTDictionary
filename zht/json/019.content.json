@@ -926,7 +926,7 @@
 "type": "place",
 "confidence": 0.8485,
 "match_method": "embedding",
-"preferred_label": "Tarsus"
+"preferred_label": "大數"
 }
 ]
 }
@@ -6082,7 +6082,7 @@
 "type": "person",
 "confidence": 0.869,
 "match_method": "embedding",
-"preferred_label": "Tiberius"
+"preferred_label": "提庇留"
 }
 ]
 }
@@ -6860,7 +6860,7 @@
 "type": "person",
 "confidence": 0.8159,
 "match_method": "embedding",
-"preferred_label": "Timaeus"
+"preferred_label": "底買"
 }
 ]
 }
@@ -12500,7 +12500,7 @@
 "type": "person",
 "confidence": 0.8163,
 "match_method": "embedding",
-"preferred_label": "Titus"
+"preferred_label": "提多"
 }
 ]
 }

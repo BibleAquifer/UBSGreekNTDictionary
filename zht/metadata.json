@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "UBSGreekNTDictionary",
-"date_created": "2026-09-18",
+"date_created": "2026-11-20",
 "language": "zht",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T10:40:28.421918"
+"dateCreated": "2026-11-20T19:34:13.501466"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "UBSGreekNTDictionary": {
-"timestamp": "2026-09-18T10:40:28.421918"
+"timestamp": "2026-11-20T19:34:13.501466"
 }
 }
 },
@@ -5981,27 +5981,27 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 151682
+"size": 151707
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 159335
+"size": 159459
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 170644
+"size": 170662
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 376499
+"size": 376510
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 190665
+"size": 190689
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 797594
+"size": 797597
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
@@ -6013,31 +6013,31 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 638157
+"size": 638174
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 989058
+"size": 989283
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 142076
+"size": 142091
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 132245
+"size": 132251
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 286856
+"size": 286877
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 807391
+"size": 807392
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 57127
+"size": 57132
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
@@ -6053,7 +6053,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1018662
+"size": 1018841
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -6061,19 +6061,19 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 87421
+"size": 87458
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 121469
+"size": 121468
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 201057
+"size": 201058
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 457482
+"size": 457505
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

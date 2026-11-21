@@ -3548,7 +3548,7 @@
 "type": "group",
 "confidence": 0.8594,
 "match_method": "embedding",
-"preferred_label": "Hebrews"
+"preferred_label": "希伯來人"
 }
 ]
 }
@@ -46046,133 +46046,133 @@
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eleazar.2",
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eleazar.3",
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eleazar.4",
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eleazar.5",
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eleazar.6",
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eleazar.7",
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eleazar.8",
 "type": "person",
 "confidence": 0.8958,
 "match_method": "embedding",
-"preferred_label": "Eleazar"
+"preferred_label": "以利亞撒"
 },
 {
 "id": "person:Eliezer",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.10",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.11",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.2",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.3",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.4",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.5",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.6",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.7",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.8",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.9",
 "type": "person",
 "confidence": 0.8021,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 }
 ]
 }
@@ -47268,28 +47268,28 @@
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliakim"
+"preferred_label": "以利亞敬"
 },
 {
 "id": "person:Eliakim.2",
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliakim"
+"preferred_label": "以利亞敬（米利亞的兒子）"
 },
 {
 "id": "person:Eliakim.3",
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliakim"
+"preferred_label": "以利亞敬"
 },
 {
 "id": "person:Eliakim.4",
 "type": "person",
 "confidence": 0.8574,
 "match_method": "embedding",
-"preferred_label": "Eliakim"
+"preferred_label": "以利亞金"
 }
 ]
 }
@@ -47343,77 +47343,77 @@
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.10",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.11",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.2",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.3",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.4",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.5",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.6",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.7",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.8",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 },
 {
 "id": "person:Eliezer.9",
 "type": "person",
 "confidence": 0.815,
 "match_method": "embedding",
-"preferred_label": "Eliezer"
+"preferred_label": "以利以謝"
 }
 ]
 }
@@ -47961,7 +47961,7 @@
 "type": "group",
 "confidence": 0.8234,
 "match_method": "embedding",
-"preferred_label": "Hellenists"
+"preferred_label": "說希臘話的猶太人"
 }
 ]
 }
@@ -48050,7 +48050,7 @@
 "type": "person",
 "confidence": 0.8751,
 "match_method": "embedding",
-"preferred_label": "Elmadam"
+"preferred_label": "以摩當"
 }
 ]
 }
@@ -90891,7 +90891,7 @@
 "type": "person",
 "confidence": 0.8091,
 "match_method": "embedding",
-"preferred_label": "Esli"
+"preferred_label": "以斯利"
 }
 ]
 }
@@ -96535,7 +96535,7 @@
 "type": "person",
 "confidence": 0.8209,
 "match_method": "embedding",
-"preferred_label": "Euodia"
+"preferred_label": "友阿蝶"
 }
 ]
 }
@@ -99295,7 +99295,7 @@
 "type": "place",
 "confidence": 0.8359,
 "match_method": "embedding",
-"preferred_label": "Ephesus"
+"preferred_label": "以弗所"
 }
 ]
 }

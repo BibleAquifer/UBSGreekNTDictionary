@@ -64,7 +64,7 @@
 "type": "place",
 "confidence": 0.8176,
 "match_method": "embedding",
-"preferred_label": "Magdalá"
+"preferred_label": "Magadán"
 }
 ]
 }
@@ -240,7 +240,7 @@
 "type": "place",
 "confidence": 0.8275,
 "match_method": "embedding",
-"preferred_label": "Magdalá"
+"preferred_label": "Magadán"
 }
 ]
 }
@@ -2029,14 +2029,14 @@
 "type": "person",
 "confidence": 0.8568,
 "match_method": "embedding",
-"preferred_label": "Mahath"
+"preferred_label": "Mahat"
 },
 {
 "id": "person:Mahath.3",
 "type": "person",
 "confidence": 0.8568,
 "match_method": "embedding",
-"preferred_label": "Mahath"
+"preferred_label": "Mahat"
 }
 ]
 }
@@ -3953,7 +3953,7 @@
 "type": "person",
 "confidence": 0.9076,
 "match_method": "embedding",
-"preferred_label": "Manahén"
+"preferred_label": "Manaén"
 }
 ]
 }
@@ -6272,14 +6272,14 @@
 "type": "person",
 "confidence": 0.9116,
 "match_method": "embedding",
-"preferred_label": "Mathán"
+"preferred_label": "Matán"
 },
 {
 "id": "person:Mattan.2",
 "type": "person",
 "confidence": 0.9116,
 "match_method": "embedding",
-"preferred_label": "Mathán"
+"preferred_label": "Matán"
 }
 ]
 }
@@ -6310,14 +6310,14 @@
 "type": "person",
 "confidence": 0.8607,
 "match_method": "embedding",
-"preferred_label": "fué"
+"preferred_label": "Matat"
 },
 {
 "id": "person:Matthat.2",
 "type": "person",
 "confidence": 0.8607,
 "match_method": "embedding",
-"preferred_label": "fué"
+"preferred_label": "Matat"
 }
 ]
 }
@@ -6354,21 +6354,21 @@
 "type": "person",
 "confidence": 0.8255,
 "match_method": "embedding",
-"preferred_label": "Mathatha"
+"preferred_label": "Matatá"
 },
 {
 "id": "person:Mattathias",
 "type": "person",
 "confidence": 0.825,
 "match_method": "embedding",
-"preferred_label": "fué"
+"preferred_label": "Matatías"
 },
 {
 "id": "person:Mattathias.2",
 "type": "person",
 "confidence": 0.825,
 "match_method": "embedding",
-"preferred_label": "fué"
+"preferred_label": "Matatías"
 }
 ]
 }
@@ -24206,7 +24206,7 @@
 "type": "person",
 "confidence": 0.89,
 "match_method": "embedding",
-"preferred_label": "Michâl"
+"preferred_label": "Mical"
 }
 ]
 }

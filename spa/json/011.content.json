@@ -21617,14 +21617,14 @@
 "type": "place",
 "confidence": 0.852,
 "match_method": "embedding",
-"preferred_label": "Lydia"
+"preferred_label": "Lidia"
 },
 {
 "id": "place:Lycia",
 "type": "place",
 "confidence": 0.8003,
 "match_method": "embedding",
-"preferred_label": "ciudad"
+"preferred_label": "Licia"
 }
 ]
 }
@@ -21709,7 +21709,7 @@
 "type": "place",
 "confidence": 0.8538,
 "match_method": "embedding",
-"preferred_label": "ciudad"
+"preferred_label": "Licia"
 }
 ]
 }

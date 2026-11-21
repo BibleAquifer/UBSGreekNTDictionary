@@ -27438,7 +27438,7 @@
 "type": "person",
 "confidence": 0.8843,
 "match_method": "embedding",
-"preferred_label": "Cain"
+"preferred_label": "該隱"
 }
 ]
 }
@@ -32112,7 +32112,7 @@
 "type": "place",
 "confidence": 0.8975,
 "match_method": "embedding",
-"preferred_label": "Cana"
+"preferred_label": "迦拿"
 }
 ]
 }
@@ -46093,7 +46093,7 @@
 "type": "place",
 "confidence": 0.8124,
 "match_method": "embedding",
-"preferred_label": "Cilicia"
+"preferred_label": "基利家"
 }
 ]
 }
@@ -49746,7 +49746,7 @@
 "type": "place",
 "confidence": 0.8044,
 "match_method": "embedding",
-"preferred_label": "Colossae"
+"preferred_label": "歌羅西"
 }
 ]
 }
@@ -50903,7 +50903,7 @@
 "type": "person",
 "confidence": 0.8488,
 "match_method": "embedding",
-"preferred_label": "Cornelius"
+"preferred_label": "哥尼流"
 }
 ]
 }
@@ -53641,7 +53641,7 @@
 "type": "place",
 "confidence": 0.9258,
 "match_method": "embedding",
-"preferred_label": "Crete"
+"preferred_label": "克里特"
 }
 ]
 }
@@ -56421,7 +56421,7 @@
 "type": "place",
 "confidence": 0.8998,
 "match_method": "embedding",
-"preferred_label": "Cyprus"
+"preferred_label": "塞浦路斯"
 }
 ]
 }

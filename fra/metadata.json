@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "UBSGreekNTDictionary",
-"date_created": "2026-09-18",
+"date_created": "2026-11-20",
 "language": "fra",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T10:40:14.191375"
+"dateCreated": "2026-11-20T19:33:57.860019"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "UBSGreekNTDictionary": {
-"timestamp": "2026-09-18T10:40:14.191375"
+"timestamp": "2026-11-20T19:33:57.860019"
 }
 }
 },
@@ -5981,15 +5981,15 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 151034
+"size": 151037
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 145513
+"size": 145520
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 170464
+"size": 170450
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -6017,7 +6017,7 @@
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 944634
+"size": 944625
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
@@ -6033,7 +6033,7 @@
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 737808
+"size": 737809
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
@@ -6053,7 +6053,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1047562
+"size": 1047566
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -6061,11 +6061,11 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 87869
+"size": 87868
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 123248
+"size": 123249
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
@@ -6073,7 +6073,7 @@
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 470640
+"size": 470638
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

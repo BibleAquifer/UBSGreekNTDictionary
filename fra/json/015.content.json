@@ -45676,7 +45676,7 @@
 "type": "realia",
 "confidence": 0.8191,
 "match_method": "embedding",
-"preferred_label": "House"
+"preferred_label": "maison"
 }
 ]
 }

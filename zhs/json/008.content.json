@@ -637,28 +637,28 @@
 "type": "person",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Tamar"
+"preferred_label": "她玛"
 },
 {
 "id": "person:Tamar.2",
 "type": "person",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Tamar"
+"preferred_label": "她玛"
 },
 {
 "id": "person:Tamar.3",
 "type": "person",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Tamar"
+"preferred_label": "她玛"
 },
 {
 "id": "place:Tamar.2",
 "type": "place",
 "confidence": 0.8125,
 "match_method": "embedding",
-"preferred_label": "Tamar"
+"preferred_label": "他玛（以西结书）"
 }
 ]
 }
@@ -2363,7 +2363,7 @@
 "type": "realia",
 "confidence": 0.8328,
 "match_method": "embedding",
-"preferred_label": "Theater"
+"preferred_label": "戏院"
 }
 ]
 }
@@ -14477,7 +14477,7 @@
 "type": "place",
 "confidence": 0.8424,
 "match_method": "embedding",
-"preferred_label": "Thyatira"
+"preferred_label": "推雅推喇"
 }
 ]
 }

@@ -150,14 +150,14 @@
 "type": "person",
 "confidence": 0.9065,
 "match_method": "embedding",
-"preferred_label": "Lazarus"
+"preferred_label": "拉撒路"
 },
 {
 "id": "person:Lazarus.2",
 "type": "person",
 "confidence": 0.9065,
 "match_method": "embedding",
-"preferred_label": "Lazarus"
+"preferred_label": "拉撒路"
 }
 ]
 }
@@ -16905,21 +16905,21 @@
 "type": "person",
 "confidence": 0.8155,
 "match_method": "embedding",
-"preferred_label": "Bela"
+"preferred_label": "比拉"
 },
 {
 "id": "person:Bela.2",
 "type": "person",
 "confidence": 0.8155,
 "match_method": "embedding",
-"preferred_label": "Bela"
+"preferred_label": "比拉"
 },
 {
 "id": "person:Bela.3",
 "type": "person",
 "confidence": 0.8155,
 "match_method": "embedding",
-"preferred_label": "Bela"
+"preferred_label": "比拉"
 }
 ]
 }
@@ -21610,21 +21610,21 @@
 "type": "person",
 "confidence": 0.852,
 "match_method": "embedding",
-"preferred_label": "Lydia"
+"preferred_label": "呂底亞"
 },
 {
 "id": "place:Lydia",
 "type": "place",
 "confidence": 0.852,
 "match_method": "embedding",
-"preferred_label": "Lydia"
+"preferred_label": "呂底亞"
 },
 {
 "id": "place:Lycia",
 "type": "place",
 "confidence": 0.8003,
 "match_method": "embedding",
-"preferred_label": "Lycia"
+"preferred_label": "呂家"
 }
 ]
 }
@@ -21655,7 +21655,7 @@
 "type": "place",
 "confidence": 0.8855,
 "match_method": "embedding",
-"preferred_label": "Lycaonia"
+"preferred_label": "呂高尼"
 }
 ]
 }
@@ -21709,7 +21709,7 @@
 "type": "place",
 "confidence": 0.8538,
 "match_method": "embedding",
-"preferred_label": "Lycia"
+"preferred_label": "呂家"
 }
 ]
 }
@@ -22048,7 +22048,7 @@
 "type": "person",
 "confidence": 0.8189,
 "match_method": "embedding",
-"preferred_label": "Lysanias"
+"preferred_label": "呂撒聶"
 }
 ]
 }
@@ -22764,7 +22764,7 @@
 "type": "person",
 "confidence": 0.8312,
 "match_method": "embedding",
-"preferred_label": "Lois"
+"preferred_label": "羅以"
 }
 ]
 }

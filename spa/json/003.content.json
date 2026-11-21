@@ -7793,7 +7793,7 @@
 "type": "place",
 "confidence": 0.8701,
 "match_method": "embedding",
-"preferred_label": "Genezaret"
+"preferred_label": "Genesaret"
 }
 ]
 }
@@ -16417,7 +16417,7 @@
 "type": "keyterm",
 "confidence": 0.8499,
 "match_method": "embedding",
-"preferred_label": "letra"
+"preferred_label": "carta"
 }
 ]
 }

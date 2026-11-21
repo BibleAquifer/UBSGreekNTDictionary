@@ -41,21 +41,21 @@
 "type": "deity",
 "confidence": 0.8094,
 "match_method": "embedding",
-"preferred_label": "Baal"
+"preferred_label": "巴力"
 },
 {
 "id": "person:Baal",
 "type": "person",
 "confidence": 0.8094,
 "match_method": "embedding",
-"preferred_label": "Baal"
+"preferred_label": "巴力"
 },
 {
 "id": "person:Baal.2",
 "type": "person",
 "confidence": 0.8094,
 "match_method": "embedding",
-"preferred_label": "Baal"
+"preferred_label": "巴力"
 }
 ]
 }
@@ -356,7 +356,7 @@
 "type": "person",
 "confidence": 0.8691,
 "match_method": "embedding",
-"preferred_label": "Balaam"
+"preferred_label": "巴兰"
 }
 ]
 }
@@ -1849,7 +1849,7 @@
 "type": "person",
 "confidence": 0.8102,
 "match_method": "embedding",
-"preferred_label": "Barabbas"
+"preferred_label": "巴拉巴"
 }
 ]
 }
@@ -1880,7 +1880,7 @@
 "type": "person",
 "confidence": 0.8213,
 "match_method": "embedding",
-"preferred_label": "Barak"
+"preferred_label": "巴拉"
 }
 ]
 }
@@ -2081,7 +2081,7 @@
 "type": "person",
 "confidence": 0.8032,
 "match_method": "embedding",
-"preferred_label": "Bartholomew"
+"preferred_label": "巴多罗买"
 }
 ]
 }
@@ -2314,7 +2314,7 @@
 "type": "person",
 "confidence": 0.8019,
 "match_method": "embedding",
-"preferred_label": "Barnabas"
+"preferred_label": "巴拿巴"
 }
 ]
 }
@@ -5568,7 +5568,7 @@
 "type": "person",
 "confidence": 0.8302,
 "match_method": "embedding",
-"preferred_label": "Biztha"
+"preferred_label": "比斯他"
 }
 ]
 }
@@ -6590,7 +6590,7 @@
 "type": "keyterm",
 "confidence": 0.8908,
 "match_method": "embedding",
-"preferred_label": "Life"
+"preferred_label": "生命"
 }
 ]
 }
